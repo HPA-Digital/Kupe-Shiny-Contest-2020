@@ -1,0 +1,1088 @@
+* {
+  color: #494949;
+  font-family: "ars-maquette-web";
+}
+
+body:not(.modal-open) {
+  padding: 0 !important;
+}
+
+
+a {
+  color: #494949;
+  transition: all 0.153s ease;
+}
+
+a:hover, a:active {
+  color: #02a7c9;
+  text-decoration: none;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main {
+  background: #f5f5f5;
+}
+
+.header-main {
+    height: 120px;
+    padding: 0 6%;
+    border-bottom: solid 1px #f5f5f5;
+    background: #fff;
+}
+
+.mobile-menu-button {
+    display: none;
+  }
+  
+  .mobile-menu {
+    display: none;
+  }
+
+
+.menu-items {
+  list-style: none;
+  padding: 20px 0;
+    text-align: left;
+    margin-bottom: 0;
+
+}
+
+.logo img {
+    height: 100%;
+    margin-top: -2%;
+    margin-left: -18px;
+}
+
+.menu-item {
+  display: inline;
+      float: right;
+    margin: 0 20px;
+}
+
+
+.header-main ul {
+        margin: 35px 0 0 0;
+    position: relative;
+    float: right;
+
+}
+
+
+.menu-item div{
+     padding: 7px;
+    font-weight: normal;
+    font-size: 14px;
+    display: inline;
+    padding-right: 4%;
+    color: #767676;
+}
+
+.menu-item button {
+  border: none;
+    background: none;
+    transition: all 0.153s ease;
+}
+
+.header-main .divider {
+    border-left: solid 2px #cecece;
+}
+
+.menu-item button {
+    color: #767676;
+}
+
+.menu-item button:hover {
+    color: #02a7c9;
+}
+
+.card {
+    border: 1px solid #d2d2d2;
+    padding: 0;
+    margin-top: 0;
+    background: #ffffff;
+        max-width: 30%;
+    min-width: 30%;
+        padding: 1px;
+}
+
+@media (max-width: 1268px){
+  .card {
+        min-width: 40%;
+    max-width: 45%;
+  }
+  
+}
+
+.card-placeholder {
+  background: #0093b2;
+  width: 100%;
+  height: 200px;
+}
+
+.card-topic {
+     padding: 5% 5% 0 5%;;
+}
+
+#splash-topicCards .card-topic h4 {
+    font-size: 30px;
+}
+
+.card-topic h4 {
+        font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    padding-left: 60px;
+}
+
+.card-icon {
+    height: 50px;
+    width: 50px;
+    
+    float: left;
+    margin: -2px 5px 0px 0;
+    border-radius: 50%;
+}
+
+
+.card p {
+      font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+
+.card .subtitle {
+    font-weight: bold;
+    font-size: 24px;
+    color: #494949;
+        padding: 0 23px 25px 23px;
+    margin: 0 1px;
+    background: #fff;
+    /*height: 95px; */
+  
+}
+
+.link-overlay {
+      height: calc(100% + 2px);
+    position: relative;
+    top: calc(-100% - 1px);
+    left: -1px;
+    width: calc(100% + 2px);
+    opacity: 0.5;
+    transition: all 0.4s ease;
+}
+
+#topic-link {
+  position: absolute;
+    top: calc(50% - 30px);
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    color: white;
+    opacity: 0;
+      transition: all 0.2s ease;
+}
+
+#topic-link i {
+  color: white;
+}
+
+.link-overlay:hover {
+  background: #333333;
+}
+
+.link-overlay:hover  #topic-link {
+  opacity: 1;
+}
+
+.dataTable a {
+    color: #02a7c9;
+}
+
+
+button.secondary{
+      border-radius: 3px;
+    background: transparent;
+    border: 1px solid;
+}
+
+.white {
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.link {
+  margin: 0 2px;
+  color: #ffffff;
+}
+
+
+.filter-body {
+  display: flex;
+}
+
+.breadcrumb {
+  background: white;
+  padding-left: 0;
+
+}
+
+.breadcrumb span:first-of-type {
+  margin-left: 0;
+}
+
+
+.breadcrumb a {
+  color: #02a7c9;
+}
+
+.breadcrumb a i{
+  color: #0080A4;
+}
+
+.breadcrumb a:hover i {
+  color: #02a7c9;
+  
+}
+
+.breadcrumb .breadcrumb-focus {
+  font-weight: bold;
+  color: #aaaaaa;
+    
+}
+.breadcrumb-item {
+    margin: 0 10px;
+    color: #337ab7;
+        
+}
+
+.topic-icon {
+  height: 100%;
+  border-radius: 25%;
+}
+
+
+.topic-heading-icon {
+  height: 55px;
+  float: left;
+  margin-left: -9px;
+}
+
+.topic-title {
+    font-size: 26px;
+        margin-top: 7px;
+    margin-left: 10px;
+    height: 100%;
+    float: left;
+}
+
+.subtopic-title {
+  font-weight: 600;
+}
+
+
+.subtopic-card-container {
+  flex: unset;
+}
+
+.graphic {
+        width: calc(100% + 50px);
+    position: relative;
+    left: -25px;
+    height: auto;
+    background: #f5f5f5;
+    padding: 15px 5px 0 5px;
+    margin: 0 auto;      
+}
+
+.graphic-heading {
+  width: 100%;
+  background: #f5f5f5;
+  padding: 0 22px;
+  color: #494949;
+  font-family: "ars-maquette-web";
+  font-size: 15px;
+}
+
+.graphic-image img {
+    width: 100%;
+    padding-top: 25px;
+}
+
+/*CHANGE float: right */
+#exploreTopics-groupSelect {
+    float: center;
+  }
+
+/*.expanding-content .def-div-table-col-1 p.def-p-margin {
+  padding-right: 40px;
+    text-align: right;
+
+}
+
+*/
+
+.expanded-link {
+  color: #02a7c9;
+  font-stye: underline;
+}
+
+.option-title {
+    margin-left: -40px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    display: block;
+}
+
+.expanded-link::after {
+  display: none ;
+}
+
+.source  {
+    margin-bottom: 30px;
+    color: #aaaaaa;
+}
+  
+
+.time-series-error {
+  height: 60px;
+  width: 100%;
+  /* background: #0093b2; */
+  font-size: 25px;
+  border: 1px solid;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.large-title {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.reference-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.reference-list li {
+  padding-bottom: 5px;
+}
+
+.reference-list a {
+  color: #0080A4;
+}
+
+.modal-header .close {
+    margin-top: 20px;
+    opacity: 0.8;
+      font-size: 30px;
+}
+
+.modal-body {
+  padding-top: 0;
+  padding-bottom: 30px;
+  
+}
+
+
+.modal-body h3 {
+  margin-top: 0;
+}
+
+.survey-heading h3 {
+      font-weight: 600;
+}
+
+select, .selectize-input {
+    border: none !important;
+    box-shadow: none !important;
+    border-bottom: #02a7c9 4px solid !important;
+    font-weight: 600 !important;
+    background: transparent !important;
+    padding-left: 0 !important;
+}
+
+
+
+/*CHANGE change from th.dt-right to th.dt-center*/
+table.dataTable th.dt-center, table.dataTable td.dt-center {
+    text-align: center;
+}
+
+.def-div-table-col-2 p, .def-div-table-col-1 p {
+    margin-bottom: 0;
+}
+
+/*CHANGE change from def-div-table-row-right to def-div-table-row-center*/
+.def-div-table-row-center .def-div-table-col-2 {
+    margin-bottom: 16px;
+}
+
+/*CHANGE change from text-align: right to  text-align: center;*/
+.def-div-table-col-1 .def-p-margin {
+    text-align: center;
+    margin-right: 40px;
+}
+
+
+/*=== Explore Indicators: Prevalence/Mean table styling ==== */
+
+/*By default, align headings to the right. All headings that arent supposed to be right-aligned (Population group, Total, Male, etc.) are set manually in the function prevalence.table.container.*/
+/*aligns the total heading with values*/
+.tab-pane[data-value="Prevalence / mean"] .dataTables_scrollHead thead th {
+    text-align: right;
+}
+
+/*Aligns all the 95% CI headings to the left*/
+div[data-value="Prevalence / mean"] .dataTable tr:nth-of-type(2) th:nth-of-type(2n){
+      text-align: right;
+    padding-right: 5%;
+    box-sizing: border-box;
+}
+
+/*Aligns  95% CI heading for Total to the right*/
+div[data-value="Prevalence / mean"] .dataTable tr:nth-of-type(2) th:last-of-type {
+  text-align: right;
+}
+
+/*Align all values for 95% CI's to the left*/
+div[data-value="Prevalence / mean"] .dataTables_scrollBody .dataTable tr td:nth-of-type(2n + 3) {
+        text-align: right;
+    padding-right: 5%;
+    box-sizing: border-box;
+}
+/*Align all values for %'s to the right' */
+div[data-value="Prevalence / mean"] .dataTables_scrollBody .dataTable tr td:nth-of-type(2n + 2) {
+    text-align: right;
+}
+
+/*Aligns95% CI values for Total to the right*/
+div[data-value="Prevalence / mean"] .dataTables_scrollBody .dataTable tr td:last-of-type {
+  text-align: right;
+}
+
+/*=== Explore Indicators: Prevalence/Mean table styling ==== */
+
+/*Aligns all headings to the left*/
+.tab-pane[data-value="Subgroups comparison"] .dataTables_scrollHead thead th {
+    text-align: left;
+}
+
+/*=== Explore Indicators: Changes over time table styling ==== */
+
+/*Aligns all headings and content to the center*/
+div[data-value="Changes over time"] .dataTable tr td {
+    text-align: center;
+}
+
+/*Aligns the leftmost column - the population group names - to the left*/
+div[data-value="Changes over time"] .dataTable tr td:first-child {
+    text-align: left;
+}
+
+
+.modal-section {
+    margin-bottom: 25px;
+}
+.modal-section h3 {
+    font-weight: 600;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.modal-section li, .method-section li {
+    margin-bottom: 10px;
+}
+
+.method-main-section h2{
+    margin-top: 40px;
+}
+
+.method-main-section h3{
+    font-size: 20px;
+}
+
+.modal-section a, .method-section a {
+    color: #02a7c9;
+    text-decoration: underline;
+}
+
+.modal-section .about-lb-button {
+    color: #02a7c9;
+    text-decoration: underline;
+}
+
+.method-section table.method-table {
+  width: 100%;
+  border-bottom: solid 1px #0080a4;
+  margin-bottom: 10px;
+}
+
+.method-section .method-table td {
+    text-align: right;
+}
+
+.method-section .method-table td:first-of-type {
+    text-align: left;
+}
+
+
+.method-section .method-table td, th {
+    padding: 10px;
+}
+
+.method-section .method-table thead tr {
+    border: solid 1px #0080a4;
+    background: #02a7c9;
+}
+
+.method-section .indicator-info-app-title a {
+    font-size: 14px;
+    display: block;
+    margin: 10px 0;
+    font-weight: normal;
+}
+
+.modal-section .about-lb-button {
+  padding: 0;
+}
+
+
+.ref-table {
+  width: 100%;
+}
+
+.ref-table td {
+  padding: 10px;
+  padding-left: 0;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.center {
+    text-align: center !important;
+}
+
+.left {
+  text-align: left !important;
+}
+
+.right {
+  text-align: right !important;
+}
+
+
+/* CHANGE to text-align: centre  padding-right: 50px  padding-center: 50px
+padding Seems to be the most important change*/
+#exploreTopics-table .dataTables_scrollBody td:nth-of-type(6),
+#exploreTopics-table .dataTables_scrollBody td:nth-of-type(7),
+#exploreTopics-table .dataTables_scrollBody td:nth-of-type(8),
+#exploreTopics-meansTableDT .dataTables_scrollBody td:nth-of-type(6),
+#exploreTopics-meansTableDT .dataTables_scrollBody td:nth-of-type(7),
+#exploreTopics-meansTableDT .dataTables_scrollBody td:nth-of-type(8) {
+    text-align: center !important;
+    padding-center: 50px;
+}
+
+/* CHANGE to text-align: centre */
+#exploreTopics-table .dataTables_scrollHead th:nth-of-type(5),
+#exploreTopics-table .dataTables_scrollHead th:nth-of-type(6),
+#exploreTopics-table .dataTables_scrollHead th:nth-of-type(7),
+#exploreTopics-meansTableDT .dataTables_scrollHead th:nth-of-type(5),
+#exploreTopics-meansTableDT .dataTables_scrollHead th:nth-of-type(6),
+#exploreTopics-meansTableDT .dataTables_scrollHead th:nth-of-type(7) {
+  text-align: center !important;
+}
+
+#exploreIndicators-TSCols .checkbox span {
+  display: block;
+}
+
+#exploreIndicators-TSCols .checkbox span::first-letter {
+  font-style: italic;
+}
+
+#exploreIndicators-overviewChartRender,
+#exploreIndicators-overviewChartRender .mean-overview {
+  height: 100%;
+}
+
+#exploreIndicators-overviewChartRender .mean-overview .ind-image {
+      width: 80%;
+    margin-top: 90px;
+    margin-bottom: 30px;
+    margin-right: 15%;
+    max-width: 180px;
+    float: right;
+}
+
+.mean-overview-content {
+        padding-top: 66px;
+    padding-right: 40px;
+    font-size: 16px;
+        float: right;
+}
+
+
+
+
+#footer {
+  background-image: linear-gradient(to bottom, #02a7c9, #0080a4);
+  background-color: #0080a4;
+  color: white;
+  margin-top: 40px;
+}
+
+#footer .footer-color {
+  height: 100%;
+  width: 20%;
+  float: left;
+}
+
+#footer a {
+  color: white;
+}
+
+
+
+#footer .footer-text-link {
+  text-decoration: underline; 
+  color: white
+}
+#footer a:hover {
+  color: #ddd;
+}
+
+
+#footer .footer-border {
+  list-style: none;
+    margin: 0;
+    height: 10px;
+    padding: 0;
+    width: 100%;
+}
+
+#footer .footer-border-seg {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+#footer i {
+  color: white;
+  margin-left: 2px;
+}
+
+#footer .footer-links {
+    display: flex;
+    width: 50%;
+    justify-content: flex-start;
+    padding-left: 30px;
+
+}
+
+#footer .footer-links-item {
+    color: white;
+        margin-bottom: 20px;
+        border-right: solid 2px white;
+}
+
+#footer .footer-links button {
+    padding: 0 30px;
+}
+
+#footer .footer-links-item:first-of-type button {
+  padding-left: 0;
+}
+
+#footer button {
+  background: none;
+  border: none;
+}
+
+#footer button:hover {
+  color: #ddd;
+}
+
+.footer-links-item a {
+    color: white;
+}
+
+
+#footer .last-item {
+  border-right: none;
+}
+
+#footer .footer-content {
+    height: 300px;
+    width: 100%;
+    padding: 35px;
+}
+
+#footer .description {
+  margin-left: 20px;
+  
+}
+
+#footer .description p {
+  margin-bottom: 0;
+  color: white;
+  width: 30%;
+}
+
+#footer .right-items {
+  float: right; 
+  margin-top: -30px;
+  width: 30%;
+  padding-right: 30px;
+}
+
+#footer .right-items img {
+  width: 100%;
+}
+
+#footer .legal {
+  margin-top: 30px; 
+  padding: 30px;
+  color: white;
+  width: 60%;
+  float: left;
+}
+
+#footer .legal p {
+    color: white;
+}
+
+
+#footer .creative-commons {
+      margin-bottom: 20px;
+    height: 30px;
+}
+
+#footer .hpa-contain {
+  width: 250px;
+  float: right;
+  margin-bottom: 30px;
+}
+
+#footer .nz-govt-contain {
+  float:right;
+  width: 250px;
+}
+
+#footer .nz-govt {
+  margin-top: 20px;
+}
+
+
+.new-card {
+    width: 30%;
+    /*margin: 1.5%; */
+    margin: 1.25vw;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    border: 2px solid #d2d2d2;
+    background: #fff;
+
+}
+
+.new-card.grid {
+    width: 100%;
+    min-width: 25vw;
+    max-width: 30vw;
+    margin: 3% 0;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    border: 2px solid #d2d2d2;
+    background: #fff;
+    height: 100%;
+}
+
+.new-card:hover {
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.5);
+    transform: scale(1.01);
+}
+
+.new-card:hover > .new-link-overlay {
+         background: rgba(51, 51, 51, 0.7);
+     height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+   
+    transition: all 0.6s ease;
+}
+
+.new-card:hover .new-link-overlay > #new-topic-link {
+  position: absolute;
+    top: calc(50% - 30px);
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    color: white;
+    opacity: 1;
+    transition: all 0.2s ease;
+    display: block;
+} 
+
+#new-topic-link {
+  font-size: 30px;
+  display: none;
+}
+
+.new-card-topic h4 {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.new-card-content {
+    margin: 25px;
+}
+
+.new-card-content .subtitle {
+  font-weight: 500;
+    font-size: 15px;
+    color: #494949;
+}
+
+.new-card-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.subtopic-card-header {
+    width: calc(100% + 50px);
+    height: calc(100% + 50px);
+    margin: -25px 0 0 -25px;
+    padding: 25px;
+    background: white;
+}
+
+
+@media (max-width: 767px) {
+  .mobile-menu-button {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    display: block;
+    cursor: pointer;
+  }
+  
+  .mobile-menu-button button {
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: 30px;
+  }
+  
+  .mobile-menu-button button:focus {
+    outline: #02a7c9;
+  }
+  
+   .card-container {
+    grid-template-columns: 1fr;
+  }
+  
+}
+
+
+
+@media (max-width: 891px){
+  
+  /* ====================== Header ========================== */
+  .header-main img {
+    height: 125%;
+  }
+  
+  .header-options {
+    display: none;
+  }
+  
+  
+  .mobile-menu {
+    width: 100%;
+        background: #f5f5f5;
+    display: block;
+  }
+  
+   .card-container {
+    grid-template-columns: auto auto;
+  }
+  
+  /* ====================== Footer ========================== */
+  
+  #footer {
+    height: auto;
+
+  }
+  
+  #footer .footer-content {
+    padding: 20px;
+    height: 700px;
+  }
+  
+  #footer .footer-links ul {
+    float: left;
+    padding: 0;
+}
+
+  #footer .right-items {
+    float: none;
+  }
+
+  #footer .legal {
+    width: 100%;
+  }
+  
+  #footer .footer-links li {
+    width: 40%;
+    padding: 0;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+  
+  #footer .footer-links {
+    width: 60%;
+    flex-direction: column;
+  }
+  
+  #footer .footer-links-item {
+    border: none;
+  }
+  
+  #footer .footer-links-item:nth-of-type(2) button {
+    border: none;
+    padding-left: 0;
+}
+  
+/*  #footer .footer-links .footer-links-item:nth-of-type(2){
+    width: 60%;
+    flex-wrap: wrap;
+  }*/
+  
+  #footer .last-item button{
+    border-right: none;
+    padding-left: 0;
+}
+  
+  #footer img {
+    margin: 15px 0;
+  }
+  
+  #footer .creative-commons {
+    margin-left: 0;
+  }
+  
+  #footer .description {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+  
+  #footer .hpa-contain {
+    float: none;
+    
+  }
+  
+  #footer .nz-govt-contain {
+  float:none;
+  margin-left: 15px;
+}
+
+  #footer .right-items img {
+    padding-left: 15px;
+  }
+  
+  /* ====================== Splash ==========================*/
+  .card-container {
+    display: block;
+    
+  }
+  
+  .new-card {
+    min-width: 100%;
+    margin: 1.25vw 0;
+  }
+  
+  
+  
+  /* ====================== Subtopic Menu ==========================*/
+  
+  .content-pad > div {
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+  
+  .link-overlay:hover {
+    display: none;
+  }
+  
+  #subtopicsMenu-topic {
+    margin-left: 49px;
+  }
+  
+  /* ====================== Explore Topics ==========================*/
+  
+  #exploreTopics-groupSelect {
+    float: none;
+  }
+  
+  #exploreTopics-table .dataTables_scrollBody td:nth-of-type(5),
+#exploreTopics-table .dataTables_scrollBody td:nth-of-type(6),
+#exploreTopics-meansTableDT .dataTables_scrollBody td:nth-of-type(5),
+#exploreTopics-meansTableDT .dataTables_scrollBody td:nth-of-type(6) {
+  text-align: center !important;
+    padding-right: 0; 
+}
+  
+  /* ====================== Explore Inidicators ==========================*/
+  
+  #exploreIndicators-filters .filter-body .form-group {
+    margin: 15px 0;
+    padding: 10px;
+    width: 42vw;
+    margin-left: 0;
+    float: left;
+  }
+  
+  #exploreIndicators-filters .filter-body {
+    display:block;
+  }
+  
+  .nav-pills>li>a {
+    padding-left: 5px;;
+  }
+  
+  #exploreIndicators-overviewPlot .svg-container {
+    max-width: 90%;
+    float: left;
+  }
+  
+  #exploreIndicators-overviewChartRender .mean-overview .ind-image {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  #exploreIndicators-overviewChartRender .mean-overview-content {
+    padding-top: 0;
+  }
+  
+}
+

@@ -1,0 +1,12 @@
+name: kupe
+title: kupe
+username:
+account: healthpromotion
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 611363
+bundleId: 2885372
+url: https://healthpromotion.shinyapps.io/kupe/
+when: 1584337493.86363
+asMultiple: FALSE
+asStatic: FALSE

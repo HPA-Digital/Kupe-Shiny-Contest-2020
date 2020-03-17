@@ -1,0 +1,116 @@
+/*These styles clear the formatting which is used in the modal
+so that we can use the top two lines in the teaser section.*/
+.teaser > .form.def-form {
+    width: 100%;
+    margin: 0;
+}
+
+.teaser .def-div-table {
+    border-spacing: 0;
+}
+
+.teaser .def-p-margin {
+    margin-bottom: 20px;
+}
+
+.def-form {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: -13px;
+}
+
+.def-p-margin {
+  margin-top: 0px;
+  margin-bottom: 7px;
+  text-align: justify;
+}
+
+.def-ref-margin {
+  margin-top: 0px;
+  margin-bottom: 7px;
+  text-align: left;
+}
+
+.def-newline-span {
+  padding-left: 40px;
+}
+
+.def-li-margin {
+  margin: 2px
+}
+
+.def-div-table {
+  display: table;
+  width: 100%;
+  background-color: white;
+  border-collapse: separate;
+  border: 0;
+  border-spacing: 0px;
+  /* cellspacing:poor IE support for  this */
+}
+
+.def-div-table-row {
+  display: table-row;
+  width: auto;
+  clear: both;
+}
+
+.def-div-table-col {
+  float: left;
+  /* fix for  buggy browsers */
+  display: table-column;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.def-div-table-col-1 {
+  float: left;
+  /* fix for  buggy browsers */
+  display: table-column;
+  width: 12%;
+}
+
+.def-div-table-col-2 {
+  float: left;
+  /* fix for  buggy browsers */
+  display: table-column;
+  width: 88%;
+}
+
+#def-customers-table {
+  border-collapse: collapse;
+  margin-top: 0px;
+  width: 100%;
+}
+
+#def-customers-table td,
+#def-customers-table th {
+  border: 1px solid #bbb;
+  padding: 8px;
+}
+
+#def-customers-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#def-customers-table tr:hover {
+  background-color: #ddd;
+}
+
+#def-customers-table th {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-align: center;
+}
+
+#def-customers-table td {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  text-align: right;
+}
+
+.def-tableheader-p {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px
+}

@@ -1,0 +1,1029 @@
+"indicator","subtopic","short.description","population","year","comparison","adjusted.rate.ratio","adjusted.rate.ratio.low.CI","adjusted.rate.ratio.high.CI","adjusted.for","Significant"
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Asian vs non-Asian",0.58,0.47,0.71,"Age, Sex",TRUE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Maori vs non-Maori",1.09,0.99,1.21,"Age, Sex",FALSE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Men: Asian vs non-Asian",0.66,0.48,0.9,"Age",TRUE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Men: Maori vs non-Maori",1.07,0.9,1.26,"Age",FALSE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Men: Most deprived vs least deprived",0.95,0.8,1.13,"Age, Ethnicity",FALSE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Men: Pacific vs non-Pacific",0.95,0.78,1.14,"Age",FALSE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Most deprived vs least deprived",1,0.89,1.11,"Age, Sex, Ethnicity",FALSE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Pacific vs non-Pacific",0.94,0.83,1.06,"Age, Sex",FALSE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Women vs men",0.99,0.91,1.07,"Age",FALSE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Women: Asian vs non-Asian",0.51,0.39,0.65,"Age",TRUE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Women: Maori vs non-Maori",1.12,1,1.25,"Age",TRUE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Women: Most deprived vs least deprived",1.04,0.91,1.19,"Age, Ethnicity",FALSE
+"ind_1","Gambling participation","Any gambling activities","adults",2018,"Women: Pacific vs non-Pacific",0.93,0.8,1.09,"Age",FALSE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Asian vs non-Asian",0.64,0.31,1.32,"Age, Sex",FALSE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Maori vs non-Maori",1.4,1.1,1.77,"Age, Sex",TRUE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Men: Asian vs non-Asian",1,0.41,2.45,"Age",FALSE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Men: Maori vs non-Maori",1.26,0.87,1.81,"Age",FALSE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Men: Most deprived vs least deprived",1.31,0.83,2.08,"Age, Ethnicity",FALSE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Men: Pacific vs non-Pacific",1.47,0.91,2.39,"Age",FALSE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Most deprived vs least deprived",1.51,1.09,2.1,"Age, Sex, Ethnicity",TRUE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Pacific vs non-Pacific",1.32,0.94,1.85,"Age, Sex",FALSE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Women vs men",0.8,0.62,1.02,"Age",FALSE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Women: Asian vs non-Asian",0.28,0.09,0.83,"Age",TRUE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Women: Maori vs non-Maori",1.56,1.13,2.17,"Age",TRUE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Women: Most deprived vs least deprived",1.84,1.16,2.94,"Age, Ethnicity",TRUE
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults",2018,"Women: Pacific vs non-Pacific",1.13,0.71,1.79,"Age",FALSE
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori",2018,"Men: Most deprived vs least deprived",0.83,0.39,1.79,"Age",FALSE
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori",2018,"Most deprived vs least deprived",0.98,0.63,1.51,"Age, Sex",FALSE
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori",2018,"Women vs men",0.89,0.65,1.22,"Age",FALSE
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori",2018,"Women: Most deprived vs least deprived",1.07,0.62,1.83,"Age",FALSE
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori",2018,"Men: Most deprived vs least deprived",0.79,0.33,1.92,"Age",FALSE
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori",2018,"Most deprived vs least deprived",0.64,0.4,1,"Age, Sex",TRUE
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori",2018,"Women vs men",1.03,0.71,1.49,"Age",FALSE
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori",2018,"Women: Most deprived vs least deprived",0.53,0.32,0.89,"Age",TRUE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Maori vs non-Maori",1.43,1.03,1.99,"Age, Sex",TRUE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Men: Maori vs non-Maori",0.99,0.54,1.79,"Age",FALSE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Men: Most deprived vs least deprived",1.23,0.66,2.29,"Age, Ethnicity",FALSE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Men: Pacific vs non-Pacific",0.65,0.3,1.38,"Age",FALSE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Most deprived vs least deprived",1.4,0.97,2.02,"Age, Sex, Ethnicity",FALSE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Pacific vs non-Pacific",0.7,0.45,1.11,"Age, Sex",FALSE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Women vs men",0.97,0.72,1.3,"Age",FALSE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Women: Maori vs non-Maori",1.94,1.4,2.69,"Age",TRUE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Women: Most deprived vs least deprived",1.52,0.98,2.36,"Age, Ethnicity",FALSE
+"ind_11","Gambling participation frequency","Four or more activities","adults",2018,"Women: Pacific vs non-Pacific",0.77,0.47,1.26,"Age",FALSE
+"ind_12","Gambling participation frequency","Average number of activities",NA,NA,NA,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Asian vs non-Asian",0.56,0.45,0.69,"Age, Sex",TRUE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Maori vs non-Maori",1.01,0.9,1.15,"Age, Sex",FALSE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Men: Asian vs non-Asian",0.6,0.42,0.85,"Age",TRUE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Men: Maori vs non-Maori",1.02,0.83,1.24,"Age",FALSE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Men: Most deprived vs least deprived",0.92,0.77,1.1,"Age, Ethnicity",FALSE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Men: Pacific vs non-Pacific",1.01,0.82,1.25,"Age",FALSE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Most deprived vs least deprived",0.96,0.85,1.09,"Age, Sex, Ethnicity",FALSE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Pacific vs non-Pacific",0.93,0.81,1.06,"Age, Sex",FALSE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Women vs men",1.07,0.99,1.16,"Age",FALSE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Women: Asian vs non-Asian",0.53,0.41,0.68,"Age",TRUE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Women: Maori vs non-Maori",1.01,0.89,1.15,"Age",FALSE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Women: Most deprived vs least deprived",1.01,0.87,1.16,"Age, Ethnicity",FALSE
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults",2018,"Women: Pacific vs non-Pacific",0.85,0.72,1.01,"Age",FALSE
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Asian vs non-Asian",0.98,0.26,3.63,"Age, Sex",FALSE
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Maori vs non-Maori",1.19,0.54,2.63,"Age, Sex",FALSE
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Men: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex, Ethnicity",NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Pacific vs non-Pacific",0.73,0.27,1.99,"Age, Sex",FALSE
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Women vs men",0.45,0.22,0.92,"Age",TRUE
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Women: Maori vs non-Maori",3.2,1.24,8.27,"Age",TRUE
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults",2018,"Women: Pacific vs non-Pacific",2.24,0.66,7.63,"Age",FALSE
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Maori vs non-Maori",4.06,1.17,14.11,"Age, Sex",TRUE
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Men: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex, Ethnicity",NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Pacific vs non-Pacific",1.64,0.51,5.29,"Age, Sex",FALSE
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Women vs men",0.31,0.14,0.72,"Age",TRUE
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Women: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults",2018,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Asian vs non-Asian",1.91,0.89,4.11,"Age, Sex",FALSE
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Maori vs non-Maori",1.83,1.01,3.31,"Age, Sex",TRUE
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Men: Asian vs non-Asian",2.1,0.69,6.44,"Age",FALSE
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Men: Maori vs non-Maori",1.76,0.73,4.26,"Age",FALSE
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Most deprived vs least deprived",0.96,0.48,1.9,"Age, Sex, Ethnicity",FALSE
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Pacific vs non-Pacific",1.01,0.44,2.33,"Age, Sex",FALSE
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Women vs men",0.63,0.38,1.04,"Age",FALSE
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Women: Asian vs non-Asian",1.57,0.57,4.34,"Age",FALSE
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Women: Maori vs non-Maori",1.94,0.98,3.86,"Age",FALSE
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months",2018,"Women: Pacific vs non-Pacific",1.55,0.52,4.63,"Age",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Asian vs non-Asian",0.64,0.28,1.45,"Age, Sex",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Maori vs non-Maori",2.63,1.56,4.43,"Age, Sex",TRUE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Men: Asian vs non-Asian",0.58,0.14,2.39,"Age",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Men: Maori vs non-Maori",2.28,0.93,5.58,"Age",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Men: Pacific vs non-Pacific",1.65,0.62,4.39,"Age",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Most deprived vs least deprived",1.39,0.75,2.59,"Age, Sex, Ethnicity",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Pacific vs non-Pacific",1.67,0.9,3.07,"Age, Sex",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Women vs men",0.88,0.55,1.43,"Age",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Women: Asian vs non-Asian",0.72,0.23,2.23,"Age",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Women: Maori vs non-Maori",3.03,1.8,5.11,"Age",TRUE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Women: Most deprived vs least deprived",1.64,0.74,3.64,"Age, Ethnicity",FALSE
+"ind_17","Gambling harm","Household-level gambling harm","adults",2018,"Women: Pacific vs non-Pacific",1.68,0.94,3,"Age",FALSE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Asian vs non-Asian",0.26,0.13,0.49,"Age, Sex",TRUE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Maori vs non-Maori",2.4,1.9,3.03,"Age, Sex",TRUE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Men: Asian vs non-Asian",0.2,0.05,0.78,"Age",TRUE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Men: Maori vs non-Maori",2.49,1.79,3.45,"Age",TRUE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Men: Most deprived vs least deprived",0.8,0.51,1.25,"Age, Ethnicity",FALSE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Men: Pacific vs non-Pacific",1.77,1.15,2.73,"Age",TRUE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Most deprived vs least deprived",1.15,0.83,1.58,"Age, Sex, Ethnicity",FALSE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Pacific vs non-Pacific",1.5,1.11,2.04,"Age, Sex",TRUE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Women vs men",0.92,0.74,1.14,"Age",FALSE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Women: Asian vs non-Asian",0.31,0.14,0.69,"Age",TRUE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Women: Maori vs non-Maori",2.32,1.68,3.21,"Age",TRUE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Women: Most deprived vs least deprived",1.73,1.08,2.78,"Age, Ethnicity",TRUE
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults",2016,"Women: Pacific vs non-Pacific",1.25,0.86,1.82,"Age",FALSE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Asian vs non-Asian",0.43,0.33,0.57,"Age, Sex",TRUE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Maori vs non-Maori",1.31,1.15,1.5,"Age, Sex",TRUE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Men: Asian vs non-Asian",0.41,0.26,0.65,"Age",TRUE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Men: Maori vs non-Maori",1.37,1.14,1.66,"Age",TRUE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Men: Most deprived vs least deprived",1.2,0.95,1.5,"Age, Ethnicity",FALSE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Men: Pacific vs non-Pacific",0.89,0.68,1.18,"Age",FALSE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Most deprived vs least deprived",1.08,0.92,1.26,"Age, Sex, Ethnicity",FALSE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Pacific vs non-Pacific",0.91,0.75,1.11,"Age, Sex",FALSE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Women vs men",0.86,0.77,0.96,"Age",TRUE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Women: Asian vs non-Asian",0.45,0.3,0.67,"Age",TRUE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Women: Maori vs non-Maori",1.25,1.04,1.5,"Age",TRUE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Women: Most deprived vs least deprived",0.97,0.78,1.21,"Age, Ethnicity",FALSE
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults",2016,"Women: Pacific vs non-Pacific",0.94,0.74,1.2,"Age",FALSE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Asian vs non-Asian",0.43,0.24,0.79,"Age, Sex",TRUE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Maori vs non-Maori",1.32,0.95,1.84,"Age, Sex",FALSE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Men: Asian vs non-Asian",0.65,0.29,1.47,"Age",FALSE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Men: Maori vs non-Maori",1.06,0.59,1.89,"Age",FALSE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Men: Most deprived vs least deprived",2.88,1.47,5.62,"Age, Ethnicity",TRUE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Men: Pacific vs non-Pacific",1.04,0.56,1.91,"Age",FALSE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Most deprived vs least deprived",2.21,1.47,3.33,"Age, Sex, Ethnicity",TRUE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Pacific vs non-Pacific",1.07,0.72,1.61,"Age, Sex",FALSE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Women vs men",0.97,0.72,1.32,"Age",FALSE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Women: Asian vs non-Asian",0.23,0.11,0.5,"Age",TRUE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Women: Maori vs non-Maori",1.61,1.13,2.29,"Age",TRUE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Women: Most deprived vs least deprived",1.74,1.06,2.85,"Age, Ethnicity",TRUE
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults",2018,"Women: Pacific vs non-Pacific",1.12,0.69,1.83,"Age",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Asian vs non-Asian",0.76,0.63,0.91,"Age, Sex",TRUE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Maori vs non-Maori",1.05,0.95,1.16,"Age, Sex",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Men: Asian vs non-Asian",0.86,0.68,1.09,"Age",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Men: Maori vs non-Maori",1.15,1,1.31,"Age",TRUE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Men: Most deprived vs least deprived",0.92,0.77,1.1,"Age, Ethnicity",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Men: Pacific vs non-Pacific",1.06,0.88,1.27,"Age",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Most deprived vs least deprived",0.96,0.84,1.08,"Age, Sex, Ethnicity",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Pacific vs non-Pacific",0.91,0.8,1.04,"Age, Sex",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Women vs men",0.99,0.91,1.07,"Age",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Women: Asian vs non-Asian",0.66,0.51,0.86,"Age",TRUE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Women: Maori vs non-Maori",0.96,0.84,1.11,"Age",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Women: Most deprived vs least deprived",1.01,0.86,1.18,"Age, Ethnicity",FALSE
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults",2016,"Women: Pacific vs non-Pacific",0.76,0.63,0.93,"Age",TRUE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Asian vs non-Asian",0.91,0.74,1.12,"Age, Sex",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Maori vs non-Maori",1.19,1.03,1.37,"Age, Sex",TRUE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Men: Asian vs non-Asian",0.91,0.63,1.31,"Age",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Men: Maori vs non-Maori",1.33,1.05,1.67,"Age",TRUE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Men: Most deprived vs least deprived",1,0.73,1.35,"Age, Ethnicity",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Men: Pacific vs non-Pacific",1.09,0.83,1.42,"Age",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Most deprived vs least deprived",1.05,0.84,1.32,"Age, Sex, Ethnicity",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Pacific vs non-Pacific",1.1,0.93,1.29,"Age, Sex",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Women vs men",1.1,0.98,1.25,"Age",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Women: Asian vs non-Asian",0.92,0.73,1.15,"Age",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Women: Maori vs non-Maori",1.08,0.91,1.27,"Age",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Women: Most deprived vs least deprived",1.11,0.85,1.46,"Age, Ethnicity",FALSE
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults",2018,"Women: Pacific vs non-Pacific",1.11,0.92,1.33,"Age",FALSE
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Asian vs non-Asian",0.96,0.34,2.67,"Age, Sex",FALSE
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Maori vs non-Maori",1.99,0.88,4.51,"Age, Sex",FALSE
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Men: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex, Ethnicity",NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Pacific vs non-Pacific",2.3,0.94,5.62,"Age, Sex",FALSE
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Women vs men",0.48,0.2,1.16,"Age",FALSE
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Women: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months",2018,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Asian vs non-Asian",0.46,0.19,1.11,"Age, Sex",FALSE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Maori vs non-Maori",1.76,1.05,2.94,"Age, Sex",TRUE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Men: Asian vs non-Asian",0.63,0.2,1.99,"Age",FALSE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Men: Maori vs non-Maori",1.41,0.59,3.37,"Age",FALSE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Men: Pacific vs non-Pacific",1.22,0.47,3.2,"Age",FALSE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Most deprived vs least deprived",1.63,0.9,2.93,"Age, Sex, Ethnicity",FALSE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Pacific vs non-Pacific",1.3,0.69,2.43,"Age, Sex",FALSE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Women vs men",0.82,0.52,1.29,"Age",FALSE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Women: Maori vs non-Maori",2.26,1.32,3.89,"Age",TRUE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Women: Most deprived vs least deprived",1.73,0.74,4.05,"Age, Ethnicity",FALSE
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults",2018,"Women: Pacific vs non-Pacific",1.41,0.74,2.7,"Age",FALSE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Asian vs non-Asian",0.59,0.47,0.74,"Age, Sex",TRUE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Maori vs non-Maori",1.12,1,1.25,"Age, Sex",TRUE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Men: Asian vs non-Asian",0.7,0.49,0.98,"Age",TRUE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Men: Maori vs non-Maori",1.08,0.9,1.29,"Age",FALSE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Men: Most deprived vs least deprived",0.91,0.76,1.09,"Age, Ethnicity",FALSE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Men: Pacific vs non-Pacific",1.08,0.88,1.32,"Age",FALSE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Most deprived vs least deprived",1,0.89,1.13,"Age, Sex, Ethnicity",FALSE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Pacific vs non-Pacific",1,0.87,1.14,"Age, Sex",FALSE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Women vs men",0.98,0.89,1.08,"Age",FALSE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Women: Asian vs non-Asian",0.49,0.36,0.67,"Age",TRUE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Women: Maori vs non-Maori",1.15,1.02,1.31,"Age",TRUE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Women: Most deprived vs least deprived",1.11,0.96,1.29,"Age, Ethnicity",FALSE
+"ind_3","Gambling participation","Any NZ Lotto products","adults",2018,"Women: Pacific vs non-Pacific",0.93,0.77,1.12,"Age",FALSE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Asian vs non-Asian",0.24,0.12,0.51,"Age, Sex",TRUE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Maori vs non-Maori",1.34,0.92,1.94,"Age, Sex",FALSE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Men: Asian vs non-Asian",0.33,0.12,0.91,"Age",TRUE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Men: Maori vs non-Maori",1.11,0.6,2.07,"Age",FALSE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Men: Most deprived vs least deprived",2.96,1.43,6.15,"Age, Ethnicity",TRUE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Men: Pacific vs non-Pacific",0.97,0.49,1.92,"Age",FALSE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Most deprived vs least deprived",2.15,1.37,3.36,"Age, Sex, Ethnicity",TRUE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Pacific vs non-Pacific",0.99,0.64,1.53,"Age, Sex",FALSE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Women vs men",0.94,0.67,1.31,"Age",FALSE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Women: Asian vs non-Asian",0.16,0.05,0.46,"Age",TRUE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Women: Maori vs non-Maori",1.59,1.06,2.38,"Age",TRUE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Women: Most deprived vs least deprived",1.62,0.95,2.76,"Age, Ethnicity",FALSE
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults",2018,"Women: Pacific vs non-Pacific",1.03,0.63,1.66,"Age",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Asian vs non-Asian",0.84,0.38,1.87,"Age, Sex",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Maori vs non-Maori",1.03,0.58,1.86,"Age, Sex",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Men: Asian vs non-Asian",1.56,0.51,4.78,"Age",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Men: Maori vs non-Maori",0.97,0.32,2.98,"Age",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Men: Pacific vs non-Pacific",0.84,0.27,2.59,"Age",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Most deprived vs least deprived",1.97,1.01,3.87,"Age, Sex, Ethnicity",TRUE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Pacific vs non-Pacific",1.22,0.67,2.2,"Age, Sex",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Women vs men",1.13,0.66,1.92,"Age",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Women: Asian vs non-Asian",0.33,0.12,0.88,"Age",TRUE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Women: Maori vs non-Maori",1.09,0.57,2.1,"Age",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Women: Most deprived vs least deprived",1.76,0.75,4.09,"Age, Ethnicity",FALSE
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults",2018,"Women: Pacific vs non-Pacific",1.61,0.78,3.3,"Age",FALSE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Asian vs non-Asian",1.01,0.97,1.04,"Age, Sex",FALSE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Maori vs non-Maori",0.99,0.96,1.02,"Age, Sex",FALSE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Men: Maori vs non-Maori",0.99,0.94,1.04,"Age",FALSE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Men: Pacific vs non-Pacific",1.01,0.97,1.06,"Age",FALSE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Most deprived vs least deprived",0.96,0.93,0.99,"Age, Sex, Ethnicity",TRUE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Pacific vs non-Pacific",1.01,0.99,1.04,"Age, Sex",FALSE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Women vs men",1,0.98,1.03,"Age",FALSE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Women: Asian vs non-Asian",1.01,0.98,1.05,"Age",FALSE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Women: Maori vs non-Maori",0.99,0.96,1.02,"Age",FALSE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Women: Most deprived vs least deprived",0.96,0.93,1,"Age, Ethnicity",TRUE
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults",2018,"Women: Pacific vs non-Pacific",1.01,0.99,1.04,"Age",FALSE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Asian vs non-Asian",1.1,1,1.22,"Age, Sex",TRUE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Maori vs non-Maori",0.89,0.82,0.97,"Age, Sex",TRUE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Men: Asian vs non-Asian",1.1,0.95,1.26,"Age",FALSE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Men: Maori vs non-Maori",0.92,0.8,1.07,"Age",FALSE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Men: Most deprived vs least deprived",0.94,0.82,1.07,"Age, Ethnicity",FALSE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Men: Pacific vs non-Pacific",1.01,0.86,1.18,"Age",FALSE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Most deprived vs least deprived",0.92,0.85,1,"Age, Sex, Ethnicity",TRUE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Pacific vs non-Pacific",1.01,0.92,1.11,"Age, Sex",FALSE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Women vs men",1.01,0.95,1.08,"Age",FALSE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Women: Asian vs non-Asian",1.11,1,1.24,"Age",TRUE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Women: Maori vs non-Maori",0.86,0.78,0.95,"Age",TRUE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Women: Most deprived vs least deprived",0.9,0.82,0.98,"Age, Ethnicity",TRUE
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults",2018,"Women: Pacific vs non-Pacific",1.01,0.92,1.12,"Age",FALSE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Asian vs non-Asian",1.17,1.04,1.32,"Age, Sex",TRUE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Maori vs non-Maori",0.96,0.86,1.08,"Age, Sex",FALSE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Men: Asian vs non-Asian",1.09,0.89,1.35,"Age",FALSE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Men: Maori vs non-Maori",0.99,0.81,1.2,"Age",FALSE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Men: Most deprived vs least deprived",0.82,0.68,0.99,"Age, Ethnicity",TRUE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Men: Pacific vs non-Pacific",1.28,1.12,1.47,"Age",TRUE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Most deprived vs least deprived",0.85,0.76,0.94,"Age, Sex, Ethnicity",TRUE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Pacific vs non-Pacific",1.19,1.1,1.29,"Age, Sex",TRUE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Women vs men",1.12,1.04,1.22,"Age",TRUE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Women: Asian vs non-Asian",1.24,1.1,1.39,"Age",TRUE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Women: Maori vs non-Maori",0.94,0.84,1.05,"Age",FALSE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Women: Most deprived vs least deprived",0.87,0.78,0.96,"Age, Ethnicity",TRUE
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults",2018,"Women: Pacific vs non-Pacific",1.11,1.02,1.22,"Age",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Asian vs non-Asian",1.25,1.15,1.37,"Age, Sex",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Maori vs non-Maori",0.84,0.76,0.92,"Age, Sex",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Men: Asian vs non-Asian",1.28,1.11,1.47,"Age",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Men: Maori vs non-Maori",0.97,0.84,1.13,"Age",FALSE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Men: Most deprived vs least deprived",0.79,0.68,0.91,"Age, Ethnicity",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Men: Pacific vs non-Pacific",1.19,1.04,1.36,"Age",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Most deprived vs least deprived",0.79,0.72,0.87,"Age, Sex, Ethnicity",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Pacific vs non-Pacific",1.12,1.03,1.22,"Age, Sex",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Women vs men",1.16,1.09,1.23,"Age",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Women: Asian vs non-Asian",1.22,1.11,1.35,"Age",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Women: Maori vs non-Maori",0.73,0.65,0.82,"Age",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Women: Most deprived vs least deprived",0.8,0.72,0.88,"Age, Ethnicity",TRUE
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults",2016,"Women: Pacific vs non-Pacific",1.06,0.96,1.17,"Age",FALSE
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ",NA,NA,NA,NA,NA,NA,NA,NA
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Asian vs non-Asian",0.74,0.62,0.87,"Age, Sex",TRUE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Maori vs non-Maori",0.97,0.89,1.07,"Age, Sex",FALSE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Men: Asian vs non-Asian",0.75,0.59,0.95,"Age",TRUE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Men: Maori vs non-Maori",1.03,0.89,1.18,"Age",FALSE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Men: Most deprived vs least deprived",1,0.85,1.17,"Age, Ethnicity",FALSE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Men: Pacific vs non-Pacific",0.88,0.73,1.06,"Age",FALSE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Most deprived vs least deprived",1.05,0.94,1.18,"Age, Sex, Ethnicity",FALSE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Pacific vs non-Pacific",0.8,0.71,0.92,"Age, Sex",TRUE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Women vs men",0.94,0.88,1.02,"Age",FALSE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Women: Asian vs non-Asian",0.72,0.57,0.92,"Age",TRUE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Women: Maori vs non-Maori",0.92,0.81,1.05,"Age",FALSE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Women: Most deprived vs least deprived",1.12,0.97,1.3,"Age, Ethnicity",FALSE
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults",2016,"Women: Pacific vs non-Pacific",0.72,0.6,0.87,"Age",TRUE
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Maori vs non-Maori",NA,NA,NA,"Age, Sex",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Men: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex, Ethnicity",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Pacific vs non-Pacific",NA,NA,NA,"Age, Sex",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Women vs men",0.3,0.15,0.61,"Age",TRUE
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Women: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults",2018,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Asian vs non-Asian",1.08,0.56,2.07,"Age, Sex",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Maori vs non-Maori",0.78,0.57,1.07,"Age, Sex",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Men: Asian vs non-Asian",1.28,0.85,1.93,"Age",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Men: Maori vs non-Maori",0.71,0.43,1.19,"Age",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Men: Most deprived vs least deprived",1.05,0.6,1.86,"Age, Ethnicity",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Men: Pacific vs non-Pacific",0.61,0.32,1.16,"Age",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Most deprived vs least deprived",1.13,0.7,1.81,"Age, Sex, Ethnicity",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Pacific vs non-Pacific",0.81,0.55,1.2,"Age, Sex",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Women vs men",0.92,0.68,1.23,"Age",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Women: Maori vs non-Maori",0.86,0.58,1.29,"Age",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Women: Most deprived vs least deprived",1.39,0.52,3.71,"Age, Ethnicity",FALSE
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters",2018,"Women: Pacific vs non-Pacific",1.05,0.68,1.63,"Age",FALSE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Asian vs non-Asian",0.93,0.37,2.34,"Age, Sex",FALSE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Maori vs non-Maori",1.49,0.95,2.35,"Age, Sex",FALSE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Men: Asian vs non-Asian",1.12,0.43,2.92,"Age",FALSE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Men: Maori vs non-Maori",1.47,0.73,2.98,"Age",FALSE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Men: Pacific vs non-Pacific",2.13,1.2,3.8,"Age",TRUE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Most deprived vs least deprived",1.13,0.5,2.55,"Age, Sex, Ethnicity",FALSE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Pacific vs non-Pacific",1.3,0.74,2.26,"Age, Sex",FALSE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Women vs men",0.99,0.65,1.52,"Age",FALSE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Women: Maori vs non-Maori",1.51,0.85,2.67,"Age",FALSE
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters",2018,"Women: Pacific vs non-Pacific",0.58,0.23,1.46,"Age",FALSE
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Maori vs non-Maori",0.97,0.55,1.71,"Age, Sex",FALSE
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Men: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Most deprived vs least deprived",0.67,0.3,1.49,"Age, Sex, Ethnicity",FALSE
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Pacific vs non-Pacific",1.05,0.63,1.76,"Age, Sex",FALSE
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Women vs men",1.2,0.68,2.14,"Age",FALSE
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Women: Maori vs non-Maori",0.8,0.43,1.49,"Age",FALSE
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters",2018,"Women: Pacific vs non-Pacific",1.41,0.73,2.72,"Age",FALSE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Asian vs non-Asian",0.4,0.29,0.54,"Age, Sex",TRUE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Maori vs non-Maori",1.47,1.32,1.65,"Age, Sex",TRUE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Men: Asian vs non-Asian",0.55,0.38,0.78,"Age",TRUE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Men: Maori vs non-Maori",1.43,1.22,1.66,"Age",TRUE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Men: Most deprived vs least deprived",1.18,0.94,1.47,"Age, Ethnicity",FALSE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Men: Pacific vs non-Pacific",0.92,0.73,1.16,"Age",FALSE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Most deprived vs least deprived",1.17,0.99,1.38,"Age, Sex, Ethnicity",FALSE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Pacific vs non-Pacific",0.98,0.85,1.14,"Age, Sex",FALSE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Women vs men",0.83,0.76,0.92,"Age",TRUE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Women: Asian vs non-Asian",0.24,0.13,0.44,"Age",TRUE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Women: Maori vs non-Maori",1.52,1.34,1.73,"Age",TRUE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Women: Most deprived vs least deprived",1.16,0.96,1.4,"Age, Ethnicity",FALSE
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults",2018,"Women: Pacific vs non-Pacific",1.06,0.88,1.26,"Age",FALSE
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette",NA,NA,NA,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily",NA,NA,NA,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Asian vs non-Asian",0.44,0.2,1.01,"Age, Sex",FALSE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Maori vs non-Maori",2.53,1.92,3.33,"Age, Sex",TRUE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Men: Asian vs non-Asian",0.6,0.24,1.5,"Age",FALSE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Men: Maori vs non-Maori",2.2,1.48,3.26,"Age",TRUE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Men: Most deprived vs least deprived",1.99,1.05,3.78,"Age, Ethnicity",TRUE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Men: Pacific vs non-Pacific",1.04,0.63,1.72,"Age",FALSE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Most deprived vs least deprived",2.53,1.53,4.19,"Age, Sex, Ethnicity",TRUE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Pacific vs non-Pacific",1.4,1,1.95,"Age, Sex",TRUE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Women vs men",0.64,0.49,0.83,"Age",TRUE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Women: Maori vs non-Maori",3.06,2.14,4.37,"Age",TRUE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Women: Most deprived vs least deprived",3.96,1.84,8.51,"Age, Ethnicity",TRUE
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults",2018,"Women: Pacific vs non-Pacific",2,1.34,2.99,"Age",TRUE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Asian vs non-Asian",0.33,0.17,0.63,"Age, Sex",TRUE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Maori vs non-Maori",0.96,0.61,1.51,"Age, Sex",FALSE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Men: Maori vs non-Maori",1.09,0.55,2.19,"Age",FALSE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Men: Most deprived vs least deprived",0.48,0.21,1.12,"Age, Ethnicity",FALSE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Men: Pacific vs non-Pacific",0.74,0.29,1.91,"Age",FALSE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Most deprived vs least deprived",0.47,0.27,0.82,"Age, Sex, Ethnicity",TRUE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Pacific vs non-Pacific",0.66,0.36,1.22,"Age, Sex",FALSE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Women vs men",1.08,0.79,1.47,"Age",FALSE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Women: Asian vs non-Asian",0.43,0.2,0.91,"Age",TRUE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Women: Maori vs non-Maori",0.85,0.49,1.46,"Age",FALSE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Women: Most deprived vs least deprived",0.46,0.23,0.91,"Age, Ethnicity",TRUE
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults",2018,"Women: Pacific vs non-Pacific",0.59,0.26,1.32,"Age",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Asian vs non-Asian",0.37,0.22,0.62,"Age, Sex",TRUE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Maori vs non-Maori",1.13,0.94,1.35,"Age, Sex",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Men: Asian vs non-Asian",0.59,0.31,1.1,"Age",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Men: Maori vs non-Maori",0.97,0.72,1.31,"Age",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Men: Most deprived vs least deprived",1.09,0.78,1.52,"Age, Ethnicity",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Men: Pacific vs non-Pacific",0.82,0.51,1.3,"Age",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Most deprived vs least deprived",1.14,0.91,1.43,"Age, Sex, Ethnicity",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Pacific vs non-Pacific",0.84,0.62,1.13,"Age, Sex",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Women vs men",0.88,0.75,1.05,"Age",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Women: Asian vs non-Asian",0.16,0.05,0.46,"Age",TRUE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Women: Maori vs non-Maori",1.29,1.03,1.62,"Age",TRUE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Women: Most deprived vs least deprived",1.16,0.89,1.52,"Age, Ethnicity",FALSE
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults",2018,"Women: Pacific vs non-Pacific",0.87,0.62,1.23,"Age",FALSE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Asian vs non-Asian",0.35,0.12,1,"Age, Sex",TRUE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Maori vs non-Maori",1.16,0.83,1.61,"Age, Sex",FALSE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Men: Asian vs non-Asian",0.48,0.14,1.67,"Age",FALSE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Men: Maori vs non-Maori",0.91,0.54,1.52,"Age",FALSE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Men: Most deprived vs least deprived",0.89,0.49,1.64,"Age, Ethnicity",FALSE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Men: Pacific vs non-Pacific",0.65,0.32,1.29,"Age",FALSE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Most deprived vs least deprived",0.91,0.57,1.44,"Age, Sex, Ethnicity",FALSE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Pacific vs non-Pacific",0.59,0.34,1.01,"Age, Sex",FALSE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Women vs men",0.52,0.39,0.7,"Age",TRUE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Women: Maori vs non-Maori",1.68,1.07,2.63,"Age",TRUE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Women: Most deprived vs least deprived",0.89,0.48,1.63,"Age, Ethnicity",FALSE
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults",2018,"Women: Pacific vs non-Pacific",0.49,0.19,1.27,"Age",FALSE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Asian vs non-Asian",1.9,1.67,2.17,"Age, Sex",TRUE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Maori vs non-Maori",0.53,0.41,0.68,"Age, Sex",TRUE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Men: Asian vs non-Asian",1.77,1.4,2.25,"Age",TRUE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Men: Maori vs non-Maori",0.48,0.31,0.76,"Age",TRUE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Men: Most deprived vs least deprived",0.82,0.62,1.09,"Age, Ethnicity",FALSE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Men: Pacific vs non-Pacific",1.11,0.84,1.46,"Age",FALSE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Most deprived vs least deprived",0.84,0.7,1,"Age, Sex, Ethnicity",TRUE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Pacific vs non-Pacific",1.02,0.87,1.2,"Age, Sex",FALSE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Women vs men",1.25,1.1,1.41,"Age",TRUE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Women: Asian vs non-Asian",2,1.76,2.27,"Age",TRUE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Women: Maori vs non-Maori",0.57,0.45,0.71,"Age",TRUE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Women: Most deprived vs least deprived",0.85,0.71,1.03,"Age, Ethnicity",FALSE
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults",2018,"Women: Pacific vs non-Pacific",0.94,0.78,1.13,"Age",FALSE
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day",NA,NA,NA,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Maori vs non-Maori",3.08,2.05,4.62,"Age, Sex",TRUE
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Men: Maori vs non-Maori",3.09,1.75,5.45,"Age",TRUE
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Men: Most deprived vs least deprived",3.56,1.34,9.44,"Age, Ethnicity",TRUE
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Men: Pacific vs non-Pacific",0.97,0.38,2.49,"Age",FALSE
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Most deprived vs least deprived",4.89,2.31,10.38,"Age, Sex, Ethnicity",TRUE
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Pacific vs non-Pacific",1.4,0.77,2.54,"Age, Sex",FALSE
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Women vs men",0.61,0.43,0.88,"Age",TRUE
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Women: Maori vs non-Maori",3.03,1.83,5.02,"Age",TRUE
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults",2018,"Women: Pacific vs non-Pacific",2.19,1.24,3.87,"Age",TRUE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Asian vs non-Asian",0.37,0.14,0.96,"Age, Sex",TRUE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Maori vs non-Maori",2.74,2.02,3.71,"Age, Sex",TRUE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Men: Asian vs non-Asian",0.63,0.23,1.73,"Age",FALSE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Men: Maori vs non-Maori",2.32,1.48,3.63,"Age",TRUE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Men: Most deprived vs least deprived",2.39,1.1,5.17,"Age, Ethnicity",TRUE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Men: Pacific vs non-Pacific",1.08,0.61,1.91,"Age",FALSE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Most deprived vs least deprived",3.04,1.7,5.46,"Age, Sex, Ethnicity",TRUE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Pacific vs non-Pacific",1.38,0.93,2.04,"Age, Sex",FALSE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Women vs men",0.65,0.49,0.86,"Age",TRUE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Women: Maori vs non-Maori",3.4,2.42,4.77,"Age",TRUE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Women: Most deprived vs least deprived",4.61,1.96,10.85,"Age, Ethnicity",TRUE
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults",2018,"Women: Pacific vs non-Pacific",1.87,1.21,2.9,"Age",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Asian vs non-Asian",0.41,0.24,0.71,"Age, Sex",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Maori vs non-Maori",2.08,1.73,2.51,"Age, Sex",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Men: Asian vs non-Asian",0.53,0.31,0.93,"Age",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Men: Maori vs non-Maori",2,1.56,2.58,"Age",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Men: Most deprived vs least deprived",1.29,0.85,1.96,"Age, Ethnicity",FALSE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Men: Pacific vs non-Pacific",0.78,0.53,1.14,"Age",FALSE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Most deprived vs least deprived",1.51,1.12,2.03,"Age, Sex, Ethnicity",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Pacific vs non-Pacific",0.92,0.72,1.18,"Age, Sex",FALSE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Women vs men",0.72,0.59,0.88,"Age",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Women: Asian vs non-Asian",0.26,0.07,0.96,"Age",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Women: Maori vs non-Maori",2.19,1.68,2.85,"Age",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Women: Most deprived vs least deprived",1.9,1.22,2.95,"Age, Ethnicity",TRUE
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults",2018,"Women: Pacific vs non-Pacific",1.13,0.84,1.53,"Age",FALSE
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Asian vs non-Asian",0.32,0.11,0.96,"Age, Sex",TRUE
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Maori vs non-Maori",1.86,1.13,3.04,"Age, Sex",TRUE
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Men: Maori vs non-Maori",1.87,0.84,4.15,"Age",FALSE
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Men: Pacific vs non-Pacific",1.24,0.41,3.81,"Age",FALSE
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Most deprived vs least deprived",2.21,0.96,5.09,"Age, Sex, Ethnicity",FALSE
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Pacific vs non-Pacific",1.15,0.52,2.56,"Age, Sex",FALSE
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Women vs men",0.71,0.43,1.18,"Age",FALSE
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Women: Maori vs non-Maori",1.85,0.93,3.64,"Age",FALSE
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults",2018,"Women: Pacific vs non-Pacific",1.01,0.29,3.46,"Age",FALSE
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Asian vs non-Asian",1.12,0.34,3.69,"Age, Sex",FALSE
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Maori vs non-Maori",0.68,0.34,1.35,"Age, Sex",FALSE
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Men: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex, Ethnicity",NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Pacific vs non-Pacific",1.62,0.71,3.68,"Age, Sex",FALSE
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Women vs men",0.58,0.31,1.08,"Age",FALSE
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Women: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping",2018,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Asian vs non-Asian",0.94,0.29,2.99,"Age, Sex",FALSE
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Maori vs non-Maori",0.76,0.43,1.33,"Age, Sex",FALSE
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Men: Maori vs non-Maori",0.69,0.29,1.68,"Age",FALSE
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Men: Pacific vs non-Pacific",1.69,0.6,4.77,"Age",FALSE
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Most deprived vs least deprived",1.51,0.63,3.62,"Age, Sex, Ethnicity",FALSE
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Pacific vs non-Pacific",1.31,0.6,2.85,"Age, Sex",FALSE
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Women vs men",0.88,0.51,1.53,"Age",FALSE
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Women: Maori vs non-Maori",0.9,0.44,1.86,"Age",FALSE
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping",2018,"Women: Pacific vs non-Pacific",0.93,0.25,3.49,"Age",FALSE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Asian vs non-Asian",0.65,0.32,1.32,"Age, Sex",FALSE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Maori vs non-Maori",1.34,1.05,1.7,"Age, Sex",TRUE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Men: Asian vs non-Asian",0.99,0.41,2.4,"Age",FALSE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Men: Maori vs non-Maori",1.26,0.89,1.79,"Age",FALSE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Men: Most deprived vs least deprived",1.37,0.86,2.18,"Age, Ethnicity",FALSE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Men: Pacific vs non-Pacific",1.59,1.03,2.47,"Age",TRUE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Most deprived vs least deprived",1.56,1.13,2.15,"Age, Sex, Ethnicity",TRUE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Pacific vs non-Pacific",1.42,1.04,1.93,"Age, Sex",TRUE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Women vs men",0.76,0.6,0.96,"Age",TRUE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Women: Asian vs non-Asian",0.28,0.09,0.84,"Age",TRUE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Women: Maori vs non-Maori",1.43,1.01,2.02,"Age",TRUE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Women: Most deprived vs least deprived",1.89,1.21,2.95,"Age, Ethnicity",TRUE
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults",2018,"Women: Pacific vs non-Pacific",1.19,0.76,1.85,"Age",FALSE
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Maori vs non-Maori",NA,NA,NA,"Age, Sex",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Men: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex, Ethnicity",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Pacific vs non-Pacific",NA,NA,NA,"Age, Sex",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Women vs men",0.86,0.5,1.47,"Age",FALSE
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Women: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers",2018,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)",NA,NA,NA,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Asian vs non-Asian",0.66,0.52,0.84,"Age, Sex",TRUE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Maori vs non-Maori",0.99,0.82,1.2,"Age, Sex",FALSE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Men: Asian vs non-Asian",0.89,0.67,1.18,"Age",FALSE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Men: Maori vs non-Maori",1.02,0.77,1.35,"Age",FALSE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Men: Most deprived vs least deprived",0.76,0.55,1.04,"Age, Ethnicity",FALSE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Men: Pacific vs non-Pacific",0.81,0.56,1.18,"Age",FALSE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Most deprived vs least deprived",0.77,0.62,0.97,"Age, Sex, Ethnicity",TRUE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Pacific vs non-Pacific",0.9,0.69,1.15,"Age, Sex",FALSE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Women vs men",0.78,0.66,0.92,"Age",TRUE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Women: Asian vs non-Asian",0.39,0.23,0.66,"Age",TRUE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Women: Maori vs non-Maori",0.96,0.71,1.29,"Age",FALSE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Women: Most deprived vs least deprived",0.81,0.59,1.11,"Age, Ethnicity",FALSE
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults",2018,"Women: Pacific vs non-Pacific",1.01,0.73,1.38,"Age",FALSE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Asian vs non-Asian",0.63,0.48,0.81,"Age, Sex",TRUE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Maori vs non-Maori",1.1,0.97,1.25,"Age, Sex",FALSE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Men: Asian vs non-Asian",0.69,0.48,0.99,"Age",TRUE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Men: Maori vs non-Maori",1.09,0.9,1.32,"Age",FALSE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Men: Most deprived vs least deprived",0.77,0.59,1,"Age, Ethnicity",TRUE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Men: Pacific vs non-Pacific",0.8,0.6,1.07,"Age",FALSE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Most deprived vs least deprived",0.84,0.69,1.02,"Age, Sex, Ethnicity",FALSE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Pacific vs non-Pacific",0.84,0.69,1.03,"Age, Sex",FALSE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Women vs men",0.94,0.84,1.06,"Age",FALSE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Women: Asian vs non-Asian",0.56,0.37,0.85,"Age",TRUE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Women: Maori vs non-Maori",1.11,0.95,1.28,"Age",FALSE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Women: Most deprived vs least deprived",0.92,0.75,1.14,"Age, Ethnicity",FALSE
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults",2018,"Women: Pacific vs non-Pacific",0.89,0.71,1.12,"Age",FALSE
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Maori vs non-Maori",1.8,1.17,2.75,"Age, Sex",TRUE
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Men: Maori vs non-Maori",1.91,1.11,3.28,"Age",TRUE
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Men: Most deprived vs least deprived",1.04,0.56,1.94,"Age, Ethnicity",FALSE
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Men: Pacific vs non-Pacific",0.55,0.29,1.04,"Age",FALSE
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Most deprived vs least deprived",1.34,0.78,2.29,"Age, Sex, Ethnicity",FALSE
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Pacific vs non-Pacific",0.72,0.42,1.24,"Age, Sex",FALSE
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Women vs men",0.44,0.29,0.68,"Age",TRUE
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Women: Maori vs non-Maori",1.6,0.78,3.25,"Age",FALSE
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults",2018,"Women: Pacific vs non-Pacific",1.13,0.46,2.78,"Age",FALSE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Asian vs non-Asian",1.42,1.29,1.57,"Age, Sex",TRUE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Maori vs non-Maori",0.89,0.79,0.99,"Age, Sex",TRUE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Men: Asian vs non-Asian",1.48,1.26,1.73,"Age",TRUE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Men: Maori vs non-Maori",0.85,0.7,1.04,"Age",FALSE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Men: Most deprived vs least deprived",0.92,0.77,1.1,"Age, Ethnicity",FALSE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Men: Pacific vs non-Pacific",1.29,1.09,1.52,"Age",TRUE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Most deprived vs least deprived",1.04,0.92,1.17,"Age, Sex, Ethnicity",FALSE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Pacific vs non-Pacific",1.29,1.16,1.43,"Age, Sex",TRUE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Women vs men",1.1,1.02,1.19,"Age",TRUE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Women: Asian vs non-Asian",1.38,1.21,1.56,"Age",TRUE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Women: Maori vs non-Maori",0.91,0.79,1.05,"Age",FALSE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Women: Most deprived vs least deprived",1.16,1,1.33,"Age, Ethnicity",TRUE
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults",2016,"Women: Pacific vs non-Pacific",1.29,1.13,1.48,"Age",TRUE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Asian vs non-Asian",1.12,1.06,1.18,"Age, Sex",TRUE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Maori vs non-Maori",0.93,0.87,0.99,"Age, Sex",TRUE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Men: Asian vs non-Asian",1.14,1.05,1.23,"Age",TRUE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Men: Maori vs non-Maori",0.92,0.82,1.02,"Age",FALSE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Men: Most deprived vs least deprived",0.94,0.86,1.04,"Age, Ethnicity",FALSE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Men: Pacific vs non-Pacific",1.06,0.96,1.16,"Age",FALSE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Most deprived vs least deprived",1.01,0.95,1.08,"Age, Sex, Ethnicity",FALSE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Pacific vs non-Pacific",1.08,1.01,1.14,"Age, Sex",TRUE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Women vs men",1.02,0.97,1.07,"Age",FALSE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Women: Asian vs non-Asian",1.1,1.01,1.19,"Age",TRUE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Women: Maori vs non-Maori",0.93,0.86,1.01,"Age",FALSE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Women: Most deprived vs least deprived",1.09,1,1.18,"Age, Ethnicity",TRUE
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults",2016,"Women: Pacific vs non-Pacific",1.1,1.01,1.18,"Age",TRUE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Asian vs non-Asian",1.3,1.2,1.41,"Age, Sex",TRUE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Maori vs non-Maori",0.92,0.85,1,"Age, Sex",TRUE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Men: Asian vs non-Asian",1.35,1.2,1.53,"Age",TRUE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Men: Maori vs non-Maori",0.86,0.74,1,"Age",TRUE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Men: Most deprived vs least deprived",1.03,0.9,1.18,"Age, Ethnicity",FALSE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Men: Pacific vs non-Pacific",1.06,0.92,1.22,"Age",FALSE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Most deprived vs least deprived",1.05,0.96,1.15,"Age, Sex, Ethnicity",FALSE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Pacific vs non-Pacific",1.1,1,1.2,"Age, Sex",TRUE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Women vs men",1.1,1.03,1.17,"Age",TRUE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Women: Asian vs non-Asian",1.25,1.15,1.37,"Age",TRUE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Women: Maori vs non-Maori",0.98,0.89,1.08,"Age",FALSE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Women: Most deprived vs least deprived",1.07,0.97,1.19,"Age, Ethnicity",FALSE
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults",2016,"Women: Pacific vs non-Pacific",1.14,1.03,1.26,"Age",TRUE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Asian vs non-Asian",1.06,0.86,1.32,"Age, Sex",FALSE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Maori vs non-Maori",1.38,1.18,1.6,"Age, Sex",TRUE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Men: Asian vs non-Asian",1.08,0.77,1.52,"Age",FALSE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Men: Maori vs non-Maori",1.53,1.21,1.93,"Age",TRUE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Men: Most deprived vs least deprived",1.57,1.17,2.13,"Age, Ethnicity",TRUE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Men: Pacific vs non-Pacific",1.18,0.87,1.61,"Age",FALSE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Most deprived vs least deprived",1.43,1.18,1.73,"Age, Sex, Ethnicity",TRUE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Pacific vs non-Pacific",1.36,1.14,1.63,"Age, Sex",TRUE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Women vs men",1.31,1.15,1.49,"Age",TRUE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Women: Asian vs non-Asian",1.06,0.82,1.36,"Age",FALSE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Women: Maori vs non-Maori",1.28,1.09,1.51,"Age",TRUE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Women: Most deprived vs least deprived",1.36,1.08,1.7,"Age, Ethnicity",TRUE
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults",2016,"Women: Pacific vs non-Pacific",1.52,1.25,1.84,"Age",TRUE
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Maori vs non-Maori",NA,NA,NA,"Age, Sex",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Men: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex, Ethnicity",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Pacific vs non-Pacific",NA,NA,NA,"Age, Sex",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Women vs men",NA,NA,NA,"Age",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Women: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults",2018,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Asian vs non-Asian",0.28,0.11,0.67,"Age, Sex",TRUE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Maori vs non-Maori",1.45,1.2,1.75,"Age, Sex",TRUE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Men: Asian vs non-Asian",0.23,0.11,0.45,"Age",TRUE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Men: Maori vs non-Maori",1.68,1.3,2.17,"Age",TRUE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Men: Most deprived vs least deprived",0.84,0.61,1.17,"Age, Ethnicity",FALSE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Men: Pacific vs non-Pacific",1.24,0.82,1.88,"Age",FALSE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Most deprived vs least deprived",0.88,0.69,1.13,"Age, Sex, Ethnicity",FALSE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Pacific vs non-Pacific",1.06,0.74,1.51,"Age, Sex",FALSE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Women vs men",0.92,0.77,1.09,"Age",FALSE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Women: Maori vs non-Maori",1.22,0.94,1.57,"Age",FALSE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Women: Most deprived vs least deprived",0.91,0.63,1.32,"Age, Ethnicity",FALSE
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking","adults who have drunk alcohol in the last year",2016,"Women: Pacific vs non-Pacific",0.76,0.35,1.66,"Age",FALSE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Asian vs non-Asian",0.33,0.18,0.62,"Age, Sex",TRUE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Maori vs non-Maori",1.73,1.38,2.17,"Age, Sex",TRUE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Men: Asian vs non-Asian",0.34,0.16,0.73,"Age",TRUE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Men: Maori vs non-Maori",1.91,1.39,2.63,"Age",TRUE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Men: Most deprived vs least deprived",1.14,0.75,1.74,"Age, Ethnicity",FALSE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Men: Pacific vs non-Pacific",1.27,0.84,1.91,"Age",FALSE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Most deprived vs least deprived",1.03,0.76,1.4,"Age, Sex, Ethnicity",FALSE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Pacific vs non-Pacific",0.98,0.7,1.37,"Age, Sex",FALSE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Women vs men",0.88,0.71,1.09,"Age",FALSE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Women: Maori vs non-Maori",1.55,1.13,2.12,"Age",TRUE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Women: Most deprived vs least deprived",0.88,0.59,1.31,"Age, Ethnicity",FALSE
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking","adults who have drunk alcohol in the last year",2016,"Women: Pacific vs non-Pacific",0.54,0.31,0.94,"Age",TRUE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Asian vs non-Asian",0.66,0.56,0.77,"Age, Sex",TRUE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Maori vs non-Maori",1,0.93,1.08,"Age, Sex",FALSE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Men: Asian vs non-Asian",0.79,0.66,0.95,"Age",TRUE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Men: Maori vs non-Maori",1.02,0.92,1.13,"Age",FALSE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Men: Most deprived vs least deprived",0.81,0.7,0.92,"Age, Ethnicity",TRUE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Men: Pacific vs non-Pacific",0.86,0.73,1.01,"Age",FALSE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Most deprived vs least deprived",0.82,0.75,0.9,"Age, Sex, Ethnicity",TRUE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Pacific vs non-Pacific",0.82,0.73,0.92,"Age, Sex",TRUE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Women vs men",0.89,0.84,0.94,"Age",TRUE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Women: Asian vs non-Asian",0.52,0.39,0.7,"Age",TRUE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Women: Maori vs non-Maori",0.98,0.88,1.09,"Age",FALSE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Women: Most deprived vs least deprived",0.84,0.74,0.95,"Age, Ethnicity",TRUE
+"ind_72","Alcohol consumption","Drinkers (last year)","adults",2018,"Women: Pacific vs non-Pacific",0.77,0.66,0.9,"Age",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Asian vs non-Asian",2.59,2.08,3.21,"Age, Sex",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Maori vs non-Maori",1,0.77,1.31,"Age, Sex",FALSE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Men: Asian vs non-Asian",2.16,1.41,3.33,"Age",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Men: Maori vs non-Maori",0.92,0.56,1.51,"Age",FALSE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Men: Most deprived vs least deprived",2.43,1.31,4.51,"Age, Ethnicity",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Men: Pacific vs non-Pacific",1.66,1.06,2.6,"Age",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Most deprived vs least deprived",1.86,1.37,2.54,"Age, Sex, Ethnicity",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Pacific vs non-Pacific",1.66,1.31,2.12,"Age, Sex",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Women vs men",1.49,1.2,1.85,"Age",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Women: Asian vs non-Asian",2.89,2.27,3.67,"Age",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Women: Maori vs non-Maori",1.06,0.8,1.38,"Age",FALSE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Women: Most deprived vs least deprived",1.55,1.13,2.11,"Age, Ethnicity",TRUE
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults",2018,"Women: Pacific vs non-Pacific",1.66,1.29,2.15,"Age",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Asian vs non-Asian",0.87,0.75,1,"Age, Sex",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Maori vs non-Maori",0.68,0.59,0.79,"Age, Sex",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Men: Asian vs non-Asian",1.09,0.89,1.33,"Age",FALSE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Men: Maori vs non-Maori",0.63,0.48,0.82,"Age",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Men: Most deprived vs least deprived",0.74,0.61,0.9,"Age, Ethnicity",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Men: Pacific vs non-Pacific",0.48,0.34,0.69,"Age",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Most deprived vs least deprived",0.78,0.68,0.88,"Age, Sex, Ethnicity",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Pacific vs non-Pacific",0.53,0.43,0.66,"Age, Sex",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Women vs men",1.02,0.93,1.11,"Age",FALSE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Women: Asian vs non-Asian",0.66,0.52,0.85,"Age",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Women: Maori vs non-Maori",0.74,0.62,0.87,"Age",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Women: Most deprived vs least deprived",0.82,0.7,0.95,"Age, Ethnicity",TRUE
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults",2016,"Women: Pacific vs non-Pacific",0.58,0.45,0.75,"Age",TRUE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Asian vs non-Asian",0.27,0.17,0.42,"Age, Sex",TRUE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Maori vs non-Maori",1.72,1.5,1.99,"Age, Sex",TRUE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Men: Asian vs non-Asian",0.25,0.13,0.47,"Age",TRUE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Men: Maori vs non-Maori",1.55,1.27,1.89,"Age",TRUE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Men: Most deprived vs least deprived",1.2,0.94,1.53,"Age, Ethnicity",FALSE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Men: Pacific vs non-Pacific",1.17,0.88,1.54,"Age",FALSE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Most deprived vs least deprived",1.13,0.91,1.4,"Age, Sex, Ethnicity",FALSE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Pacific vs non-Pacific",1.01,0.8,1.26,"Age, Sex",FALSE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Women vs men",0.65,0.56,0.75,"Age",TRUE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Women: Asian vs non-Asian",0.3,0.14,0.6,"Age",TRUE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Women: Maori vs non-Maori",1.97,1.57,2.47,"Age",TRUE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Women: Most deprived vs least deprived",0.99,0.72,1.37,"Age, Ethnicity",FALSE
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults",2016,"Women: Pacific vs non-Pacific",0.79,0.53,1.19,"Age",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Asian vs non-Asian",0.43,0.23,0.81,"Age, Sex",TRUE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Maori vs non-Maori",1.02,0.64,1.63,"Age, Sex",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Men: Asian vs non-Asian",0.54,0.22,1.34,"Age",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Men: Maori vs non-Maori",1.04,0.53,2.04,"Age",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Men: Most deprived vs least deprived",0.66,0.32,1.36,"Age, Ethnicity",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Men: Pacific vs non-Pacific",0.74,0.36,1.53,"Age",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Most deprived vs least deprived",0.72,0.42,1.24,"Age, Sex, Ethnicity",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Pacific vs non-Pacific",0.62,0.36,1.06,"Age, Sex",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Women vs men",0.74,0.52,1.04,"Age",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Women: Asian vs non-Asian",0.3,0.11,0.84,"Age",TRUE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Women: Maori vs non-Maori",1,0.6,1.65,"Age",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Women: Most deprived vs least deprived",0.84,0.42,1.69,"Age, Ethnicity",FALSE
+"ind_76","Sunburn","Sunburnt last summer - badly","adults",2018,"Women: Pacific vs non-Pacific",0.45,0.24,0.83,"Age",TRUE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Asian vs non-Asian",0.38,0.25,0.58,"Age, Sex",TRUE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Maori vs non-Maori",1.08,0.92,1.26,"Age, Sex",FALSE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Men: Asian vs non-Asian",0.44,0.28,0.68,"Age",TRUE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Men: Maori vs non-Maori",1.13,0.88,1.44,"Age",FALSE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Men: Most deprived vs least deprived",0.81,0.59,1.11,"Age, Ethnicity",FALSE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Men: Pacific vs non-Pacific",0.35,0.21,0.57,"Age",TRUE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Most deprived vs least deprived",0.91,0.74,1.14,"Age, Sex, Ethnicity",FALSE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Pacific vs non-Pacific",0.48,0.36,0.64,"Age, Sex",TRUE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Women vs men",0.93,0.82,1.06,"Age",FALSE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Women: Asian vs non-Asian",0.33,0.16,0.7,"Age",TRUE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Women: Maori vs non-Maori",1.03,0.85,1.23,"Age",FALSE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Women: Most deprived vs least deprived",1.02,0.8,1.31,"Age, Ethnicity",FALSE
+"ind_77","Sunburn","Sunburnt last summer - mild","adults",2018,"Women: Pacific vs non-Pacific",0.62,0.45,0.87,"Age",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Asian vs non-Asian",0.93,0.84,1.02,"Age, Sex",FALSE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Maori vs non-Maori",0.86,0.81,0.92,"Age, Sex",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Men: Asian vs non-Asian",0.95,0.82,1.1,"Age",FALSE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Men: Maori vs non-Maori",0.87,0.78,0.97,"Age",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Men: Most deprived vs least deprived",0.83,0.74,0.92,"Age, Ethnicity",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Men: Pacific vs non-Pacific",0.81,0.72,0.92,"Age",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Most deprived vs least deprived",0.87,0.81,0.93,"Age, Sex, Ethnicity",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Pacific vs non-Pacific",0.77,0.71,0.85,"Age, Sex",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Women vs men",1.06,1.01,1.11,"Age",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Women: Asian vs non-Asian",0.91,0.81,1.02,"Age",FALSE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Women: Maori vs non-Maori",0.86,0.79,0.94,"Age",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Women: Most deprived vs least deprived",0.91,0.84,0.98,"Age, Ethnicity",TRUE
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults",2016,"Women: Pacific vs non-Pacific",0.73,0.64,0.84,"Age",TRUE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Asian vs non-Asian",0.82,0.7,0.96,"Age, Sex",TRUE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Maori vs non-Maori",0.92,0.83,1.02,"Age, Sex",FALSE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Men: Asian vs non-Asian",0.79,0.64,0.97,"Age",TRUE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Men: Maori vs non-Maori",0.92,0.79,1.05,"Age",FALSE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Men: Most deprived vs least deprived",0.85,0.73,0.99,"Age, Ethnicity",TRUE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Men: Pacific vs non-Pacific",0.91,0.76,1.1,"Age",FALSE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Most deprived vs least deprived",0.84,0.76,0.94,"Age, Sex, Ethnicity",TRUE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Pacific vs non-Pacific",0.88,0.78,0.99,"Age, Sex",TRUE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Women vs men",0.92,0.85,0.99,"Age",TRUE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Women: Asian vs non-Asian",0.85,0.68,1.06,"Age",FALSE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Women: Maori vs non-Maori",0.93,0.81,1.06,"Age",FALSE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Women: Most deprived vs least deprived",0.83,0.72,0.96,"Age, Ethnicity",TRUE
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults",2016,"Women: Pacific vs non-Pacific",0.86,0.73,1.01,"Age",FALSE
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Maori vs non-Maori",1.52,0.8,2.9,"Age, Sex",FALSE
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Men: Maori vs non-Maori",1.5,0.7,3.22,"Age",FALSE
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Men: Pacific vs non-Pacific",0.67,0.27,1.66,"Age",FALSE
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex, Ethnicity",NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Pacific vs non-Pacific",0.61,0.28,1.36,"Age, Sex",FALSE
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Women vs men",0.22,0.1,0.47,"Age",TRUE
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Women: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults",2018,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Asian vs non-Asian",0.93,0.79,1.11,"Age, Sex",FALSE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Maori vs non-Maori",0.8,0.69,0.92,"Age, Sex",TRUE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Men: Asian vs non-Asian",1,0.77,1.28,"Age",FALSE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Men: Maori vs non-Maori",0.77,0.59,1,"Age",TRUE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Men: Most deprived vs least deprived",0.91,0.73,1.14,"Age, Ethnicity",FALSE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Men: Pacific vs non-Pacific",0.73,0.55,0.98,"Age",TRUE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Most deprived vs least deprived",1.01,0.88,1.16,"Age, Sex, Ethnicity",FALSE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Pacific vs non-Pacific",0.73,0.61,0.87,"Age, Sex",TRUE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Women vs men",1.06,0.97,1.16,"Age",FALSE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Women: Asian vs non-Asian",0.88,0.71,1.09,"Age",FALSE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Women: Maori vs non-Maori",0.82,0.7,0.96,"Age",TRUE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Women: Most deprived vs least deprived",1.11,0.93,1.32,"Age, Ethnicity",FALSE
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults",2016,"Women: Pacific vs non-Pacific",0.74,0.6,0.91,"Age",TRUE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Asian vs non-Asian",1,0.82,1.22,"Age, Sex",FALSE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Maori vs non-Maori",0.83,0.71,0.98,"Age, Sex",TRUE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Men: Asian vs non-Asian",1.01,0.75,1.35,"Age",FALSE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Men: Maori vs non-Maori",0.74,0.58,0.96,"Age",TRUE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Men: Most deprived vs least deprived",0.68,0.49,0.96,"Age, Ethnicity",TRUE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Men: Pacific vs non-Pacific",0.82,0.59,1.14,"Age",FALSE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Most deprived vs least deprived",0.78,0.63,0.97,"Age, Sex, Ethnicity",TRUE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Pacific vs non-Pacific",0.83,0.65,1.05,"Age, Sex",FALSE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Women vs men",1.21,1.06,1.38,"Age",TRUE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Women: Asian vs non-Asian",1,0.75,1.31,"Age",FALSE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Women: Maori vs non-Maori",0.91,0.74,1.11,"Age",FALSE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Women: Most deprived vs least deprived",0.86,0.67,1.11,"Age, Ethnicity",FALSE
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults",2016,"Women: Pacific vs non-Pacific",0.83,0.63,1.1,"Age",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Asian vs non-Asian",0.8,0.63,1.01,"Age, Sex",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Maori vs non-Maori",0.94,0.81,1.09,"Age, Sex",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Men: Asian vs non-Asian",0.83,0.57,1.22,"Age",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Men: Maori vs non-Maori",0.85,0.62,1.15,"Age",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Men: Most deprived vs least deprived",0.81,0.58,1.13,"Age, Ethnicity",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Men: Pacific vs non-Pacific",0.78,0.5,1.2,"Age",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Most deprived vs least deprived",0.86,0.7,1.05,"Age, Sex, Ethnicity",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Pacific vs non-Pacific",0.79,0.62,1,"Age, Sex",TRUE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Women vs men",1.48,1.29,1.68,"Age",TRUE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Women: Asian vs non-Asian",0.77,0.57,1.05,"Age",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Women: Maori vs non-Maori",1.01,0.85,1.2,"Age",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Women: Most deprived vs least deprived",0.89,0.72,1.11,"Age, Ethnicity",FALSE
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults",2016,"Women: Pacific vs non-Pacific",0.79,0.61,1.04,"Age",FALSE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Asian vs non-Asian",0.28,0.15,0.52,"Age, Sex",TRUE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Maori vs non-Maori",0.82,0.62,1.07,"Age, Sex",FALSE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Men: Asian vs non-Asian",0.45,0.19,1.08,"Age",FALSE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Men: Maori vs non-Maori",0.87,0.55,1.39,"Age",FALSE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Men: Most deprived vs least deprived",0.7,0.48,1.02,"Age, Ethnicity",FALSE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Men: Pacific vs non-Pacific",0.23,0.12,0.45,"Age",TRUE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Most deprived vs least deprived",0.72,0.56,0.94,"Age, Sex, Ethnicity",TRUE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Pacific vs non-Pacific",0.51,0.34,0.77,"Age, Sex",TRUE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Women vs men",0.97,0.83,1.14,"Age",FALSE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Women: Maori vs non-Maori",0.77,0.57,1.04,"Age",FALSE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Women: Most deprived vs least deprived",0.72,0.52,0.99,"Age, Ethnicity",TRUE
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults",2018,"Women: Pacific vs non-Pacific",0.78,0.48,1.27,"Age",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Asian vs non-Asian",1.07,1.01,1.12,"Age, Sex",TRUE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Maori vs non-Maori",0.96,0.9,1.02,"Age, Sex",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Men: Asian vs non-Asian",1.04,0.96,1.13,"Age",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Men: Maori vs non-Maori",0.96,0.87,1.06,"Age",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Men: Most deprived vs least deprived",0.96,0.89,1.04,"Age, Ethnicity",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Men: Pacific vs non-Pacific",0.96,0.86,1.07,"Age",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Most deprived vs least deprived",0.97,0.92,1.02,"Age, Sex, Ethnicity",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Pacific vs non-Pacific",0.98,0.91,1.05,"Age, Sex",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Women vs men",1.02,0.97,1.06,"Age",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Women: Asian vs non-Asian",1.09,1.02,1.16,"Age",TRUE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Women: Maori vs non-Maori",0.96,0.89,1.03,"Age",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Women: Most deprived vs least deprived",0.98,0.91,1.06,"Age, Ethnicity",FALSE
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults",2018,"Women: Pacific vs non-Pacific",1,0.93,1.08,"Age",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Asian vs non-Asian",0.71,0.41,1.23,"Age, Sex",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Maori vs non-Maori",1.12,0.76,1.66,"Age, Sex",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Men: Asian vs non-Asian",0.73,0.39,1.38,"Age",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Men: Maori vs non-Maori",1,0.54,1.84,"Age",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Men: Most deprived vs least deprived",1.29,0.67,2.49,"Age, Ethnicity",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Men: Pacific vs non-Pacific",1.2,0.62,2.34,"Age",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Most deprived vs least deprived",1.46,0.93,2.29,"Age, Sex, Ethnicity",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Pacific vs non-Pacific",1.11,0.7,1.77,"Age, Sex",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Women vs men",0.76,0.53,1.08,"Age",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Women: Asian vs non-Asian",0.69,0.28,1.72,"Age",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Women: Maori vs non-Maori",1.27,0.73,2.21,"Age",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Women: Most deprived vs least deprived",1.71,0.85,3.46,"Age, Ethnicity",FALSE
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults",2018,"Women: Pacific vs non-Pacific",1,0.52,1.91,"Age",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Asian vs non-Asian",1,0.92,1.1,"Age, Sex",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Maori vs non-Maori",0.9,0.83,0.99,"Age, Sex",TRUE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Men: Asian vs non-Asian",0.9,0.78,1.04,"Age",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Men: Maori vs non-Maori",0.85,0.74,0.99,"Age",TRUE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Men: Most deprived vs least deprived",1.01,0.9,1.14,"Age, Ethnicity",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Men: Pacific vs non-Pacific",0.86,0.72,1.03,"Age",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Most deprived vs least deprived",1.02,0.95,1.1,"Age, Sex, Ethnicity",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Pacific vs non-Pacific",0.88,0.79,0.97,"Age, Sex",TRUE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Women vs men",0.96,0.91,1.01,"Age",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Women: Asian vs non-Asian",1.11,0.99,1.24,"Age",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Women: Maori vs non-Maori",0.95,0.85,1.06,"Age",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Women: Most deprived vs least deprived",1.04,0.94,1.14,"Age, Ethnicity",FALSE
+"ind_86","Eating habits within households","Eating together - always/frequently","adults",2018,"Women: Pacific vs non-Pacific",0.9,0.77,1.04,"Age",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Asian vs non-Asian",1.34,0.92,1.94,"Age, Sex",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Maori vs non-Maori",1.22,0.92,1.62,"Age, Sex",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Men: Asian vs non-Asian",1.71,1.01,2.88,"Age",TRUE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Men: Maori vs non-Maori",1.21,0.78,1.89,"Age",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Men: Most deprived vs least deprived",1.72,0.95,3.12,"Age, Ethnicity",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Men: Pacific vs non-Pacific",1.38,0.83,2.27,"Age",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Most deprived vs least deprived",1.75,1.19,2.56,"Age, Sex, Ethnicity",TRUE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Pacific vs non-Pacific",1.19,0.84,1.68,"Age, Sex",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Women vs men",1.02,0.78,1.34,"Age",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Women: Asian vs non-Asian",1.02,0.59,1.78,"Age",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Women: Maori vs non-Maori",1.22,0.86,1.73,"Age",FALSE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Women: Most deprived vs least deprived",1.77,1.08,2.91,"Age, Ethnicity",TRUE
+"ind_87","Eating habits within households","Eating together - sometimes","adults",2016,"Women: Pacific vs non-Pacific",1.02,0.67,1.55,"Age",FALSE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Asian vs non-Asian",1.27,0.64,2.52,"Age, Sex",FALSE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Maori vs non-Maori",1.1,0.62,1.93,"Age, Sex",FALSE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Men: Asian vs non-Asian",1.22,0.58,2.58,"Age",FALSE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Men: Maori vs non-Maori",1.34,0.58,3.12,"Age",FALSE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Men: Pacific vs non-Pacific",0.19,0.05,0.78,"Age",TRUE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Most deprived vs least deprived",1.05,0.52,2.13,"Age, Sex, Ethnicity",FALSE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Pacific vs non-Pacific",0.36,0.14,0.92,"Age, Sex",TRUE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Women vs men",0.98,0.6,1.59,"Age",FALSE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Women: Asian vs non-Asian",1.3,0.37,4.56,"Age",FALSE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Women: Maori vs non-Maori",0.87,0.39,1.94,"Age",FALSE
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_88","Eating habits within households","Eating together - almost never/never","adults",2016,"Women: Pacific vs non-Pacific",0.6,0.16,2.19,"Age",FALSE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Asian vs non-Asian",1.34,1.24,1.45,"Age, Sex",TRUE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Maori vs non-Maori",1.18,1.08,1.29,"Age, Sex",TRUE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Men: Asian vs non-Asian",1.42,1.25,1.62,"Age",TRUE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Men: Maori vs non-Maori",1.18,1,1.39,"Age",TRUE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Men: Most deprived vs least deprived",1.03,0.87,1.22,"Age, Ethnicity",FALSE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Men: Pacific vs non-Pacific",1.49,1.34,1.65,"Age",TRUE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Most deprived vs least deprived",0.98,0.87,1.1,"Age, Sex, Ethnicity",FALSE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Pacific vs non-Pacific",1.36,1.27,1.45,"Age, Sex",TRUE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Women vs men",1.08,1,1.16,"Age",TRUE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Women: Asian vs non-Asian",1.27,1.15,1.4,"Age",TRUE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Women: Maori vs non-Maori",1.17,1.08,1.27,"Age",TRUE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Women: Most deprived vs least deprived",0.93,0.82,1.06,"Age, Ethnicity",FALSE
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults",2018,"Women: Pacific vs non-Pacific",1.25,1.14,1.37,"Age",TRUE
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Maori vs non-Maori",1.9,0.9,4.03,"Age, Sex",FALSE
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Men: Maori vs non-Maori",1.92,0.72,5.12,"Age",FALSE
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Men: Pacific vs non-Pacific",1.02,0.34,3.05,"Age",FALSE
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Most deprived vs least deprived",1.29,0.38,4.44,"Age, Sex, Ethnicity",FALSE
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Pacific vs non-Pacific",1.18,0.56,2.51,"Age, Sex",FALSE
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Women vs men",0.41,0.23,0.74,"Age",TRUE
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Women: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults",2018,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Asian vs non-Asian",0.86,0.66,1.11,"Age, Sex",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Maori vs non-Maori",1.19,0.98,1.45,"Age, Sex",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Men: Asian vs non-Asian",0.83,0.55,1.26,"Age",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Men: Maori vs non-Maori",1.2,0.9,1.62,"Age",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Men: Most deprived vs least deprived",0.95,0.66,1.36,"Age, Ethnicity",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Men: Pacific vs non-Pacific",0.63,0.4,0.99,"Age",TRUE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Most deprived vs least deprived",0.98,0.76,1.27,"Age, Sex, Ethnicity",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Pacific vs non-Pacific",0.79,0.62,1.01,"Age, Sex",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Women vs men",1.1,0.93,1.3,"Age",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Women: Asian vs non-Asian",0.88,0.62,1.26,"Age",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Women: Maori vs non-Maori",1.19,0.92,1.52,"Age",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Women: Most deprived vs least deprived",1.01,0.75,1.37,"Age, Ethnicity",FALSE
+"ind_90","Wellbeing","Felt isolated from others","adults",2016,"Women: Pacific vs non-Pacific",0.95,0.7,1.29,"Age",FALSE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Asian vs non-Asian",0.16,0.07,0.34,"Age, Sex",TRUE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Maori vs non-Maori",1.31,1.02,1.68,"Age, Sex",TRUE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Men: Asian vs non-Asian",0.23,0.06,0.97,"Age",TRUE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Men: Maori vs non-Maori",1.38,0.87,2.19,"Age",FALSE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Men: Most deprived vs least deprived",2.27,1.27,4.04,"Age, Ethnicity",TRUE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Men: Pacific vs non-Pacific",0.67,0.34,1.31,"Age",FALSE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Most deprived vs least deprived",1.38,1.01,1.87,"Age, Sex, Ethnicity",TRUE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Pacific vs non-Pacific",0.64,0.42,0.97,"Age, Sex",TRUE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Women vs men",1.57,1.25,1.95,"Age",TRUE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Women: Maori vs non-Maori",1.27,0.94,1.7,"Age",FALSE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Women: Most deprived vs least deprived",0.98,0.71,1.37,"Age, Ethnicity",FALSE
+"ind_91","Mental distress","Ever diagnosed with a mental illness","adults",2016,"Women: Pacific vs non-Pacific",0.63,0.34,1.13,"Age",FALSE
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Asian vs non-Asian",1.99,0.7,5.63,"Age, Sex",FALSE
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Maori vs non-Maori",1.71,1.06,2.76,"Age, Sex",TRUE
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Men: Maori vs non-Maori",1.54,0.67,3.54,"Age",FALSE
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Most deprived vs least deprived",1.19,0.61,2.35,"Age, Sex, Ethnicity",FALSE
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Pacific vs non-Pacific",1.15,0.39,3.37,"Age, Sex",FALSE
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women vs men",0.65,0.4,1.04,"Age",FALSE
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women: Maori vs non-Maori",1.89,1.07,3.33,"Age",TRUE
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Asian vs non-Asian",NA,NA,NA,"Age, Sex",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Maori vs non-Maori",1.42,0.61,3.31,"Age, Sex",FALSE
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Men: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Men: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Men: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Men: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex, Ethnicity",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Pacific vs non-Pacific",NA,NA,NA,"Age, Sex",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women vs men",0.4,0.19,0.84,"Age",TRUE
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women: Asian vs non-Asian",NA,NA,NA,"Age",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women: Maori vs non-Maori",NA,NA,NA,"Age",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women: Most deprived vs least deprived",NA,NA,NA,"Age, Ethnicity",NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness","adults with a diagnosed mental illness",2016,"Women: Pacific vs non-Pacific",NA,NA,NA,"Age",NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Asian vs non-Asian",0.5,0.28,0.88,"Age, Sex",TRUE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Maori vs non-Maori",0.78,0.56,1.09,"Age, Sex",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Men: Asian vs non-Asian",0.58,0.25,1.34,"Age",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Men: Maori vs non-Maori",0.76,0.44,1.33,"Age",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Men: Most deprived vs least deprived",1.49,0.91,2.46,"Age, Ethnicity",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Men: Pacific vs non-Pacific",0.77,0.46,1.27,"Age",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Most deprived vs least deprived",1.28,0.92,1.79,"Age, Sex, Ethnicity",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Pacific vs non-Pacific",0.77,0.54,1.09,"Age, Sex",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Women vs men",0.81,0.65,1.01,"Age",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Women: Asian vs non-Asian",0.41,0.2,0.8,"Age",TRUE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Women: Maori vs non-Maori",0.8,0.57,1.13,"Age",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Women: Most deprived vs least deprived",1.06,0.7,1.61,"Age, Ethnicity",FALSE
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults",2018,"Women: Pacific vs non-Pacific",0.77,0.5,1.18,"Age",FALSE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Asian vs non-Asian",0.47,0.36,0.63,"Age, Sex",TRUE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Maori vs non-Maori",1.1,0.99,1.23,"Age, Sex",FALSE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Men: Asian vs non-Asian",0.44,0.27,0.71,"Age",TRUE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Men: Maori vs non-Maori",1.13,0.93,1.36,"Age",FALSE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Men: Most deprived vs least deprived",0.87,0.69,1.08,"Age, Ethnicity",FALSE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Men: Pacific vs non-Pacific",0.66,0.48,0.9,"Age",TRUE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Most deprived vs least deprived",0.91,0.79,1.04,"Age, Sex, Ethnicity",FALSE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Pacific vs non-Pacific",0.69,0.58,0.83,"Age, Sex",TRUE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Women vs men",1.17,1.07,1.28,"Age",TRUE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Women: Asian vs non-Asian",0.5,0.37,0.69,"Age",TRUE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Women: Maori vs non-Maori",1.08,0.98,1.21,"Age",FALSE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Women: Most deprived vs least deprived",0.94,0.83,1.07,"Age, Ethnicity",FALSE
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults",2018,"Women: Pacific vs non-Pacific",0.72,0.6,0.86,"Age",TRUE
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age",NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori",2018,"Most deprived vs least deprived",1.12,0.92,1.36,"Age, Sex",FALSE
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori",2018,"Women vs men",1.03,0.9,1.17,"Age",FALSE
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age",NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well",NA,NA,NA,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age",NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori",2018,"Most deprived vs least deprived",NA,NA,NA,"Age, Sex",NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori",2018,"Women vs men",2.66,0.79,8.96,"Age",FALSE
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age",NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori",2018,"Men: Most deprived vs least deprived",NA,NA,NA,"Age",NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori",2018,"Most deprived vs least deprived",1.5,0.4,5.61,"Age, Sex",FALSE
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori",2018,"Women vs men",1,0.57,1.75,"Age",FALSE
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori",2018,"Women: Most deprived vs least deprived",NA,NA,NA,"Age",NA

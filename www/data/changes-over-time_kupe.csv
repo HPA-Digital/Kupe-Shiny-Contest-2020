@@ -1,0 +1,1228 @@
+"indicator","subtopic","short.description","population","group","percent.06","percent.08","percent.10","percent.12","percent.14","percent.16","percent.18","p.value.18.06","p.value.18.08","p.value.18.10","p.value.18.12","p.value.18.14","p.value.18.16","p.value.16.06","p.value.16.08","p.value.16.10","p.value.16.12","p.value.16.14"
+"ind_1","Gambling participation","Any gambling activities","adults","Total",82.7,77.4,81.3,69.7,70.2,70.2,67.2,0,0,0,0.2,0.2,0.1,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","Men",84.1,78.5,80.6,67.8,70.3,72,67.3,0,0,0,0.9,0.3,0.1,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","Women",81.3,76.4,81.9,71.6,70.1,68.5,67.2,0,0,0,0.1,0.3,0.6,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","15-24",72.7,64,67.7,50.6,52.4,52.9,45.4,0,0,0,0.5,0.3,0.2,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","25-44",84.5,79.5,80.3,71.6,72.2,69.9,68.8,0,0,0,0.3,0.3,0.7,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","45-64",86.9,81.8,87.5,77.1,76.6,79.4,73.4,0,0,0,0.2,0.3,0,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","65+",81.8,79.7,85.3,72.4,73.3,71.7,74,0,0.2,0,0.7,0.9,0.5,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","Maori",87.8,78.3,79.9,74.1,73.5,73.1,69.3,0,0,0,0.2,0.4,0.4,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","Pacific",71.2,68.9,71.9,66.8,62.3,61.6,60.4,0,0.1,0,0.2,0.7,0.8,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","Asian",67.2,51.3,65.1,53.1,53.2,52.8,41.4,0,0.4,0,0.1,0.1,0,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","European/Other",84.4,81.2,85.2,71.1,74,74,72.7,0,0,0,0.5,0.6,0.5,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","Least (1-3)",83.4,83.4,78.7,71.7,76,72.4,67.9,0,0,0,0.3,0,0.2,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","Mid (4-7)",82.3,74.4,88,70.3,68.5,70.5,68.4,0,0.1,0,0.6,1,0.5,NA,NA,NA,NA,NA
+"ind_1","Gambling participation","Any gambling activities","adults","Most (8-10)",82.4,75.1,76.1,67.3,65.6,67.1,65.1,0,0,0,0.6,0.9,0.6,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Total",17.6,15.4,18.6,20,15.9,15.6,14,0,0.4,0,0,0.2,0.2,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Men",19.5,14.8,20.5,22.6,18.6,15.3,15.4,0.1,0.8,0.1,0,0.2,0.9,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Women",15.8,15.9,16.8,17.5,13.4,15.9,12.7,0.1,0.1,0,0,0.7,0,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","15-24",6.3,4.7,3.3,5.5,3.8,1.2,1.2,0,0.2,0.3,0,0.2,0.9,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","25-44",13,14.1,11.8,16.7,11,10.9,7.9,0,0,0.1,0,0.1,0.1,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","45-64",25.9,20.7,29.3,27.5,23.5,22,20.6,0.1,1,0.1,0,0.3,0.6,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","65+",24.9,20.4,27.5,27.1,23.3,27,25.4,0.9,0.2,0.6,0.6,0.5,0.6,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Maori",19.6,16.6,18.7,21.9,15.5,16.6,15.2,0.1,0.6,0.2,0,0.9,0.5,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Pacific",8.5,16.4,14.8,18.9,11.2,15.8,14.3,0,0.5,0.9,0.1,0.3,0.6,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Asian",11.9,6.4,14,13.2,7.6,6.4,7.8,0.3,0.8,0.6,0.3,0.9,0.7,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","European/Other",18.2,16.1,19.1,19.7,17.6,17,15,0.1,0.5,0,0,0.1,0.1,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Least (1-3)",16.8,15.7,20.9,21.7,16.7,12.1,11.4,0.1,0.1,0,0,0.1,0.8,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Mid (4-7)",18.3,15.6,18.4,19.7,16.2,16.6,14.7,0.2,0.7,0.2,0,0.5,0.3,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Most (8-10)",17.5,14.7,16.2,18.8,14.4,18.1,15.9,0.5,0.6,0.9,0.2,0.5,0.3,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Non-problem gambler",NA,NA,22.7,28.6,22.6,22.1,21.4,NA,NA,0.6,0,0.5,0.7,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Low-risk gambler",NA,NA,27.2,35.8,29.6,25.7,15.5,NA,NA,0.2,0,0.2,0.2,NA,NA,NA,NA,NA
+"ind_10","Gambling participation frequency","Non-continuous forms of gambling - at least weekly","adults","Moderate-risk or problem gambler",NA,NA,19.1,26.5,13.6,20.4,16,NA,NA,0.8,0.4,0.8,0.7,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","Total",NA,NA,NA,NA,NA,36.3,40.5,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","Men",NA,NA,NA,NA,NA,34.6,42.7,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","Women",NA,NA,NA,NA,NA,37.8,38.5,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","15-24",NA,NA,NA,NA,NA,35.1,30.9,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","25-44",NA,NA,NA,NA,NA,42.8,46.1,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","45-64",NA,NA,NA,NA,NA,33.5,46.3,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","65+",NA,NA,NA,NA,NA,23.3,34.1,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","Least (1-3)",NA,NA,NA,NA,NA,31.5,38.4,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","Mid (4-7)",NA,NA,NA,NA,NA,34.2,48.8,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_100","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – not very well","adult Maori","Most (8-10)",NA,NA,NA,NA,NA,40.4,36.1,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","Total",NA,NA,NA,NA,NA,37.3,31,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","Men",NA,NA,NA,NA,NA,41,30.5,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","Women",NA,NA,NA,NA,NA,34,31.5,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","15-24",NA,NA,NA,NA,NA,36.9,29.3,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","25-44",NA,NA,NA,NA,NA,31.7,29,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","45-64",NA,NA,NA,NA,NA,43.2,30,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","65+",NA,NA,NA,NA,NA,41.5,43.3,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","Least (1-3)",NA,NA,NA,NA,NA,54.8,44.2,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","Mid (4-7)",NA,NA,NA,NA,NA,35.1,27.1,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_101","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – just a few words/phrases","adult Maori","Most (8-10)",NA,NA,NA,NA,NA,31.5,28,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Total",11,10.8,16.1,14.2,17.4,14.3,12.3,0.4,0.3,0,0.2,0,0.1,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Men",13.2,12.8,18.8,15.1,19.2,16.2,12.4,0.7,0.9,0,0.3,0,0.1,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Women",9,9,13.6,13.4,15.6,12.5,12.1,0,0,0.4,0.5,0,0.8,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","15-24",12.2,9,11.1,12.2,12.6,10.1,9,0.5,1,0.7,0.5,0.5,0.8,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","25-44",13.1,12.6,18.8,15.8,22,16.9,13.4,0.9,0.7,0.1,0.3,0,0.2,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","45-64",11.1,10.2,18.3,13.8,18,16.5,13.4,0.4,0.2,0.1,0.9,0.1,0.2,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","65+",4.6,10,11,14,13.1,9.7,11.5,0,0.7,0.9,0.4,0.5,0.4,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Maori",19.9,11.7,22.9,15.6,20.1,15.6,16.1,0.3,0.1,0.1,0.9,0.2,0.9,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Pacific",12.1,7.7,13.8,9,16.5,10.3,8.7,0.3,0.7,0.1,0.9,0.1,0.5,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Asian",9.2,0.9,5.8,9.8,5.9,5.8,2.2,0,0.5,0.3,0,0.2,0.2,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","European/Other",10.1,12,17.5,14.8,19.6,16.2,14.1,0,0.3,0.1,0.7,0,0.2,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Least (1-3)",9.6,10.5,13.5,13.9,18.7,15.6,10.6,0.6,0.9,0.4,0.3,0,0,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Mid (4-7)",11.7,10.5,19.9,14,19.3,14.7,12.4,0.8,0.5,0,0.6,0,0.3,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Most (8-10)",11.7,11.7,14.5,14.7,12.5,11.9,14.2,0.3,0.4,0.9,0.8,0.5,0.3,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Non-problem gambler",NA,NA,17.2,18.6,23,18.3,16.4,NA,NA,0.7,0.3,0,0.3,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Low-risk gambler",NA,NA,31.8,57.1,48.4,37.6,26.7,NA,NA,0.6,0,0.1,0.3,NA,NA,NA,NA,NA
+"ind_11","Gambling participation frequency","Four or more activities","adults","Moderate-risk or problem gambler",NA,NA,58,40.3,50.4,68.6,60.6,NA,NA,0.9,0.3,0.6,0.6,NA,NA,NA,NA,NA
+"ind_12","Gambling participation frequency","Average number of activities",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","Total",NA,NA,72.2,65.2,65.4,65.3,61.7,NA,NA,0,0.1,0.1,0.1,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","Men",NA,NA,69.9,62.6,64.3,66.3,59.2,NA,NA,0,0.3,0.1,0,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","Women",NA,NA,74.3,67.6,66.4,64.5,64.1,NA,NA,0,0.2,0.4,0.9,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","15-24",NA,NA,62.2,44.6,48,49,36.9,NA,NA,0,0.2,0.1,0,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","25-44",NA,NA,71.2,65.3,66.4,64.8,61.6,NA,NA,0,0.2,0.1,0.3,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","45-64",NA,NA,75.2,73.7,71.2,73.3,70.3,NA,NA,0.2,0.3,0.8,0.3,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","65+",NA,NA,78.9,70.1,70.6,68.4,70.3,NA,NA,0,1,0.9,0.6,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","Maori",NA,NA,61.7,66.4,65.6,63.2,58.9,NA,NA,0.6,0.1,0.1,0.3,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","Pacific",NA,NA,57.7,57.9,53.7,52,53.9,NA,NA,0.5,0.4,1,0.7,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","Asian",NA,NA,54.5,48.9,46.5,47.4,36.5,NA,NA,0,0.1,0.1,0,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","European/Other",NA,NA,77.7,67.1,70.2,69.8,67.4,NA,NA,0,0.9,0.3,0.3,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","Least (1-3)",NA,NA,73.6,70.1,72.6,69.4,63.5,NA,NA,0,0.1,0,0.1,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","Mid (4-7)",NA,NA,77.8,65.6,63.9,64.9,63.3,NA,NA,0,0.5,0.9,0.7,NA,NA,NA,NA,NA
+"ind_13","Gambling harm","Gamblers (PGSI) - non-problem","adults","Most (8-10)",NA,NA,63.6,60.1,58.7,61.2,57.5,NA,NA,0.1,0.5,0.8,0.3,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","Total",NA,NA,6,2.7,3,3.3,3.6,NA,NA,0,0.3,0.5,0.7,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","Men",NA,NA,7,3.1,3.4,3.7,5.1,NA,NA,0.3,0.2,0.3,0.4,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","Women",NA,NA,5,2.3,2.6,3,2.2,NA,NA,0,0.9,0.6,0.2,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","15-24",NA,NA,2.2,3.3,3.1,2.3,5.4,NA,NA,0.3,0.5,0.5,0.3,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","25-44",NA,NA,5.6,3.5,2.8,3.5,5.1,NA,NA,0.8,0.4,0.2,0.4,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","45-64",NA,NA,8.9,2.3,3.5,4.2,1.1,NA,NA,0,0.1,0,0,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","65+",NA,NA,4.9,1.4,2.4,2.5,3.4,NA,NA,0.4,0.1,0.4,0.5,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","Maori",NA,NA,9.1,4.7,5.7,5.3,4.5,NA,NA,0,0.9,0.5,0.7,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","Pacific",NA,NA,7.8,3.3,4.2,7.3,3,NA,NA,0.1,0.9,0.6,0,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","Asian",NA,NA,2.1,2.4,3.3,3.2,3.8,NA,NA,0.6,0.6,0.9,0.8,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","European/Other",NA,NA,5.9,2.4,2.4,3.1,3.9,NA,NA,0.2,0.2,0.2,0.4,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","Least (1-3)",NA,NA,3.7,1,3.3,2.8,3.7,NA,NA,1,0.2,0.9,0.7,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","Mid (4-7)",NA,NA,6,2.5,2.7,3.5,2.7,NA,NA,0.1,0.9,1,0.5,NA,NA,NA,NA,NA
+"ind_14","Gambling harm","Gamblers (PGSI) - low risk","adults","Most (8-10)",NA,NA,8.6,4.5,3.1,3.8,4.9,NA,NA,0.1,0.8,0.2,0.4,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","Total",NA,NA,3.1,1.3,1.8,1.5,1.9,NA,NA,0.1,0.3,0.9,0.5,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","Men",NA,NA,3.8,1.6,2.7,2.1,3,NA,NA,0.6,0.2,0.8,0.5,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","Women",NA,NA,2.6,1,1,1,0.9,NA,NA,0,0.8,0.8,0.9,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","15-24",NA,NA,3.4,1.5,1.2,1.6,3.2,NA,NA,0.9,0.6,0.6,0.6,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","25-44",NA,NA,3.5,2,3,1.5,2.2,NA,NA,0.4,0.8,0.5,0.4,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","45-64",NA,NA,3.4,0.8,2,1.9,2,NA,NA,0.2,0.1,1,0.9,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","65+",NA,NA,1.5,0.8,0.3,0.8,0.3,NA,NA,0.1,0.3,0.9,0.4,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","Maori",NA,NA,9.1,2.1,2.2,4.6,5.9,NA,NA,0.2,0.1,0.1,0.5,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","Pacific",NA,NA,6.5,3.8,4.4,2.4,3.5,NA,NA,0.2,0.9,0.7,0.5,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","Asian",NA,NA,8.5,0.4,3.3,2.2,1.1,NA,NA,0.1,0.4,0.3,0.5,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","European/Other",NA,NA,1.6,1.1,1.3,1.2,1.4,NA,NA,0.8,0.8,1,0.8,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","Least (1-3)",NA,NA,1.4,0.2,0.2,0.3,0.7,NA,NA,0.4,0.3,0.3,0.4,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","Mid (4-7)",NA,NA,4.2,1.6,2,2.1,2.4,NA,NA,0.3,0.6,0.8,0.8,NA,NA,NA,NA,NA
+"ind_15","Gambling harm","Gamblers (PGSI) - moderate risk and problem","adults","Most (8-10)",NA,NA,3.8,1.9,3.8,2.1,2.6,NA,NA,0.4,0.5,0.5,0.6,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Total",NA,9.1,7.4,5.7,2.7,3.1,6.8,NA,0.1,0.7,0.4,0,0,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Men",NA,11.8,7.2,7.2,3.4,4.8,8.4,NA,0.2,0.6,0.6,0,0.1,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Women",NA,6.5,7.6,4.3,2,1.5,5.3,NA,0.4,0.2,0.4,0,0,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","15-24",NA,15.6,3.5,11.3,3,4.9,10.3,NA,0.5,0.3,0.9,0.3,0.4,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","25-44",NA,10.1,8.3,5.7,3.6,3.2,7,NA,0.2,0.6,0.5,0.1,0,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","45-64",NA,6.5,8,4,2.2,3.1,6.7,NA,0.9,0.6,0.1,0,0,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","65+",NA,6,7.8,4.7,1.8,1.6,4.8,NA,0.6,0.3,1,0,0,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Maori",NA,11.9,18.8,7.7,3.8,7,11.6,NA,0.9,0.1,0.2,0,0.1,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Pacific",NA,11.8,10.7,7.1,6.6,4.4,7.3,NA,0.2,0.4,1,0.9,0.4,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Asian",NA,8.7,7.6,5.8,4.8,4.2,12.7,NA,0.7,0.5,0.2,0.2,0.1,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","European/Other",NA,8.4,6,5.5,1.9,2.8,5.4,NA,0.1,0.7,1,0,0,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Least (1-3)",NA,6.7,3.1,2.3,1.4,1.4,7.1,NA,0.9,0.1,0,0,0,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Mid (4-7)",NA,8.1,9.3,5.7,2.2,4,5.9,NA,0.4,0.2,0.9,0.1,0.4,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Most (8-10)",NA,13.6,9.8,8.8,5.5,3.8,7.9,NA,0.1,0.4,0.8,0.4,0,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Non-problem gambler",NA,NA,2.2,2.1,0.4,0.8,4.5,NA,NA,0,0,0,0,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Low-risk gambler",NA,NA,39.6,55.9,14.2,15.3,6.4,NA,NA,0,0,0.1,0.1,NA,NA,NA,NA,NA
+"ind_16","Gambling harm","Gambled more than intended","adults have gambled in the last 12 months","Moderate-risk or problem gambler",NA,NA,65.8,80.4,64.4,75,81.3,NA,NA,0.2,0.9,0.2,0.5,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Total",NA,6.3,6.6,10.8,5.5,5.6,6.8,NA,0.7,0.9,0,0.3,0.3,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Men",NA,4.8,5,9,5.5,4.9,7.3,NA,0.3,0.2,0.4,0.4,0.2,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Women",NA,7.6,8.1,12.6,5.5,6.3,6.3,NA,0.4,0.2,0,0.5,1,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","15-24",NA,11.7,9,16.2,4.4,7.1,9.2,NA,0.7,1,0.1,0.2,0.6,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","25-44",NA,6.9,7.9,13.2,7.4,7.1,8,NA,0.5,0.9,0,0.7,0.6,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","45-64",NA,4.3,5.8,7.8,6.8,5.2,6.8,NA,0.1,0.6,0.6,1,0.3,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","65+",NA,2.3,3,6.5,1.7,2.2,2.6,NA,0.9,0.8,0,0.3,0.7,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Maori",NA,17.3,15.5,29.4,10.6,15.6,15.5,NA,0.7,1,0,0.1,1,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Pacific",NA,18.8,17.7,18.3,11.6,9,12,NA,0.1,0.2,0.1,0.9,0.4,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Asian",NA,8.2,6.4,8.2,3.8,2.8,5.2,NA,0.7,0.7,0.4,0.6,0.3,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","European/Other",NA,4,5.4,8.8,5.1,5.6,5.9,NA,0.1,0.7,0,0.5,0.8,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Least (1-3)",NA,3.3,2.3,3.5,3.3,2.8,5.4,NA,0.3,0.1,0.3,0.2,0.1,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Mid (4-7)",NA,5.4,6.3,11.1,5.7,7.1,6,NA,0.8,0.8,0,0.9,0.6,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Most (8-10)",NA,10.7,11.9,17,8.4,6.5,9.7,NA,0.7,0.4,0,0.6,0.1,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Non-gambler",NA,NA,4.8,8.5,4.1,2.6,4.2,NA,NA,0.7,0,0.9,0.2,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Non-problem gambler",NA,NA,4.7,10.6,4.9,6.1,7.5,NA,NA,0.1,0.1,0.1,0.3,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Low-risk gambler",NA,NA,13.6,28.6,13.6,8.9,5.6,NA,NA,0.1,0,0.2,0.5,NA,NA,NA,NA,NA
+"ind_17","Gambling harm","Household-level gambling harm","adults","Moderate-risk or problem gambler",NA,NA,47.2,34.1,39.5,35.6,29.6,NA,NA,0.2,0.8,0.6,0.7,NA,NA,NA,NA,NA
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Total",35.5,NA,21.9,18.1,13.4,12.2,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.3
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Men",34.1,NA,20.5,16.2,13.2,12.8,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0.1,0.8
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Women",36.9,NA,23.2,19.8,13.5,11.7,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.3
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","15-24",39.7,NA,23.5,28.7,15.5,11.2,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.3
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","25-44",39,NA,24.3,20.4,17.5,15.8,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.4
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","45-64",34.1,NA,22.9,13.9,11,11.9,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0.3,0.6
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","65+",25,NA,12.9,10.7,8.2,7.5,NA,NA,NA,NA,NA,NA,NA,0,NA,0.1,0.1,0.7
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Maori",59.7,NA,42,36.4,26.4,25.3,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.8
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Pacific",54.8,NA,38.7,30.8,24.5,18.7,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.2
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Asian",29.5,NA,22.6,19,13,3.9,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","European/Other",32.6,NA,19.7,16,12,12.6,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.6
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Least (1-3)",28.8,NA,15.5,8.2,11.7,10.2,NA,NA,NA,NA,NA,NA,NA,0,NA,0.1,0.3,0.5
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Mid (4-7)",35.3,NA,21.6,17.8,11.8,12.6,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.6
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Most (8-10)",43.6,NA,29.5,27.3,18.4,14,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.1
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Non-gambler",NA,NA,13.4,13,9.3,6.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0.1
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Non-problem gambler",NA,NA,21.1,18,13.4,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0.7
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Low-risk gambler",NA,NA,39.2,55.4,31.8,22.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0.3
+"ind_18","Gambling harm","Friend/family member gambled more than intended","adults","Moderate-risk or problem gambler",NA,NA,57.6,43.5,47.8,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.3
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Total",NA,NA,59.8,NA,38.3,37.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.7
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Men",NA,NA,58.5,NA,37.5,40.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.3
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Women",NA,NA,60.9,NA,39,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.1
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","15-24",NA,NA,62.3,NA,37.3,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.3
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","25-44",NA,NA,61.9,NA,37.2,40.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.3
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","45-64",NA,NA,59.5,NA,39.1,38.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.9
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","65+",NA,NA,52.9,NA,39.8,38.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.7
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Maori",NA,NA,70.6,NA,43.5,46.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.5
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Pacific",NA,NA,53.5,NA,41.6,33.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.1
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Asian",NA,NA,35.1,NA,26.5,17.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.2
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","European/Other",NA,NA,62.8,NA,39.7,41.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.5
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Least (1-3)",NA,NA,64.7,NA,41,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.5
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Mid (4-7)",NA,NA,57.7,NA,37.2,36.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.8
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Most (8-10)",NA,NA,56.8,NA,36.9,39.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.5
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Non-gambler",NA,NA,59.8,NA,31.4,27.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.3
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Non-problem gambler",NA,NA,59.8,NA,40.2,41.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.5
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Low-risk gambler",NA,NA,59.1,NA,50,44.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.6
+"ind_19","Attitudes to gambling harm","Pokies in pubs/clubs are more harmful than other gambling activities","adults","Moderate-risk or problem gambler",NA,NA,59.2,NA,61.7,48.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,0.4
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Total",21.5,22.8,20.2,16.5,14.7,11.9,13,0,0,0,0,0.2,0.5,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Men",22.2,25.5,23.6,16.8,14.7,11.6,13.2,0,0,0,0.2,0.5,0.5,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Women",20.7,20.1,17.1,16.2,14.7,12.3,12.7,0,0,0,0.1,0.3,0.8,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","15-24",21.6,32.2,21.6,18.4,16.5,13.7,14.2,0.2,0,0.2,0.5,0.7,0.9,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","25-44",23.6,23.5,21.7,17.4,19.8,14.5,13.6,0,0,0,0.1,0,0.7,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","45-64",20.8,18,21.1,15.6,11.4,10.8,12.6,0,0.1,0,0.3,0.6,0.4,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","65+",17.2,19.3,13.8,14.5,9.6,7.5,11.3,0.1,0,0.4,0.3,0.5,0,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Maori",34.4,24.2,31.7,20.5,19.6,20.9,16.7,0,0,0,0.2,0.3,0.2,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Pacific",24.4,17.8,20.5,11.5,17.7,12.4,14.2,0,0.4,0.1,0.5,0.4,0.6,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Asian",16.8,10.9,16.4,12.4,4.5,7.7,6.4,0,0.5,0.1,0.1,0.5,0.7,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","European/Other",20.4,24.4,20,16.9,15.7,12.1,13.5,0,0,0,0.1,0.2,0.4,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Least (1-3)",19,21.1,17,15.7,12.3,10.3,8.3,0,0,0,0,0.1,0.4,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Mid (4-7)",23.1,22.7,23.6,15.9,15.4,13.2,13,0,0,0,0.3,0.4,0.9,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Most (8-10)",21.8,24.6,19.8,18.1,16.6,11.7,18.4,0.3,0.1,0.6,0.9,0.5,0,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Non-problem gambler",NA,NA,20.4,20.6,18.5,14,17.8,NA,NA,0.3,0.2,0.7,0.1,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Low-risk gambler",NA,NA,47.3,66.4,38.2,49.9,23.1,NA,NA,0,0,0.2,0,NA,NA,NA,NA,NA
+"ind_2","Gambling participation","Pokies at pub/club/casino","adults","Moderate-risk or problem gambler",NA,NA,84.6,62.8,79.1,72.5,59.9,NA,NA,0.1,0.9,0.3,0.4,NA,NA,NA,NA,NA
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Total",71,NA,61.7,45.3,59.6,56.2,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.1
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Men",70.9,NA,61.3,44.5,59.6,56.4,NA,NA,NA,NA,NA,NA,NA,0,NA,0.2,0,0.3
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Women",71.2,NA,62,45.9,59.7,56,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.2
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","15-24",70.5,NA,53.1,38.1,48.4,44.8,NA,NA,NA,NA,NA,NA,NA,0,NA,0.2,0.2,0.5
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","25-44",73.1,NA,65.2,50,63.4,60,NA,NA,NA,NA,NA,NA,NA,0,NA,0.1,0,0.3
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","45-64",73.4,NA,67.8,47.8,64.4,59.8,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.2
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","65+",61.8,NA,50.5,39.1,56.3,54.2,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.4,0,0.6
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Maori",64.1,NA,54.1,46,59.5,57.6,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.4,0,0.6
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Pacific",72.6,NA,60.4,47.4,64.7,50.7,NA,NA,NA,NA,NA,NA,NA,0,NA,0.1,0.5,0
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Asian",66.3,NA,55,35.8,36.7,44.3,NA,NA,NA,NA,NA,NA,NA,0,NA,0.2,0.3,0.2
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","European/Other",72,NA,64.1,46.7,63.1,58.9,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.1
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Least (1-3)",71.4,NA,70.5,41.7,61,57.7,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0,0.4
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Mid (4-7)",71.5,NA,61,47.7,58.8,56.9,NA,NA,NA,NA,NA,NA,NA,0,NA,0.3,0,0.5
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Most (8-10)",70,NA,52.3,45,59.7,53.2,NA,NA,NA,NA,NA,NA,NA,0,NA,0.8,0,0.1
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Non-gambler",NA,NA,51.1,35.7,53,44.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0,0
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Non-problem gambler",NA,NA,64.7,48.5,61.9,61,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0,0.7
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Low-risk gambler",NA,NA,68.8,61.6,64.2,62.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.9,0.9
+"ind_20","Attitudes to gambling harm","Know what to do to help a friend or family member","adults","Moderate-risk or problem gambler",NA,NA,42,64.2,78.8,70.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.6,0.5
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Total",NA,NA,NA,52,53.4,43.8,48,NA,NA,NA,0.1,0,0.1,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Men",NA,NA,NA,51.5,52.5,43.2,45.5,NA,NA,NA,0.1,0.1,0.5,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Women",NA,NA,NA,52.5,54.2,44.4,50.3,NA,NA,NA,0.5,0.2,0,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","15-24",NA,NA,NA,45.3,48.9,41,46.9,NA,NA,NA,0.8,0.8,0.3,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","25-44",NA,NA,NA,52.4,52.3,45.5,45,NA,NA,NA,0.1,0.1,0.9,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","45-64",NA,NA,NA,57.2,60.7,47.7,53.8,NA,NA,NA,0.4,0.1,0.1,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","65+",NA,NA,NA,48.9,47.6,37,44.9,NA,NA,NA,0.3,0.5,0,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Maori",NA,NA,NA,51.9,51.5,48.5,55.3,NA,NA,NA,0.4,0.4,0.1,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Pacific",NA,NA,NA,60.5,62.5,54.2,52.2,NA,NA,NA,0.1,0.1,0.7,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Asian",NA,NA,NA,60.3,53.2,46.2,44.4,NA,NA,NA,0,0.3,0.8,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","European/Other",NA,NA,NA,50.4,52.9,42.1,49.1,NA,NA,NA,0.6,0.2,0,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Least (1-3)",NA,NA,NA,46.7,60.2,40.7,46.3,NA,NA,NA,1,0,0.3,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Mid (4-7)",NA,NA,NA,54.4,48.7,44,48.6,NA,NA,NA,0.1,1,0.1,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Most (8-10)",NA,NA,NA,53.4,52.8,47.3,49.8,NA,NA,NA,0.3,0.5,0.5,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Non-gambler",NA,NA,NA,50.4,50.8,44.2,41.4,NA,NA,NA,0,0,0.4,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Non-problem gambler",NA,NA,NA,52.2,53.6,43.1,51.2,NA,NA,NA,0.7,0.4,0,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Low-risk gambler",NA,NA,NA,60.8,62.1,49.9,42.2,NA,NA,NA,0.2,0.1,0.5,NA,NA,NA,NA,NA
+"ind_21","Attitudes to gambling harm","Concern with the level of gambling in the community","adults","Moderate-risk or problem gambler",NA,NA,NA,59.1,72,54.1,66,NA,NA,NA,0.7,0.7,0.4,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Total",NA,NA,NA,NA,5.1,4.5,4.4,NA,NA,NA,NA,0.6,1,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Men",NA,NA,NA,NA,7.6,6.4,6,NA,NA,NA,NA,0.5,0.8,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Women",NA,NA,NA,NA,2.6,2.6,2.9,NA,NA,NA,NA,0.8,0.8,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","15-24",NA,NA,NA,NA,5.3,5.8,7.2,NA,NA,NA,NA,0.8,0.8,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","25-44",NA,NA,NA,NA,4.6,3.6,4.3,NA,NA,NA,NA,0.9,0.7,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","45-64",NA,NA,NA,NA,6.4,5.1,4.4,NA,NA,NA,NA,0.3,0.6,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","65+",NA,NA,NA,NA,3.5,3.9,3.3,NA,NA,NA,NA,0.9,0.8,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Maori",NA,NA,NA,NA,6.5,8.5,8,NA,NA,NA,NA,0.6,0.9,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Pacific",NA,NA,NA,NA,12.3,9.4,9.8,NA,NA,NA,NA,0.6,0.9,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Asian",NA,NA,NA,NA,7.8,9.4,4.6,NA,NA,NA,NA,0.5,0.2,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","European/Other",NA,NA,NA,NA,3.8,3.5,3.5,NA,NA,NA,NA,0.9,1,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Least (1-3)",NA,NA,NA,NA,2.8,2.6,2.3,NA,NA,NA,NA,0.7,0.8,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Mid (4-7)",NA,NA,NA,NA,4.4,5.2,5.6,NA,NA,NA,NA,0.6,0.9,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Most (8-10)",NA,NA,NA,NA,9.9,5.6,5.3,NA,NA,NA,NA,0.1,0.8,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Non-problem gambler",NA,NA,NA,NA,3,2.2,2.2,NA,NA,NA,NA,0.4,0.9,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Low-risk gambler",NA,NA,NA,NA,19,19.6,13.1,NA,NA,NA,NA,0.5,0.5,NA,NA,NA,NA,NA
+"ind_22","Gambling harm","‘Checked in’ about gambling","adults have gambled in the last 12 months","Moderate-risk or problem gambler",NA,NA,NA,NA,54.9,69.5,58.2,NA,NA,NA,NA,0.9,0.5,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Total",NA,NA,NA,NA,8.1,4.4,5.5,NA,NA,NA,NA,0,0.2,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Men",NA,NA,NA,NA,8.2,4.8,6.1,NA,NA,NA,NA,0.2,0.4,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Women",NA,NA,NA,NA,8,4.1,5,NA,NA,NA,NA,0,0.4,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","15-24",NA,NA,NA,NA,6.7,3.4,6.2,NA,NA,NA,NA,0.9,0.4,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","25-44",NA,NA,NA,NA,11.4,5.9,5.1,NA,NA,NA,NA,0,0.6,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","45-64",NA,NA,NA,NA,6.9,4.7,5.6,NA,NA,NA,NA,0.5,0.5,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","65+",NA,NA,NA,NA,6,2.4,5.5,NA,NA,NA,NA,0.8,0,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Maori",NA,NA,NA,NA,10.3,7.1,8.8,NA,NA,NA,NA,0.6,0.4,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Pacific",NA,NA,NA,NA,11.4,6.4,7.1,NA,NA,NA,NA,0.3,0.8,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Asian",NA,NA,NA,NA,3.5,4.5,2.8,NA,NA,NA,NA,0.8,0.5,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","European/Other",NA,NA,NA,NA,8.5,4.3,5.4,NA,NA,NA,NA,0,0.3,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Least (1-3)",NA,NA,NA,NA,5.9,4.2,3.9,NA,NA,NA,NA,0.2,0.9,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Mid (4-7)",NA,NA,NA,NA,8.7,4.8,5.8,NA,NA,NA,NA,0.1,0.5,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Most (8-10)",NA,NA,NA,NA,10.1,4.1,7,NA,NA,NA,NA,0.2,0,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Non-problem gambler",NA,NA,NA,NA,10.2,4.1,6.3,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Low-risk gambler",NA,NA,NA,NA,16.1,30.2,16.8,NA,NA,NA,NA,0.9,0.1,NA,NA,NA,NA,NA
+"ind_26","Gaming machines and pokies","Spent more than $25 on playing gaming machines/pokies","adults","Moderate-risk or problem gambler",NA,NA,NA,NA,53.4,51.8,52.5,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Total",67.1,63.8,65.6,59.7,59.5,60.8,55.1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Men",68.9,63.8,65.2,57.9,58.3,61.5,55.2,0,0,0,0.4,0.3,0,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Women",65.4,63.8,65.9,61.5,60.5,60.2,55,0,0,0,0,0,0,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","15-24",48.2,41.6,36.3,38.7,36.5,37.1,30.7,0,0.2,0.4,0.2,0.4,0.2,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","25-44",71.7,68.5,64.7,62.9,61.6,62.1,55,0,0,0,0,0,0,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","45-64",73.4,70.4,79.1,67.8,68.4,71.5,64.5,0,0.1,0,0.3,0.2,0,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","65+",66.1,66.1,71.1,60.6,63,63,62.2,0.4,0.4,0.1,0.7,0.8,0.8,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Maori",76.4,66.3,65.6,62.7,60.7,60.4,56.7,0,0,0.1,0.1,0.3,0.3,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Pacific",52.4,59.8,52.2,55.5,50,50.7,51.5,0.9,0.1,0.9,0.4,0.8,0.9,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Asian",54.9,45.1,45.3,47.2,44.6,45.8,34.2,0,0.3,0.2,0,0.2,0,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","European/Other",68,66,69.2,60.4,62.8,64.3,59.3,0,0,0,0.6,0.2,0,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Least (1-3)",63.1,67.6,63.7,61.4,64.7,62.8,57.2,0.2,0,0.2,0.2,0.1,0.1,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Mid (4-7)",67.3,61.3,72.4,60.5,59.2,60.2,53.9,0,0.1,0,0,0.1,0,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Most (8-10)",71.5,63.2,59.4,57.3,53.3,59.5,54.7,0,0,0.2,0.5,0.7,0.1,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Non-problem gambler",NA,NA,80.6,86.1,84.5,86.8,82.5,NA,NA,0.4,0.1,0.3,0,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Low-risk gambler",NA,NA,81.2,89.7,85.9,79.7,71.5,NA,NA,0.4,0.1,0.3,0.5,NA,NA,NA,NA,NA
+"ind_3","Gambling participation","Any NZ Lotto products","adults","Moderate-risk or problem gambler",NA,NA,81.5,90.6,88.6,91,84.5,NA,NA,0.8,0.5,0.7,0.6,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Total",18.5,18.5,16,13.1,12.8,9.9,11.3,0,0,0,0.3,0.3,0.3,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Men",19.8,22.4,18.5,12.8,12.9,10.1,11.7,0,0,0,0.7,0.6,0.5,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Women",17.3,14.9,13.6,13.3,12.7,9.6,10.9,0,0,0.1,0.2,0.3,0.3,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","15-24",20.9,27.9,18.6,15.2,13.5,11,13.8,0.2,0,0.4,0.8,1,0.6,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","25-44",18.9,18.4,14.8,13.4,18.2,13,11.6,0,0,0.2,0.4,0,0.5,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","45-64",18.2,13.8,17.7,12,9.9,8.2,10.1,0,0.1,0,0.4,0.9,0.3,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","65+",15.4,17.1,11.9,12.2,7.6,6,10.4,0.1,0.1,0.6,0.5,0.2,0,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Maori",31.6,22.4,29.4,18,18.2,19.1,14.9,0,0,0,0.3,0.3,0.2,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Pacific",18.2,15.9,18.7,10.5,15.3,10.9,11.6,0.1,0.3,0.1,0.8,0.4,0.8,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Asian",13.2,2.4,4.4,8.2,2.4,4,3.2,0,0.8,0.6,0.2,0.7,0.7,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","European/Other",17.7,20.4,16.3,13.3,13.8,10.3,12.2,0,0,0.1,0.6,0.4,0.2,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Least (1-3)",15,16,13.5,12.1,11,8.3,7,0,0,0,0.1,0.1,0.5,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Mid (4-7)",20.9,17.4,18.1,12.2,12.8,10.8,12.1,0,0.1,0.1,1,0.8,0.6,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Most (8-10)",19.1,22.8,16.1,15.1,15.1,10.2,15.2,0.2,0,0.8,1,1,0,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Non-problem gambler",NA,NA,15.8,16.2,15.9,11.6,15.3,NA,NA,0.8,0.7,0.8,0,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Low-risk gambler",NA,NA,42.7,52.2,36.9,36.9,20.8,NA,NA,0,0,0.1,0.1,NA,NA,NA,NA,NA
+"ind_31","Gaming machines and pokies","Pokies at either pubs/clubs","adults","Moderate-risk or problem gambler",NA,NA,62.7,59.3,70,70.5,57.7,NA,NA,0.8,0.9,0.5,0.4,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Total",8.6,12.2,10.2,10,6.9,5.1,4.9,0,0,0,0,0.1,0.9,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Men",8.4,12.1,11.8,10.9,7.1,4.3,4.6,0,0,0,0,0.1,0.8,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Women",8.9,12.2,8.6,9.2,6.6,5.8,5.2,0,0,0,0,0.3,0.6,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","15-24",4.6,13.3,9.3,11.3,9.4,5.4,5.4,0.8,0.2,0.4,0.2,0.3,1,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","25-44",10.2,13.1,13.1,10.5,9.7,6,5.4,0,0,0,0,0,0.7,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","45-64",10.9,9.9,9.7,9.1,4.1,5.3,4.6,0,0,0,0,0.7,0.6,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","65+",5.2,13.3,5.8,9.4,4.1,2.7,4.3,0.6,0,0.5,0,0.9,0.2,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Maori",11.6,7.5,12.2,7.6,7.3,6.9,5.2,0,0.3,0,0.3,0.3,0.4,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Pacific",17.2,8.3,12.2,5.5,11.5,6.3,6.1,0,0.4,0,0.8,0.2,0.9,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Asian",11.9,9.4,14,9.9,2.8,5.4,4.4,0,0.5,0.1,0.1,0.5,0.7,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","European/Other",7.3,12.9,9.7,10.6,7.3,4.9,4.9,0.1,0,0,0,0.1,1,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Least (1-3)",10.2,13,8.7,9.6,6.3,5.4,3.7,0,0,0,0,0.2,0.3,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Mid (4-7)",8.2,12,12.4,10.6,8.4,5.7,4.4,0.1,0,0,0,0,0.4,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Most (8-10)",7.5,11.6,9,9.5,4.9,3.6,7.2,0.9,0.1,0.4,0.3,0.2,0,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Non-problem gambler",NA,NA,10.1,12.6,8.6,6.1,6.4,NA,NA,0,0,0.1,0.8,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Low-risk gambler",NA,NA,18.8,41.1,16.7,22.9,10.9,NA,NA,0.2,0,0.4,0.1,NA,NA,NA,NA,NA
+"ind_32","Gaming machines and pokies","Pokies at casinos","adults","Moderate-risk or problem gambler",NA,NA,55.3,31.5,41.8,23.4,32.1,NA,NA,0.2,1,0.7,0.7,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","Total",NA,NA,NA,NA,NA,93.4,95.2,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","Men",NA,NA,NA,NA,NA,92.1,95.1,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","Women",NA,NA,NA,NA,NA,94.5,95.4,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","15-24",NA,NA,NA,NA,NA,93.9,95.6,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","25-44",NA,NA,NA,NA,NA,93.8,96.8,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","45-64",NA,NA,NA,NA,NA,93.3,93.5,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","65+",NA,NA,NA,NA,NA,92.1,94.9,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","Maori",NA,NA,NA,NA,NA,90,94.5,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","Pacific",NA,NA,NA,NA,NA,95.2,96.6,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","Asian",NA,NA,NA,NA,NA,96.2,95.9,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","European/Other",NA,NA,NA,NA,NA,92.6,95.1,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","Least (1-3)",NA,NA,NA,NA,NA,95.2,97.6,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","Mid (4-7)",NA,NA,NA,NA,NA,92,94.7,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_33","Attitudes to tobacco","Ban smoking in cars when children under 18 years old are present","adults","Most (8-10)",NA,NA,NA,NA,NA,93.5,93.9,NA,NA,NA,NA,NA,0.8,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","Total",NA,56.1,NA,NA,75.5,78.6,78,NA,0,NA,NA,0.1,0.7,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","Men",NA,56.2,NA,NA,71.5,75.6,77.4,NA,0,NA,NA,0,0.5,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","Women",NA,56,NA,NA,79.2,81.4,78.6,NA,0,NA,NA,0.8,0.1,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","15-24",NA,54.2,NA,NA,62.6,69.8,74.7,NA,0,NA,NA,0,0.4,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","25-44",NA,51.2,NA,NA,75.1,78.8,76.1,NA,0,NA,NA,0.8,0.3,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","45-64",NA,58.3,NA,NA,79.4,79.7,78.3,NA,0,NA,NA,0.7,0.6,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","65+",NA,65.5,NA,NA,81.8,84.7,83.6,NA,0,NA,NA,0.5,0.7,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","Maori",NA,47.2,NA,NA,62.4,67.2,69.8,NA,0,NA,NA,0.1,0.5,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","Pacific",NA,51.1,NA,NA,74.8,75.4,77.7,NA,0,NA,NA,0.6,0.6,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","Asian",NA,70.2,NA,NA,85.2,85.3,83.4,NA,0.2,NA,NA,0.8,0.7,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","European/Other",NA,55.6,NA,NA,74.7,78,77.8,NA,0,NA,NA,0.1,0.9,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","Least (1-3)",NA,63.4,NA,NA,80.3,83,82.6,NA,0,NA,NA,0.5,0.9,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","Mid (4-7)",NA,53.9,NA,NA,74.5,78,76.6,NA,0,NA,NA,0.4,0.6,NA,NA,NA,NA,NA
+"ind_34","Attitudes to tobacco","Ban smoking in all public outdoor dining areas","adults","Most (8-10)",NA,51,NA,NA,70.8,74.4,74.7,NA,0,NA,NA,0.2,0.9,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","Total",NA,65.7,67.5,70.6,67.5,70.1,68.1,NA,0.3,0.8,0.2,0.8,0.3,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","Men",NA,63.7,63.8,66.1,64.4,65.8,64,NA,0.9,1,0.5,0.9,0.6,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","Women",NA,67.6,71,74.8,70.4,74.1,72,NA,0.1,0.7,0.2,0.5,0.3,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","15-24",NA,73,65.2,71.5,61.5,70.9,60.6,NA,0.1,0.6,0.1,0.9,0.1,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","25-44",NA,65.7,68.3,66.4,65.9,69.3,70.8,NA,0.2,0.5,0.2,0.2,0.6,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","45-64",NA,59.9,65.8,72.1,70.1,71.6,68.8,NA,0,0.4,0.3,0.7,0.4,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","65+",NA,69,71.9,75,71.5,68.1,68.9,NA,1,0.5,0.1,0.4,0.8,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","Maori",NA,59.4,62.9,59.4,62.4,62.8,65.1,NA,0.3,0.7,0.2,0.5,0.6,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","Pacific",NA,73.6,73.5,74.2,74.5,68.3,79.1,NA,0.2,0.2,0.3,0.3,0,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","Asian",NA,85.5,84.3,83,81.6,84.9,77.6,NA,0.2,0.4,0.3,0.5,0.2,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","European/Other",NA,63.7,65,70.5,64.5,68.1,66.3,NA,0.4,0.6,0.1,0.5,0.4,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","Least (1-3)",NA,68.7,72.7,72.4,68.3,75.4,74.2,NA,0.3,0.7,0.7,0.2,0.7,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","Mid (4-7)",NA,64.5,66.5,72.8,67.5,68.6,65.7,NA,0.8,0.9,0,0.6,0.4,NA,NA,NA,NA,NA
+"ind_35","Attitudes to tobacco","Reduce number of places allowed to sell cigarettes and tobacco","adults","Most (8-10)",NA,64.2,62.8,65.9,66.4,66.2,64.2,NA,1,0.7,0.6,0.6,0.5,NA,NA,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","Total",NA,60.9,NA,NA,NA,65.2,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","Men",NA,59.2,NA,NA,NA,60.4,NA,NA,NA,NA,NA,NA,NA,NA,0.7,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","Women",NA,62.5,NA,NA,NA,69.7,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","15-24",NA,63.4,NA,NA,NA,72.2,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","25-44",NA,60.7,NA,NA,NA,63.3,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","45-64",NA,57.7,NA,NA,NA,63.8,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","65+",NA,64.9,NA,NA,NA,64.2,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","Maori",NA,54.2,NA,NA,NA,56.6,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","Pacific",NA,74.5,NA,NA,NA,73,NA,NA,NA,NA,NA,NA,NA,NA,0.7,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","Asian",NA,82.7,NA,NA,NA,78.6,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","European/Other",NA,58,NA,NA,NA,62.8,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","Least (1-3)",NA,63.4,NA,NA,NA,73.8,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","Mid (4-7)",NA,61.2,NA,NA,NA,62,NA,NA,NA,NA,NA,NA,NA,NA,0.8,NA,NA,NA
+"ind_36","Attitudes to tobacco","Increase price to decrease affordability for young people","adults","Most (8-10)",NA,57.6,NA,NA,NA,60.1,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","Total",NA,NA,41.1,37.1,37.7,36.6,38.8,NA,NA,0,0.1,0.3,0,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","Men",NA,NA,38.6,35.2,35,34.8,37,NA,NA,0.3,0.2,0.2,0.1,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","Women",NA,NA,43.5,38.9,40.4,38.3,40.6,NA,NA,0,0.2,0.9,0.1,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","15-24",NA,NA,50.8,42.1,48,45.1,47.6,NA,NA,0.3,0.1,0.9,0.4,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","25-44",NA,NA,42.7,38.6,38.2,38.2,39.2,NA,NA,0,0.7,0.5,0.5,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","45-64",NA,NA,37.5,34.9,34.2,33.5,36.5,NA,NA,0.7,0.3,0.2,0,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","65+",NA,NA,34.6,32.6,32.4,30.4,33.4,NA,NA,0.5,0.6,0.5,0.1,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","Maori",NA,NA,53.7,48.2,48.7,47.8,49.7,NA,NA,0.1,0.5,0.6,0.4,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","Pacific",NA,NA,58.4,49.8,54.5,52.9,55.8,NA,NA,0.3,0,0.6,0.2,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","Asian",NA,NA,58.1,49.3,46,44.1,45.6,NA,NA,0,0.3,0.9,0.6,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","European/Other",NA,NA,36.1,34.1,33.9,32.9,34.5,NA,NA,0.2,0.7,0.6,0.1,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","Least (1-3)",NA,NA,35.3,30.2,31.2,29.5,32,NA,NA,0.2,0.3,0.7,0.1,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","Mid (4-7)",NA,NA,39,36.4,37.3,36.8,37.9,NA,NA,0.6,0.4,0.7,0.5,NA,NA,NA,NA,NA
+"ind_37","Attitudes to tobacco","Perceived proportion of smokers in NZ","adults","Most (8-10)",NA,NA,50.6,44.5,47.1,44.8,48.3,NA,NA,0.3,0.1,0.5,0.1,NA,NA,NA,NA,NA
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","Total",NA,NA,NA,42.8,47.5,57.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","Men",NA,NA,NA,43.9,48.9,59.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","Women",NA,NA,NA,41.7,46.3,56.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","15-24",NA,NA,NA,30.6,43.4,53.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","25-44",NA,NA,NA,42.1,44.8,52.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","45-64",NA,NA,NA,48.2,49.6,61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","65+",NA,NA,NA,46.7,52.8,65.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","Maori",NA,NA,NA,40.7,48.9,55.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","Pacific",NA,NA,NA,38.9,44.5,45.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.8
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","Asian",NA,NA,NA,38.9,36.8,43.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.4
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","European/Other",NA,NA,NA,43.3,50.1,62.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","Least (1-3)",NA,NA,NA,43.2,45.3,57.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","Mid (4-7)",NA,NA,NA,44.4,47.6,59.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_38","Attitudes to tobacco","Awareness of Smokefree 2025","adults","Most (8-10)",NA,NA,NA,40.1,49.9,55.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Total",NA,NA,1.9,1.4,3.5,3.2,2.2,NA,NA,0.6,0.3,0.1,0.1,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Men",NA,NA,2.6,2.2,5.4,5.2,3.4,NA,NA,0.5,0.3,0.2,0.1,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Women",NA,NA,1.2,0.7,1.8,1.4,1,NA,NA,0.7,0.5,0.3,0.4,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","15-24",NA,NA,1.9,3.2,2.6,3.6,3.7,NA,NA,0.5,0.9,0.7,1,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","25-44",NA,NA,2.7,2.2,5,4.3,3.3,NA,NA,0.6,0.5,0.3,0.4,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","45-64",NA,NA,1,0.2,3.2,2.5,1,NA,NA,0.9,0.2,0.1,0.1,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","65+",NA,NA,1.8,0.3,2.4,2.2,1,NA,NA,0.6,0.3,0.4,0.4,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Maori",NA,NA,1.9,1.3,2.9,3.1,5.8,NA,NA,0.1,0,0.2,0.2,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Pacific",NA,NA,2.3,0.5,4,4.1,1.4,NA,NA,0.6,0.3,0.5,0.1,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Asian",NA,NA,2.1,2.9,1.9,3.8,0.3,NA,NA,0.6,0.3,0.3,0.1,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","European/Other",NA,NA,1.8,1.3,4,3.2,2.3,NA,NA,0.5,0.2,0.1,0.2,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Least (1-3)",NA,NA,1.8,1.8,3,3.5,1.5,NA,NA,0.8,0.9,0.3,0.1,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Mid (4-7)",NA,NA,1.6,0.8,3.5,3.8,1.6,NA,NA,0.9,0.2,0.1,0,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Most (8-10)",NA,NA,2.3,2,4.3,1.9,3.8,NA,NA,0.4,0.3,0.8,0.1,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Non-problem gambler",NA,NA,2,1.9,4.4,4,2,NA,NA,1,1,0,0,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Low-risk gambler",NA,NA,4.1,4.5,6.5,9.3,14.7,NA,NA,0.1,0.2,0.3,0.5,NA,NA,NA,NA,NA
+"ind_4","Gambling participation","Online gambling on overseas websites","adults","Moderate-risk or problem gambler",NA,NA,6.6,2.9,24.7,18.8,22.6,NA,NA,0.2,0.1,0.9,0.8,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","Total",NA,47.9,43,46,52.2,43.6,49.5,NA,0.7,0.2,0.4,0.6,0.2,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","Men",NA,49.6,43.5,49.2,56,43.7,51.8,NA,0.8,0.3,0.7,0.5,0.2,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","Women",NA,46.1,42.4,42.3,47.6,43.6,46.3,NA,1,0.6,0.5,0.8,0.7,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","15-24",NA,37.9,30.7,48.2,55,26.3,52.7,NA,0.3,0.1,0.7,0.9,0,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","25-44",NA,46,40.2,44.8,52,46.6,37.7,NA,0.3,0.8,0.3,0,0.2,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","45-64",NA,56.7,55.4,45.6,49.9,49.6,60,NA,0.7,0.6,0.1,0.2,0.2,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","65+",NA,NA,NA,47.5,53.1,52,58.8,NA,NA,NA,0.4,0.7,0.6,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","Maori",NA,48.8,41.6,47.1,44.9,44,40.3,NA,0.3,0.9,0.3,0.5,0.6,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","Pacific",NA,31,39,54.6,44.2,41.9,39.9,NA,0.3,0.9,0.1,0.7,0.8,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","Asian",NA,NA,NA,NA,NA,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","European/Other",NA,47.8,41.9,42.9,53.5,45.1,50.9,NA,0.6,0.2,0.2,0.7,0.3,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","Least (1-3)",NA,52.4,20.1,38.8,54.7,46.4,48.2,NA,0.7,0,0.5,0.6,0.9,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","Mid (4-7)",NA,41.8,45.2,48.3,55.1,42.7,50.7,NA,0.3,0.5,0.7,0.6,0.3,NA,NA,NA,NA,NA
+"ind_41","Quit smoking","Quit attempts - none","adult smokers and recent quitters","Most (8-10)",NA,51.6,50.2,47,48.4,43.3,49,NA,0.7,0.9,0.8,0.9,0.4,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","Total",NA,26.7,23.1,27,25.8,27,27.8,NA,0.8,0.3,0.8,0.6,0.8,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","Men",NA,26.6,17.6,27.1,23.2,27.1,27.6,NA,0.9,0.2,0.9,0.5,0.9,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","Women",NA,26.8,28.6,26.9,28.9,26.8,28.2,NA,0.8,0.9,0.8,0.9,0.8,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","15-24",NA,34.2,30.3,23.2,32.5,41.1,23.7,NA,0.4,0.6,1,0.4,0.1,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","25-44",NA,26.5,21.7,27.9,24.2,24.5,34.8,NA,0.3,0.1,0.3,0.1,0.1,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","45-64",NA,20,19.7,28.8,22,21.7,23.8,NA,0.7,0.6,0.5,0.8,0.8,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","65+",NA,NA,NA,27.9,28.8,23,21.6,NA,NA,NA,0.6,0.6,0.9,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","Maori",NA,32.1,21.3,29.8,34,23.1,36.5,NA,0.6,0,0.3,0.7,0,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","Pacific",NA,35.8,22.5,16.7,25.9,32.5,35.7,NA,1,0.2,0,0.4,0.8,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","Asian",NA,NA,NA,NA,NA,43.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","European/Other",NA,25.8,22.8,28,25.2,25.4,26.8,NA,0.9,0.5,0.8,0.8,0.8,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","Least (1-3)",NA,30.3,22.6,44.1,30.7,18,24.4,NA,0.6,0.9,0.1,0.6,0.5,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","Mid (4-7)",NA,28.5,22.2,21.3,23.1,29.6,27.1,NA,0.9,0.6,0.4,0.6,0.7,NA,NA,NA,NA,NA
+"ind_42","Quit smoking","Quit attempts - one","adult smokers and recent quitters","Most (8-10)",NA,23.4,24.1,24.9,26.1,28.7,30.1,NA,0.3,0.4,0.4,0.5,0.8,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","Total",NA,25.3,33.9,26.1,22,29.4,22.6,NA,0.5,0,0.4,0.9,0.1,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","Men",NA,23.8,38.9,22.1,20.8,29.2,20.6,NA,0.6,0,0.8,1,0.1,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","Women",NA,27.1,29,30.8,23.6,29.6,25.5,NA,0.8,0.6,0.4,0.7,0.5,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","15-24",NA,27.9,39,25.3,12.5,32.7,23.6,NA,0.7,0.3,0.9,0.3,0.4,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","25-44",NA,27.5,38.1,27.2,23.8,28.9,27.5,NA,1,0.3,1,0.6,0.8,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","45-64",NA,23.3,24.9,25.7,28.1,28.7,16.2,NA,0.3,0.2,0.1,0.1,0,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","65+",NA,NA,NA,24.5,18.1,25,19.6,NA,NA,NA,0.7,0.9,0.7,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","Maori",NA,19.1,37,23.1,21.1,32.9,23.2,NA,0.5,0.1,1,0.8,0.1,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","Pacific",NA,33.2,38.5,28.6,29.9,25.6,24.4,NA,0.3,0.1,0.6,0.5,0.9,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","Asian",NA,NA,NA,NA,NA,24.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","European/Other",NA,26.4,35.4,27.9,21.3,29.5,22.3,NA,0.5,0.1,0.3,0.8,0.1,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","Least (1-3)",NA,17.2,57.3,17,14.6,35.6,27.5,NA,0.4,0.1,0.4,0.2,0.5,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","Mid (4-7)",NA,29.7,32.6,30.4,21.8,27.7,22.2,NA,0.3,0.2,0.2,1,0.4,NA,NA,NA,NA,NA
+"ind_43","Quit smoking","Quit attempts - 2 or more","adult smokers and recent quitters","Most (8-10)",NA,25,25.7,26,25.5,28,20.9,NA,0.5,0.5,0.3,0.4,0.2,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","Total",NA,59.4,60.5,58.7,58.9,61.5,54.7,NA,0.1,0,0.1,0.1,0,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","Men",NA,65.7,66.3,62,62.5,67.7,59.7,NA,0.1,0.1,0.5,0.4,0,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","Women",NA,53.5,55.1,55.7,55.5,55.6,50,NA,0.3,0.1,0,0,0,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","15-24",NA,56.7,53.5,53.3,46,46.7,45.4,NA,0.2,0.3,0.2,0.9,0.8,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","25-44",NA,59.2,64.5,57.2,60.2,61.1,54,NA,0.2,0,0.4,0.1,0,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","45-64",NA,62.2,63.6,62.8,62.5,66.3,56.3,NA,0.1,0.1,0,0.1,0,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","65+",NA,57.4,53.2,59.8,63.2,68.4,61.7,NA,0.4,0.1,0.6,0.7,0,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","Maori",NA,77.7,82.2,80.1,73.2,77.8,73.2,NA,0.3,0,0.1,1,0.2,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","Pacific",NA,57.4,66.1,55.5,61,54.7,52.1,NA,0.3,0,0.5,0.1,0.6,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","Asian",NA,18.8,39.3,26.7,34.1,29.6,23.9,NA,0.5,0.1,0.6,0.2,0.2,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","European/Other",NA,63,61.5,58.6,61.1,67,59.5,NA,0.2,0.5,0.7,0.5,0,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","Least (1-3)",NA,53.4,56.8,56.2,54,60.2,48,NA,0.3,0.1,0.1,0.2,0,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","Mid (4-7)",NA,60.4,60.8,57.2,59.4,61.7,58.1,NA,0.6,0.5,0.8,0.7,0.3,NA,NA,NA,NA,NA
+"ind_44","Current smoking (and cannabis use)","Ever smoked tobacco","adults","Most (8-10)",NA,64.5,64.3,63.2,64.4,62.8,57.3,NA,0.1,0.1,0.1,0.1,0.1,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","Total",NA,NA,NA,15,NA,15.3,15.3,NA,NA,NA,0.1,NA,0.9,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","Men",NA,NA,NA,14.6,NA,15.1,15.1,NA,NA,NA,0.1,NA,0.9,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","Women",NA,NA,NA,15.4,NA,15.5,15.6,NA,NA,NA,0.4,NA,0.7,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","15-24",NA,NA,NA,14.8,NA,15.3,15.4,NA,NA,NA,0.3,NA,0.8,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","25-44",NA,NA,NA,14.8,NA,15.1,15.5,NA,NA,NA,0,NA,0.3,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","45-64",NA,NA,NA,14.8,NA,15.1,15.1,NA,NA,NA,0.4,NA,1,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","65+",NA,NA,NA,15.9,NA,16.1,15.5,NA,NA,NA,0.5,NA,0.2,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","Maori",NA,NA,NA,13.8,NA,14.6,13.9,NA,NA,NA,0.7,NA,0,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","Pacific",NA,NA,NA,15.5,NA,16,16.5,NA,NA,NA,0,NA,0.4,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","Asian",NA,NA,NA,17.2,NA,17.4,18.9,NA,NA,NA,0.2,NA,0.1,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","European/Other",NA,NA,NA,15.1,NA,15.2,15.2,NA,NA,NA,0.8,NA,0.9,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","Least (1-3)",NA,NA,NA,15.2,NA,15.7,15.3,NA,NA,NA,0.7,NA,0.3,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","Mid (4-7)",NA,NA,NA,14.9,NA,15.2,15.8,NA,NA,NA,0,NA,0.1,NA,NA,NA,NA,NA
+"ind_45","Current smoking (and cannabis use)","Age first tried a cigarette","adults who have tried smoking","Most (8-10)",NA,NA,NA,15,NA,15.1,14.8,NA,NA,NA,0.5,NA,0.3,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","Total",NA,NA,17.9,17.5,NA,17.8,17.6,NA,NA,0.4,0.9,NA,0.4,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","Men",NA,NA,17.9,17.2,NA,17.5,17.4,NA,NA,0.2,0.7,NA,0.6,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","Women",NA,NA,17.8,17.8,NA,18,17.8,NA,NA,0.9,1,NA,0.6,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","15-24",NA,NA,15.6,16.1,NA,16.7,16.1,NA,NA,0.4,1,NA,0.3,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","25-44",NA,NA,17.5,16.8,NA,16.9,17.5,NA,NA,0.9,0,NA,0.1,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","45-64",NA,NA,18.6,17.9,NA,18.2,17.6,NA,NA,0.1,0.5,NA,0.1,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","65+",NA,NA,18.7,19,NA,18.8,18.4,NA,NA,0.7,0.3,NA,0.5,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","Maori",NA,NA,16.5,16.6,NA,16.9,16.5,NA,NA,1,0.7,NA,0.3,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","Pacific",NA,NA,17.5,17.6,NA,18.3,18.6,NA,NA,0,0.1,NA,0.6,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","Asian",NA,NA,NA,19.2,NA,19.6,19.9,NA,NA,NA,0.7,NA,0.7,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","European/Other",NA,NA,18,17.6,NA,17.7,17.5,NA,NA,0.2,0.5,NA,0.4,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","Least (1-3)",NA,NA,17.9,17.9,NA,18.3,17.7,NA,NA,0.8,0.8,NA,0.2,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","Mid (4-7)",NA,NA,18.4,17.4,NA,17.6,17.9,NA,NA,0.4,0.2,NA,0.5,NA,NA,NA,NA,NA
+"ind_46","Current smoking (and cannabis use)","Age of starting smoking daily","adults who ever smoked daily","Most (8-10)",NA,NA,17.3,17.5,NA,17.5,17.1,NA,NA,0.7,0.3,NA,0.2,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","Total",NA,20.5,19.3,16.5,16.8,16,14.7,NA,0,0,0.2,0.2,0.4,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","Men",NA,22.5,20.7,17.9,19.8,18.3,18.1,NA,0.2,0.4,0.9,0.5,0.9,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","Women",NA,18.6,17.9,15.2,14.1,13.8,11.5,NA,0,0,0,0.1,0.1,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","15-24",NA,24.6,30.6,22.7,19.8,18.1,22.8,NA,0.8,0.3,1,0.6,0.4,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","25-44",NA,22.6,21.8,20.6,22.7,19.2,14.8,NA,0,0,0,0,0.1,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","45-64",NA,21,17,15.3,15.7,17.4,15.7,NA,0.1,0.7,0.9,1,0.5,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","65+",NA,9.3,6.5,4.8,6.2,5.6,6,NA,0.2,0.8,0.4,0.9,0.8,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","Maori",NA,43.6,42.8,36.5,35.8,30.6,32.9,NA,0,0,0.4,0.5,0.6,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","Pacific",NA,25.5,36.2,28.9,27.7,26.2,22.5,NA,0.5,0,0.1,0.3,0.4,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","Asian",NA,9.1,11.6,7.5,9.3,11.3,7.9,NA,0.8,0.5,0.9,0.7,0.4,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","European/Other",NA,19,16.7,13.9,14.9,14.4,14,NA,0,0.3,1,0.6,0.8,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","Least (1-3)",NA,12.5,9.8,10.4,9.1,10.1,7.4,NA,0.1,0.5,0.2,0.5,0.3,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","Mid (4-7)",NA,19.6,18.3,16,15.1,15.1,15.1,NA,0.2,0.3,0.7,1,1,NA,NA,NA,NA,NA
+"ind_47","Current smoking (and cannabis use)","Current smoker","adults","Most (8-10)",NA,30.6,31.2,22.6,30.2,24.5,22.7,NA,0,0,1,0,0.5,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","Total",NA,8.1,4.4,13.3,11.5,14.9,12,NA,0,0,0.4,0.7,0,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","Men",NA,11.6,4.8,13.3,12,16.1,11.5,NA,1,0,0.5,0.8,0,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","Women",NA,4.9,4,13.3,10.9,13.8,12.4,NA,0,0,0.6,0.4,0.4,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","15-24",NA,19.4,6.6,15.1,12.1,15.6,13.2,NA,0.3,0.2,0.7,0.8,0.6,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","25-44",NA,7,5.8,13.6,11.7,15.8,11.8,NA,0.1,0,0.5,1,0.1,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","45-64",NA,4.4,2.3,13.7,12.7,14,11.6,NA,0,0,0.4,0.7,0.3,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","65+",NA,4.5,3.5,10,8.7,14.3,11.8,NA,0,0,0.5,0.2,0.3,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","Maori",NA,6.8,3.3,13.9,7.7,12.9,11.7,NA,0.1,0,0.5,0.2,0.7,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","Pacific",NA,3.8,4.7,10.3,9.2,10.3,8.2,NA,0.1,0.5,0.6,0.8,0.6,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","Asian",NA,4.3,2.3,5,8.2,6.8,4.5,NA,1,0.5,0.8,0.3,0.4,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","European/Other",NA,9.6,4.8,14.4,12.8,17.4,14.1,NA,0,0,0.9,0.5,0.1,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","Least (1-3)",NA,8.9,4.4,13.7,12.5,18.8,13.6,NA,0.1,0,1,0.7,0.1,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","Mid (4-7)",NA,7.6,5.6,12.5,12.6,15.3,14.4,NA,0,0,0.5,0.5,0.7,NA,NA,NA,NA,NA
+"ind_48","Current smoking (and cannabis use)","Past experimental smoker","adults","Most (8-10)",NA,8,3,14,8.1,9.6,6.5,NA,0.6,0.1,0,0.4,0.1,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","Total",NA,29.8,34.8,28.5,30.6,30.5,26.9,NA,0.1,0,0.3,0,0,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","Men",NA,30.1,38.4,30.2,30.8,33.3,28.4,NA,0.6,0,0.5,0.4,0,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","Women",NA,29.5,31.4,27,30.5,27.9,25.6,NA,0.1,0,0.5,0,0.2,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","15-24",NA,12.5,14.7,14.7,14.2,12.6,6.6,NA,0.2,0.1,0,0.1,0.1,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","25-44",NA,28.2,33,22.3,25.8,26.1,26.2,NA,0.5,0.1,0.2,0.9,1,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","45-64",NA,35.3,43,33.4,34.1,34.8,28.5,NA,0.1,0,0.1,0.1,0,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","65+",NA,43.6,43.2,45,48.3,48.4,43.5,NA,1,0.9,0.7,0.2,0.1,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","Maori",NA,26.5,33.5,28.2,29.7,34.3,25.9,NA,0.9,0.1,0.5,0.3,0,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","Pacific",NA,26.4,24.3,15.5,24.1,17.5,19.4,NA,0.2,0.3,0.3,0.3,0.6,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","Asian",NA,5.4,25.4,14.2,16.6,11.5,10,NA,0.3,0.1,0.4,0.2,0.7,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","European/Other",NA,33.4,37.5,29.9,33.4,35.1,30.4,NA,0.2,0,0.8,0.1,0,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","Least (1-3)",NA,31.6,40.5,31.9,32.4,31.3,25.7,NA,0.2,0,0.1,0.1,0.1,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","Mid (4-7)",NA,31.6,34.5,28,31.7,31.1,27.7,NA,0.3,0.1,0.9,0.2,0.2,NA,NA,NA,NA,NA
+"ind_49","Current smoking (and cannabis use)","Former smoker","adults","Most (8-10)",NA,25.3,28.6,26.2,26.1,28.6,26.7,NA,0.7,0.5,0.8,0.8,0.5,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Total",17.7,13.8,17.3,15.7,14.4,12.2,11.3,0,0.1,0,0,0,0.5,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Men",22.4,14.9,20.4,20.7,18.3,17.5,15,0,1,0.1,0,0.2,0.3,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Women",13.4,12.8,14.5,11,10.7,7.2,7.8,0,0,0,0,0.1,0.6,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","15-24",15.7,7.4,10.7,10.5,6.9,8.7,8.9,0.2,0.7,0.7,0.8,0.6,1,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","25-44",17.5,16.1,17.8,15.1,19.1,13.5,13.4,0.1,0.3,0.2,0.5,0,1,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","45-64",19.3,15.6,20.7,19.1,13.2,14.5,10.2,0,0.1,0,0,0.2,0,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","65+",17.3,12.7,16.7,16,15.3,9.4,11.6,0.1,0.8,0.1,0.1,0.2,0.3,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Maori",20.2,14.5,14.5,15.7,15.1,12.7,12.5,0,0.5,0.5,0.2,0.4,0.9,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Pacific",8.6,12.4,11.4,8.7,13,10.6,6.8,0.5,0.1,0.2,0.5,0.1,0.2,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Asian",7.6,2.4,9,6.5,6.9,5,4.6,0.4,0.6,0.4,0.6,0.5,0.9,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","European/Other",19.2,15,19.8,16.6,16.2,13.7,13.3,0,0.4,0,0.1,0.1,0.8,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Least (1-3)",19.2,14.5,16.6,16.2,16.6,12.2,11.2,0,0.3,0.1,0.1,0.1,0.7,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Mid (4-7)",17.8,13.9,19,15.4,15.2,13.4,12.5,0.1,0.6,0,0.3,0.3,0.7,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Most (8-10)",15.9,13,16.2,15.7,10.1,10.4,9.8,0,0.2,0,0,0.9,0.7,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Non-problem gambler",NA,NA,18.8,21.1,19.3,15.9,13.9,NA,NA,0,0,0,0.2,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Low-risk gambler",NA,NA,48.5,51.4,31.2,33.6,49.9,NA,NA,0.9,0.9,0.2,0.2,NA,NA,NA,NA,NA
+"ind_5","Gambling participation","Any horse/dog races/sports events (NZ)","adults","Moderate-risk or problem gambler",NA,NA,27.1,41.5,46.4,47.4,50.1,NA,NA,0.2,0.6,0.9,0.9,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","Total",NA,40.6,39.5,41.2,40.5,38.4,45.2,NA,0.1,0,0.1,0,0,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","Men",NA,34.3,33.7,38,36.9,32.2,40.3,NA,0.1,0.1,0.5,0.3,0,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","Women",NA,46.5,44.9,44.2,44,44.2,49.9,NA,0.3,0.1,0,0,0,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","15-24",NA,43.3,46.5,46.7,53.1,53.3,54.5,NA,0.2,0.3,0.2,0.8,0.9,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","25-44",NA,40.8,35.5,42.8,39.4,38.5,46,NA,0.2,0,0.4,0.1,0,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","45-64",NA,37.8,36.4,37.1,37,33.7,43.7,NA,0.1,0.1,0,0,0,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","65+",NA,42.6,46.8,40.2,36.4,31.6,38.3,NA,0.4,0.1,0.6,0.6,0,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","Maori",NA,22.3,17.8,19.9,26,22.2,26.8,NA,0.3,0,0.1,0.9,0.2,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","Pacific",NA,42.6,33.9,44.5,38.7,45.3,47.7,NA,0.4,0,0.5,0.1,0.6,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","Asian",NA,81.2,60.7,73.3,64.7,69.8,76.1,NA,0.5,0.1,0.6,0.1,0.2,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","European/Other",NA,37,38.5,41.3,38.4,33,40.5,NA,0.2,0.5,0.8,0.4,0,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","Least (1-3)",NA,46.6,43.2,43.6,45.1,39.8,52,NA,0.3,0.1,0.1,0.2,0,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","Mid (4-7)",NA,39.6,39.2,42.8,40.1,38,41.9,NA,0.6,0.5,0.8,0.6,0.2,NA,NA,NA,NA,NA
+"ind_50","Current smoking (and cannabis use)","Never smoker","adults","Most (8-10)",NA,35.5,35.7,36.8,35.5,37.2,42.6,NA,0.1,0.1,0.1,0.1,0.1,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","Total",NA,NA,NA,NA,NA,9.8,10.9,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","Men",NA,NA,NA,NA,NA,10.2,11.6,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","Women",NA,NA,NA,NA,NA,9.3,9.9,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","15-24",NA,NA,NA,NA,NA,8,9.7,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","25-44",NA,NA,NA,NA,NA,9.6,12.1,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","45-64",NA,NA,NA,NA,NA,10.8,10.9,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","65+",NA,NA,NA,NA,NA,10,9.5,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","Maori",NA,NA,NA,NA,NA,10.2,10.2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","Pacific",NA,NA,NA,NA,NA,8.6,7,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","Asian",NA,NA,NA,NA,NA,6.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","European/Other",NA,NA,NA,NA,NA,10.3,11.5,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","Least (1-3)",NA,NA,NA,NA,NA,9.9,11.3,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","Mid (4-7)",NA,NA,NA,NA,NA,9.8,11.1,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_51","Current smoking (and cannabis use)","Average number of cigarettes smoked per day","adults who smoke daily","Most (8-10)",NA,NA,NA,NA,NA,9.7,10.6,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","Total",NA,NA,NA,NA,8.1,7.2,7,NA,NA,NA,NA,0.3,0.9,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","Men",NA,NA,NA,NA,9.5,7.8,8.7,NA,NA,NA,NA,0.7,0.5,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","Women",NA,NA,NA,NA,6.8,6.7,5.4,NA,NA,NA,NA,0.2,0.2,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","15-24",NA,NA,NA,NA,8.4,6.9,8.5,NA,NA,NA,NA,1,0.6,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","25-44",NA,NA,NA,NA,11.9,8.4,6.9,NA,NA,NA,NA,0,0.3,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","45-64",NA,NA,NA,NA,7.4,8.8,9.3,NA,NA,NA,NA,0.3,0.8,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","65+",NA,NA,NA,NA,2.8,2.4,2.3,NA,NA,NA,NA,0.6,0.9,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","Maori",NA,NA,NA,NA,19.1,14.4,17.4,NA,NA,NA,NA,0.6,0.4,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","Pacific",NA,NA,NA,NA,12.8,12.6,10.5,NA,NA,NA,NA,0.6,0.6,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","Asian",NA,NA,NA,NA,5.6,2.1,0.6,NA,NA,NA,NA,0,0.2,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","European/Other",NA,NA,NA,NA,6.9,6.9,7.2,NA,NA,NA,NA,0.8,0.8,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","Least (1-3)",NA,NA,NA,NA,3,3.9,2.3,NA,NA,NA,NA,0.5,0.2,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","Mid (4-7)",NA,NA,NA,NA,6.6,6.5,6.9,NA,NA,NA,NA,0.9,0.8,NA,NA,NA,NA,NA
+"ind_52","Current smoking (and cannabis use)","Addiction to tobacco","adults","Most (8-10)",NA,NA,NA,NA,17.4,12.3,12.7,NA,NA,NA,NA,0.1,0.8,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","Total",NA,18.1,16.8,15,15.5,14,12.8,NA,0,0,0.1,0.1,0.4,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","Men",NA,20.9,17.9,15.7,18,15.8,15.7,NA,0.1,0.5,1,0.4,1,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","Women",NA,15.5,15.7,14.3,13.1,12.4,10.1,NA,0,0,0,0.1,0.1,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","15-24",NA,19.7,24.8,17.9,16.3,14.5,17.9,NA,0.8,0.3,1,0.7,0.5,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","25-44",NA,20.4,18.9,19.3,21.4,17.1,13.2,NA,0,0.1,0,0,0.1,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","45-64",NA,19,16.2,14.6,15.1,15.9,14.5,NA,0.2,0.6,1,0.8,0.6,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","65+",NA,8.6,4.7,4.7,5.3,4.9,5.4,NA,0.2,0.7,0.7,0.9,0.7,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","Maori",NA,39.2,41,32.8,34,28.4,29.9,NA,0.1,0,0.5,0.3,0.7,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","Pacific",NA,21.1,32.5,23.9,24.3,22.2,19.1,NA,0.7,0,0.2,0.3,0.5,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","Asian",NA,9.1,10.7,6.9,8.9,8.9,5.8,NA,0.6,0.4,0.8,0.4,0.4,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","European/Other",NA,16.7,14.1,12.6,13.5,12.8,12.6,NA,0.1,0.5,1,0.6,0.9,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","Least (1-3)",NA,12,7.3,9.2,8.1,8.9,5.9,NA,0,0.7,0.1,0.3,0.2,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","Mid (4-7)",NA,16.9,16.6,14.7,13.6,12.8,12.7,NA,0.2,0.2,0.4,0.7,1,NA,NA,NA,NA,NA
+"ind_55","Current smoking (and cannabis use)","Current smoker – daily","adults","Most (8-10)",NA,26.5,27.8,20.7,28.6,22.3,21.2,NA,0.2,0.1,0.9,0,0.7,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","Total",NA,NA,NA,NA,12.9,17,22.3,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","Men",NA,NA,NA,NA,13.6,20.3,26.5,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","Women",NA,NA,NA,NA,12.3,13.8,18.4,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","15-24",NA,NA,NA,NA,23.2,30.2,46,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","25-44",NA,NA,NA,NA,17.7,23,29.1,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","45-64",NA,NA,NA,NA,8.2,11.1,12.3,NA,NA,NA,NA,0.1,0.6,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","65+",NA,NA,NA,NA,3,3.6,5.9,NA,NA,NA,NA,0.1,0.1,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","Maori",NA,NA,NA,NA,24.6,36,46.8,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","Pacific",NA,NA,NA,NA,17.1,21.2,25.3,NA,NA,NA,NA,0.1,0.3,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","Asian",NA,NA,NA,NA,4,12.1,12,NA,NA,NA,NA,0,1,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","European/Other",NA,NA,NA,NA,13.2,16.5,23.3,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","Least (1-3)",NA,NA,NA,NA,8.1,13.3,14.9,NA,NA,NA,NA,0,0.6,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","Mid (4-7)",NA,NA,NA,NA,14.3,14.6,24.4,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_56","Vaping / e-cigarettes","Ever tried a vaping product","adults","Most (8-10)",NA,NA,NA,NA,17.1,25.2,28.4,NA,NA,NA,NA,0,0.3,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","Total",NA,NA,NA,NA,0.8,1.7,4.3,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","Men",NA,NA,NA,NA,0.6,2,5.2,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","Women",NA,NA,NA,NA,1,1.5,3.6,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","15-24",NA,NA,NA,NA,0.1,2.2,7.3,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","25-44",NA,NA,NA,NA,1.3,2.4,5.9,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","45-64",NA,NA,NA,NA,0.8,1.3,3.3,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","65+",NA,NA,NA,NA,0.5,0.9,0.7,NA,NA,NA,NA,0.6,0.9,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","Maori",NA,NA,NA,NA,1.2,2.9,8.1,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","Pacific",NA,NA,NA,NA,0.5,4.2,5.9,NA,NA,NA,NA,0,0.6,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","Asian",NA,NA,NA,NA,0.8,1.3,1.9,NA,NA,NA,NA,0.5,0.7,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","European/Other",NA,NA,NA,NA,0.7,1.6,4.6,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","Least (1-3)",NA,NA,NA,NA,0.7,1.4,2.5,NA,NA,NA,NA,0.1,0.4,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","Mid (4-7)",NA,NA,NA,NA,1,1.5,4.6,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_57","Vaping / e-cigarettes","Current vaping product users in the population","adults","Most (8-10)",NA,NA,NA,NA,0.7,2.5,6.2,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","Total",NA,NA,NA,NA,3.3,5.9,14.3,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","Men",NA,NA,NA,NA,3.1,5.8,17.3,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","Women",NA,NA,NA,NA,3.5,6,10.3,NA,NA,NA,NA,0,0.2,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","15-24",NA,NA,NA,NA,0,2.1,10.4,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","25-44",NA,NA,NA,NA,5.1,6.5,15.4,NA,NA,NA,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","45-64",NA,NA,NA,NA,5,7,22.7,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","65+",NA,NA,NA,NA,NA,24.2,5.6,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","Maori",NA,NA,NA,NA,2.6,3.8,10.3,NA,NA,NA,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","Pacific",NA,NA,NA,NA,1.1,5.5,21.8,NA,NA,NA,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","Asian",NA,NA,NA,NA,NA,10.8,15.5,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","European/Other",NA,NA,NA,NA,2.5,5.8,14.2,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","Least (1-3)",NA,NA,NA,NA,5,6.1,13.7,NA,NA,NA,NA,0.2,0.3,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","Mid (4-7)",NA,NA,NA,NA,3.7,6.4,14.1,NA,NA,NA,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_58","Vaping / e-cigarettes","Use at least daily (of those who have tried vaping)","adults who have tried vaping","Most (8-10)",NA,NA,NA,NA,1.8,5.1,15,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","Total",NA,NA,NA,NA,4.4,8.5,17.4,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","Men",NA,NA,NA,NA,4.3,8.1,18.2,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","Women",NA,NA,NA,NA,4.6,9,16.3,NA,NA,NA,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","15-24",NA,NA,NA,NA,0.2,5.2,13.7,NA,NA,NA,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","25-44",NA,NA,NA,NA,5.7,9.4,18.6,NA,NA,NA,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","45-64",NA,NA,NA,NA,7.3,8.8,25.7,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","65+",NA,NA,NA,NA,NA,24.2,6.5,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","Maori",NA,NA,NA,NA,4.2,7.3,13.8,NA,NA,NA,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","Pacific",NA,NA,NA,NA,2,9.1,22.5,NA,NA,NA,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","Asian",NA,NA,NA,NA,NA,10.8,15.5,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","European/Other",NA,NA,NA,NA,3.5,8.5,17.5,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","Least (1-3)",NA,NA,NA,NA,5,7.6,14.5,NA,NA,NA,NA,0.2,0.4,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","Mid (4-7)",NA,NA,NA,NA,4.7,8.3,17.1,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_59","Vaping / e-cigarettes","Use at least once a week (of those who have tried vaping)","adults who have tried vaping","Most (8-10)",NA,NA,NA,NA,3.6,9.3,19.6,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Total",18,15.8,18.5,20.5,16.9,15.7,14.2,0,0.2,0,0,0,0.2,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Men",19.7,15.4,20.6,23.8,19.6,16,16,0.1,0.8,0.2,0,0.1,1,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Women",16.4,16.2,16.6,17.4,14.4,15.4,12.5,0,0.1,0,0,0.2,0,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","15-24",5.4,4.5,2.8,5,3.4,1.3,1.8,0.1,0.3,0.6,0.1,0.5,0.7,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","25-44",13.4,13.8,11.2,16.3,12.1,10.4,7.9,0,0,0.2,0,0.1,0.1,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","45-64",27.5,21.8,29.9,29.4,25.5,23.2,20.4,0,0.7,0,0,0.1,0.3,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","65+",24.4,22.2,27.7,27.8,24,26.1,25.9,0.7,0.4,0.7,0.6,0.5,1,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Maori",23.2,16.7,19.8,22.2,15.9,17.1,14.9,0,0.5,0.1,0,0.7,0.3,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Pacific",13.8,19.9,15.1,21.2,13.6,16.3,15.4,0.6,0.2,0.9,0.1,0.5,0.8,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Asian",11.9,6.4,14.6,13.2,8.4,7,8,0.3,0.8,0.6,0.3,0.9,0.8,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","European/Other",18,16.3,18.7,20.1,18.6,16.9,15.1,0.1,0.5,0.1,0,0,0.2,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Least (1-3)",14.1,15.6,20.3,21.9,17.3,12.1,11.4,0.4,0.1,0,0,0,0.8,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Mid (4-7)",20.8,15.1,18.7,20.9,16.4,16.7,14.7,0,0.9,0.2,0,0.5,0.3,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Most (8-10)",18.3,17.2,16.3,18.7,17.6,18.2,16.5,0.5,0.8,0.9,0.3,0.7,0.4,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Non-problem gambler",NA,NA,21.9,28.8,23.1,21.5,21.1,NA,NA,0.8,0,0.3,0.8,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Low-risk gambler",NA,NA,28.2,44.9,38.2,32.7,22.1,NA,NA,0.5,0,0.1,0.2,NA,NA,NA,NA,NA
+"ind_6","Gambling participation frequency","Lotto product - at least weekly","adults","Moderate-risk or problem gambler",NA,NA,33.9,39.7,35.7,36.2,20,NA,NA,0.2,0.1,0.3,0.2,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","Total",NA,NA,NA,NA,54.9,49.3,43.1,NA,NA,NA,NA,0.4,0.6,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","Men",NA,NA,NA,NA,NA,61,44.3,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","Women",NA,NA,NA,NA,NA,34.3,41.5,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","15-24",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","25-44",NA,NA,NA,NA,NA,59.8,49.4,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","45-64",NA,NA,NA,NA,NA,NA,68.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","65+",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","Maori",NA,NA,NA,NA,NA,41.3,32.3,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","Asian",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","European/Other",NA,NA,NA,NA,NA,39.4,43.9,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","Least (1-3)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","Mid (4-7)",NA,NA,NA,NA,NA,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_60","Vaping / e-cigarettes","Use of a vaping product to stop smoking completely (current vapers only)","adults who are current vapers","Most (8-10)",NA,NA,NA,NA,NA,34.5,37,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","Total",NA,NA,NA,NA,23.4,29,21.8,NA,NA,NA,NA,0.9,0.4,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","Men",NA,NA,NA,NA,NA,37.7,18.7,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","Women",NA,NA,NA,NA,NA,17.7,26.1,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","15-24",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","25-44",NA,NA,NA,NA,NA,31.6,19.6,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","45-64",NA,NA,NA,NA,NA,NA,11.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","65+",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","Maori",NA,NA,NA,NA,NA,13.3,34.5,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","Asian",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","European/Other",NA,NA,NA,NA,NA,38.7,18.8,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","Least (1-3)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","Mid (4-7)",NA,NA,NA,NA,NA,NA,15.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_61","Vaping / e-cigarettes","Use vaping to reduce amount of tobacco smoked (current vapers only)","adults who are current vapers","Most (8-10)",NA,NA,NA,NA,NA,20.5,28.4,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","Total",NA,NA,NA,NA,NA,34.3,29.8,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","Men",NA,NA,NA,NA,NA,37.5,33.9,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","Women",NA,NA,NA,NA,NA,31.3,25.9,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","15-24",NA,NA,NA,NA,NA,42.2,48.7,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","25-44",NA,NA,NA,NA,NA,35.5,30.7,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","45-64",NA,NA,NA,NA,NA,31.7,26.5,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","65+",NA,NA,NA,NA,NA,29,16.7,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","Maori",NA,NA,NA,NA,NA,32,32.6,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","Pacific",NA,NA,NA,NA,NA,28.4,30.2,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","Asian",NA,NA,NA,NA,NA,23.8,22.4,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","European/Other",NA,NA,NA,NA,NA,37.2,31.9,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","Least (1-3)",NA,NA,NA,NA,NA,37.5,33.2,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","Mid (4-7)",NA,NA,NA,NA,NA,31.9,28.4,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_63","Vaping / e-cigarettes","Agree that vaping is safer than smoking cigarettes","adults","Most (8-10)",NA,NA,NA,NA,NA,34.4,27.5,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","Total",NA,NA,NA,25.3,NA,39.6,42.8,NA,NA,NA,0,NA,0.1,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","Men",NA,NA,NA,26.7,NA,42.7,44.5,NA,NA,NA,0,NA,0.6,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","Women",NA,NA,NA,23.9,NA,36.6,41.2,NA,NA,NA,0,NA,0,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","15-24",NA,NA,NA,29.4,NA,45.9,63.1,NA,NA,NA,0,NA,0,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","25-44",NA,NA,NA,34.2,NA,44,45.5,NA,NA,NA,0,NA,0.7,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","45-64",NA,NA,NA,20.6,NA,37.4,39.1,NA,NA,NA,0,NA,0.6,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","65+",NA,NA,NA,13.1,NA,29.3,26.4,NA,NA,NA,0,NA,0.4,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","Maori",NA,NA,NA,24.2,NA,42.4,50.3,NA,NA,NA,0,NA,0,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","Pacific",NA,NA,NA,25.7,NA,30.2,40.3,NA,NA,NA,0,NA,0.1,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","Asian",NA,NA,NA,27,NA,27.8,30.7,NA,NA,NA,0.5,NA,0.6,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","European/Other",NA,NA,NA,25,NA,43.1,45.8,NA,NA,NA,0,NA,0.2,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","Least (1-3)",NA,NA,NA,24.8,NA,41.7,44.4,NA,NA,NA,0,NA,0.5,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","Mid (4-7)",NA,NA,NA,28,NA,38.1,43.9,NA,NA,NA,0,NA,0.1,NA,NA,NA,NA,NA
+"ind_64","Vaping / e-cigarettes","Agree that vaping helps people quit smoking","adults","Most (8-10)",NA,NA,NA,21.8,NA,39.7,39.4,NA,NA,NA,0,NA,0.9,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","Total",NA,NA,NA,NA,7.9,7,8.5,NA,NA,NA,NA,0.7,0.2,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","Men",NA,NA,NA,NA,9.7,9.1,12,NA,NA,NA,NA,0.3,0.1,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","Women",NA,NA,NA,NA,6.3,5.1,5.1,NA,NA,NA,NA,0.4,1,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","15-24",NA,NA,NA,NA,19.2,12.7,20.5,NA,NA,NA,NA,0.8,0.1,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","25-44",NA,NA,NA,NA,9,9.5,9,NA,NA,NA,NA,1,0.8,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","45-64",NA,NA,NA,NA,5.1,5,4.6,NA,NA,NA,NA,0.7,0.8,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","65+",NA,NA,NA,NA,0.2,0.4,3.1,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","Maori",NA,NA,NA,NA,17.5,16.4,16.2,NA,NA,NA,NA,0.7,1,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","Pacific",NA,NA,NA,NA,9.5,10.5,7.8,NA,NA,NA,NA,0.6,0.3,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","Asian",NA,NA,NA,NA,5.4,2.8,1.9,NA,NA,NA,NA,0.4,0.7,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","European/Other",NA,NA,NA,NA,7.2,7.5,9.6,NA,NA,NA,NA,0.1,0.1,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","Least (1-3)",NA,NA,NA,NA,5.9,3.7,6,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","Mid (4-7)",NA,NA,NA,NA,8.2,6.7,9.7,NA,NA,NA,NA,0.5,0.2,NA,NA,NA,NA,NA
+"ind_65","Current smoking (and cannabis use)","Smoked cannabis (last 30 days)","adults","Most (8-10)",NA,NA,NA,NA,10.2,11.5,9.8,NA,NA,NA,NA,0.9,0.5,NA,NA,NA,NA,NA
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Total",NA,NA,65.9,58.8,60.8,56.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1,0
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Men",NA,NA,60.2,55,56.2,53.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.5,0.3
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Women",NA,NA,71.3,62.4,65.2,58.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1,0
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","25-44",NA,NA,59.7,58.2,58.2,55.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.3,0.4
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","45-64",NA,NA,74,63.8,65.7,58.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1,0
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","65+",NA,NA,80.9,69.5,72.2,65.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.1
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","18-24",NA,NA,49.2,37.3,43.5,41.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4,0.5,0.8
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Maori",NA,NA,59.1,50.4,59.4,48.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.6,0
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Pacific",NA,NA,66.7,61.7,69.5,67.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.9,0.3,0.7
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Asian",NA,NA,72.9,77.7,63.8,72.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.9,0.3,0.2
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","European/Other",NA,NA,64.9,58.1,59.6,52.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Least (1-3)",NA,NA,64.3,57,59.1,54.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.6,0.2
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Mid (4-7)",NA,NA,68.9,61.4,59.2,55.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0.2
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Most (8-10)",NA,NA,64.1,56.9,65.5,58.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.7,0.1
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Non-drinker (last year)",NA,NA,NA,74.1,73,76.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6,0.4
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Last year drinker (non-heavy last 4 weeks)",NA,NA,NA,61.8,63.9,57.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0
+"ind_66","Alcohol attitudes","Reduce the hours alcohol can be sold in my community","adults","Heavy drinker (last 4 weeks)",NA,NA,NA,40.1,43.4,34.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Total",NA,NA,82,78.9,77.9,78.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.9,0.7
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Men",NA,NA,76.9,74.6,73.2,77.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.8,0.2,0.1
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Women",NA,NA,86.8,82.9,82.3,79.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1,0.2
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","25-44",NA,NA,87.3,80.5,77,83,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.4,0
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","45-64",NA,NA,80.6,81.6,82.4,78.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.2,0.1
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","65+",NA,NA,85.4,82.3,83,74.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","18-24",NA,NA,82.6,66.4,71,75.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.2,0.5
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Maori",NA,NA,80.4,77.1,71.7,73.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.3,0.6
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Pacific",NA,NA,81,86,78.7,84.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.7,0.2
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Asian",NA,NA,90.2,87.7,79.3,87,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.9,0.1
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","European/Other",NA,NA,81,78.5,78,76.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.3,0.4
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Least (1-3)",NA,NA,81.2,77.8,78.1,78.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.8,0.9
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Mid (4-7)",NA,NA,80.9,80.2,75.6,77.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.3,0.5
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Most (8-10)",NA,NA,84.3,78,81.6,80.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.4,0.7
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Non-drinker (last year)",NA,NA,NA,84.8,84.2,85.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.7,0.6
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Last year drinker (non-heavy last 4 weeks)",NA,NA,NA,81.5,80.4,79.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.7
+"ind_67","Alcohol attitudes","Increase restrictions on advertising/promotion seen or heard by under 18s","adults","Heavy drinker (last 4 weeks)",NA,NA,NA,69.3,67.3,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6,0.3
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Total",NA,NA,58.4,73.9,63.3,67.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Men",NA,NA,51.6,67.2,57.2,63.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.2,0
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Women",NA,NA,64.8,80.1,69,70.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0.6
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","25-44",NA,NA,65.8,77.1,65.7,69.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0,0.2
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","45-64",NA,NA,54.3,77.4,67.7,68.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0.8
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","65+",NA,NA,60.3,74.9,65.9,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0,0.8
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","18-24",NA,NA,58.2,59.2,50.8,61.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6,0.7,0.1
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Maori",NA,NA,52.6,70.9,64,62.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0.7
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Pacific",NA,NA,65.2,84.6,69.4,72.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0,0.5
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Asian",NA,NA,70.5,88.9,66.4,83.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.2,0
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","European/Other",NA,NA,55.9,72.9,61.9,63.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0.6
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Least (1-3)",NA,NA,54.1,71.2,58.6,66.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.2,0.1
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Mid (4-7)",NA,NA,59.8,76.4,60.8,65.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0,0.1
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Most (8-10)",NA,NA,61.7,72.8,73.4,71.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.7,0.5
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Non-drinker (last year)",NA,NA,NA,84.1,74.8,79.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.2
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Last year drinker (non-heavy last 4 weeks)",NA,NA,NA,75.8,65.7,68.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.3
+"ind_68","Alcohol attitudes","Ban alcohol-related sponsorship of events that people under 18 may attend","adults","Heavy drinker (last 4 weeks)",NA,NA,NA,61.4,47.7,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.2
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Total",NA,NA,NA,39.4,34.8,31.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Men",NA,NA,NA,34.2,32.2,26.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Women",NA,NA,NA,44.3,37.2,35.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.5
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","25-44",NA,NA,NA,38.5,32.9,28.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","45-64",NA,NA,NA,44.5,39.6,36.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.4
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","65+",NA,NA,NA,48.9,43.9,35.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","18-24",NA,NA,NA,20.3,20.6,23.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6,0.6
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Maori",NA,NA,NA,41.3,41.6,39.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.5
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Pacific",NA,NA,NA,49.3,50.6,38.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Asian",NA,NA,NA,46.7,35.1,31.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.5
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","European/Other",NA,NA,NA,37.5,32.4,29.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.2
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Least (1-3)",NA,NA,NA,33.5,28.5,26.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.7
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Mid (4-7)",NA,NA,NA,40.2,32.2,29.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.4
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Most (8-10)",NA,NA,NA,43.5,47.3,39.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Non-drinker (last year)",NA,NA,NA,53.7,43.9,44.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.9
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Last year drinker (non-heavy last 4 weeks)",NA,NA,NA,40,34.7,29.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_69","Alcohol attitudes","Too many local places to buy alcohol","adults","Heavy drinker (last 4 weeks)",NA,NA,NA,25.2,26,23.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6,0.5
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Total",2,1.2,1.1,1.2,1,0.8,1.3,0.2,0.8,0.6,0.8,0.5,0.1,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Men",1.7,2,1.5,1.6,1,0.9,1.4,0.7,0.5,0.9,0.8,0.6,0.3,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Women",2.2,0.4,0.7,0.8,1,0.6,1.2,0.1,0.1,0.4,0.5,0.7,0.2,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","15-24",0.5,1.6,0.1,0.3,0,0.6,1.2,0.5,0.8,0.3,0.4,0.4,0.6,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","25-44",1.5,1.4,1.2,0.6,0.4,0.6,0.5,0.1,0.3,0.2,0.7,0.8,0.9,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","45-64",3.1,1.1,1.1,1.7,2.2,0.8,1.7,0.2,0.4,0.5,0.9,0.7,0.2,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","65+",2.8,0.3,1.9,2.2,0.9,1.1,2,0.6,0,0.9,0.9,0.2,0.3,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Maori",4.3,2.2,2.9,2.5,0.9,1.7,2.8,0.4,0.7,1,0.8,0.1,0.4,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Pacific",3.3,0.4,2.5,1.9,1,1.5,0.9,0.1,0.3,0.2,0.4,0.8,0.4,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Asian",0.9,1.3,1.4,0,0,0.1,0.2,0.3,0.6,0.4,0.6,0.9,0.8,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","European/Other",1.8,1.2,0.9,1,1.1,0.8,1.3,0.4,0.8,0.4,0.5,0.7,0.2,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Least (1-3)",1.1,1.2,0.4,0.9,0.6,0.4,0.7,0.6,0.7,0.6,0.8,0.9,0.6,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Mid (4-7)",3.1,0.8,1.6,0.7,0.7,1,1.2,0,0.6,0.6,0.4,0.4,0.8,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Most (8-10)",1.3,1.8,1.2,2.1,1.9,0.7,2.1,0.3,0.7,0.2,1,0.9,0,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Non-problem gambler",NA,NA,0.3,1.2,0.9,0.3,1.1,NA,NA,0.1,1,0.8,0,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Low-risk gambler",NA,NA,3.5,5.4,6.7,5.9,8.4,NA,NA,0.3,0.6,0.7,0.6,NA,NA,NA,NA,NA
+"ind_7","Gambling participation frequency","Gaming machines in pub/club - at least weekly","adults","Moderate-risk or problem gambler",NA,NA,21,16,9.2,24.8,15.2,NA,NA,0.6,0.9,0.5,0.4,NA,NA,NA,NA,NA
+"ind_70","Alcohol cutting back","Thought about cutting back on drinking",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_71","Alcohol cutting back","Made serious effort to cut back on drinking",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","Total",NA,NA,NA,73.2,74.4,76.1,77.1,NA,NA,NA,0,0.1,0.5,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","Men",NA,NA,NA,79.2,78.6,81,81.7,NA,NA,NA,0.3,0.2,0.8,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","Women",NA,NA,NA,67.6,70.5,71.5,72.7,NA,NA,NA,0,0.4,0.6,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","25-44",NA,NA,NA,73.9,77,77.4,79.6,NA,NA,NA,0.1,0.4,0.4,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","45-64",NA,NA,NA,77.7,77.2,79.2,75.4,NA,NA,NA,0.5,0.5,0.1,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","65+",NA,NA,NA,66.4,72.4,73.2,75.6,NA,NA,NA,0,0.3,0.4,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","18-24",NA,NA,NA,77.5,73.9,80,79.9,NA,NA,NA,0.7,0.4,1,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","Maori",NA,NA,NA,77.5,74.6,77.5,77.2,NA,NA,NA,0.9,0.5,0.9,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","Pacific",NA,NA,NA,59.6,57.3,55.2,64.2,NA,NA,NA,0.4,0.2,0.1,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","Asian",NA,NA,NA,40.7,47,51,54.5,NA,NA,NA,0,0.3,0.5,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","European/Other",NA,NA,NA,76.5,80.6,83,83.6,NA,NA,NA,0,0.1,0.7,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","Least (1-3)",NA,NA,NA,82,82,81.7,83,NA,NA,NA,0.8,0.8,0.7,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","Mid (4-7)",NA,NA,NA,72.7,74.7,77.2,79.5,NA,NA,NA,0,0.1,0.4,NA,NA,NA,NA,NA
+"ind_72","Alcohol consumption","Drinkers (last year)","adults","Most (8-10)",NA,NA,NA,65.9,63.9,67.7,66.9,NA,NA,NA,0.8,0.4,0.8,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","Total",NA,NA,NA,26.8,25.6,24.1,22.9,NA,NA,NA,0,0.1,0.5,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","Men",NA,NA,NA,20.8,21.4,19.1,18.3,NA,NA,NA,0.3,0.2,0.7,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","Women",NA,NA,NA,32.4,29.5,28.7,27.3,NA,NA,NA,0,0.4,0.5,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","25-44",NA,NA,NA,26.1,23,23,20.4,NA,NA,NA,0.1,0.4,0.3,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","45-64",NA,NA,NA,22.3,22.8,20.9,24.6,NA,NA,NA,0.5,0.5,0.2,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","65+",NA,NA,NA,33.6,27.6,27.1,24.4,NA,NA,NA,0,0.3,0.4,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","18-24",NA,NA,NA,22.5,26.1,20,20.1,NA,NA,NA,0.7,0.4,1,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","Maori",NA,NA,NA,22.5,25.4,22.6,22.8,NA,NA,NA,0.9,0.5,1,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","Pacific",NA,NA,NA,40.4,42.7,45.1,35.6,NA,NA,NA,0.3,0.2,0.1,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","Asian",NA,NA,NA,59.3,53,49.3,45.5,NA,NA,NA,0,0.3,0.5,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","European/Other",NA,NA,NA,23.5,19.4,17.1,16.4,NA,NA,NA,0,0.1,0.7,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","Least (1-3)",NA,NA,NA,18,18,18.3,17,NA,NA,NA,0.8,0.8,0.7,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","Mid (4-7)",NA,NA,NA,27.3,25.3,23.2,20.5,NA,NA,NA,0,0.1,0.3,NA,NA,NA,NA,NA
+"ind_73","Alcohol consumption","Non-drinkers (last year)","adults","Most (8-10)",NA,NA,NA,34.1,36.1,32.4,33.1,NA,NA,NA,0.8,0.4,0.8,NA,NA,NA,NA,NA
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","Total",NA,NA,NA,44.3,48,50.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","Men",NA,NA,NA,41.1,44.3,50.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","Women",NA,NA,NA,47.4,51.5,51.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,1
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","25-44",NA,NA,NA,38.4,41.5,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","45-64",NA,NA,NA,56,56.8,55.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.9,0.7
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","65+",NA,NA,NA,56.6,64.4,63.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.9
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","18-24",NA,NA,NA,24.2,27.6,37.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","Maori",NA,NA,NA,29.6,33.7,34.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.9
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","Pacific",NA,NA,NA,26.6,26.9,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.9,0.8
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","Asian",NA,NA,NA,30.8,36,42.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.3
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","European/Other",NA,NA,NA,48,53.4,55.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.3
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","Least (1-3)",NA,NA,NA,50,56.8,58.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.6
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","Mid (4-7)",NA,NA,NA,46.8,48,52.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1
+"ind_74","Alcohol consumption","Drinkers - non-heavy (last four weeks)","adults","Most (8-10)",NA,NA,NA,35.7,35.9,39.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.4
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","Total",NA,NA,NA,28.9,26.4,25.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.5
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","Men",NA,NA,NA,38.1,34.2,30.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.2
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","Women",NA,NA,NA,20.2,19,19.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.9,0.6
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","25-44",NA,NA,NA,35.5,35.5,30.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","45-64",NA,NA,NA,21.6,20.4,23.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.2
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","65+",NA,NA,NA,9.8,8,9.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.9,0.5
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","18-24",NA,NA,NA,53.3,46.4,42.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.5
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","Maori",NA,NA,NA,47.9,40.9,43.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.6
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","Pacific",NA,NA,NA,33,30.4,29.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4,0.8
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","Asian",NA,NA,NA,9.9,11,8.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.8,0.5
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","European/Other",NA,NA,NA,28.5,27.2,27.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,1
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","Least (1-3)",NA,NA,NA,32,25.2,22.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.5
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","Mid (4-7)",NA,NA,NA,25.9,26.7,25.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.7,0.5
+"ind_75","Alcohol consumption","Drinkers – heavy (last four weeks)","adults","Most (8-10)",NA,NA,NA,30.3,28,28.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6,0.8
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Total",NA,NA,12.6,14.9,8.5,10.3,11.6,NA,NA,0.6,0.1,0,0.4,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Men",NA,NA,14.2,17.7,9.9,10.7,13.7,NA,NA,0.9,0.1,0.1,0.2,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Women",NA,NA,11,12.3,7.1,10,9.7,NA,NA,0.6,0.2,0.1,0.9,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","15-24",NA,NA,24.8,25.5,14.1,17.4,27.9,NA,NA,0.7,0.7,0,0.1,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","25-44",NA,NA,15.3,20.1,12.1,14.5,11.4,NA,NA,0.3,0,0.8,0.2,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","45-64",NA,NA,8.1,10.1,5.4,7.3,8.2,NA,NA,1,0.4,0.2,0.7,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","65+",NA,NA,2.8,3.3,2,1.3,3.2,NA,NA,0.8,1,0.4,0.1,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Maori",NA,NA,14.2,10.9,10.4,11.1,14.4,NA,NA,1,0.3,0.3,0.3,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Pacific",NA,NA,16,11.1,10,11.2,9.2,NA,NA,0.2,0.6,0.8,0.5,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Asian",NA,NA,7.7,8.2,6.5,8.3,6.2,NA,NA,0.7,0.6,0.9,0.5,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","European/Other",NA,NA,12.9,16.6,8.6,10.8,12.4,NA,NA,0.8,0,0,0.4,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Least (1-3)",NA,NA,12.3,15.1,8.4,10.2,12,NA,NA,0.9,0.5,0.3,0.6,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Mid (4-7)",NA,NA,14.1,15.2,8.1,12.4,12.8,NA,NA,0.7,0.4,0.1,0.9,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Most (8-10)",NA,NA,11,14.2,9.4,7.1,9.7,NA,NA,0.6,0.1,0.9,0.2,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Very fair or fair",NA,NA,13.5,16.7,8.6,11.8,15.3,NA,NA,0.6,0.6,0,0.2,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Medium",NA,NA,14.7,17.2,7.9,11.4,10.4,NA,NA,0.2,0,0.3,0.7,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Olive",NA,NA,11.6,13.3,9.8,8.7,9.6,NA,NA,0.6,0.3,0.9,0.7,NA,NA,NA,NA,NA
+"ind_76","Sunburn","Sunburnt last summer - badly","adults","Dark, very dark or black",NA,NA,4,6.3,6.6,4.9,5.7,NA,NA,0.5,0.8,0.7,0.7,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Total",NA,NA,47.1,NA,38.3,41.7,40.5,NA,NA,0,NA,0.3,0.6,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Men",NA,NA,50.4,NA,41.9,45.6,42.2,NA,NA,0,NA,0.9,0.3,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Women",NA,NA,44.1,NA,34.9,38,38.8,NA,NA,0.1,NA,0.1,0.7,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","15-24",NA,NA,58,NA,50,49.9,60.2,NA,NA,0.8,NA,0.1,0.1,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","25-44",NA,NA,57.3,NA,48.5,50.2,46.2,NA,NA,0,NA,0.5,0.2,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","45-64",NA,NA,44,NA,36.4,39.5,34.8,NA,NA,0,NA,0.7,0.1,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","65+",NA,NA,20.3,NA,13.6,22.1,22.4,NA,NA,0.6,NA,0,0.9,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Maori",NA,NA,44.1,NA,37.2,40.9,47.1,NA,NA,0.5,NA,0,0.2,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Pacific",NA,NA,31.2,NA,36.3,25.8,22.6,NA,NA,0.1,NA,0,0.5,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Asian",NA,NA,22.6,NA,18.9,23.3,18.9,NA,NA,0.7,NA,1,0.4,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","European/Other",NA,NA,53,NA,42.7,47.3,47.1,NA,NA,0,NA,0.1,0.9,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Least (1-3)",NA,NA,49.7,NA,46,46.4,41.4,NA,NA,0.1,NA,0.3,0.3,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Mid (4-7)",NA,NA,50.2,NA,35.8,40.8,41.9,NA,NA,0,NA,0.1,0.8,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Most (8-10)",NA,NA,40.4,NA,33.5,37.5,37.8,NA,NA,0.5,NA,0.3,0.9,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Very fair or fair",NA,NA,51.1,NA,39.2,48.5,52,NA,NA,0.8,NA,0,0.2,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Medium",NA,NA,49.9,NA,41.5,44.4,41,NA,NA,0.1,NA,0.9,0.4,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Olive",NA,NA,47.5,NA,41.3,36.2,30.1,NA,NA,0,NA,0,0.1,NA,NA,NA,NA,NA
+"ind_77","Sunburn","Sunburnt last summer - mild","adults","Dark, very dark or black",NA,NA,22.3,NA,19.2,18.2,16.4,NA,NA,0.2,NA,0.5,0.7,NA,NA,NA,NA,NA
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Total",NA,75,NA,70.7,70.5,76.4,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,0,0
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Men",NA,68.7,NA,63.3,65.8,74.1,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0,0
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Women",NA,80.8,NA,77.6,74.9,78.7,NA,NA,NA,NA,NA,NA,NA,NA,0.3,NA,0.6,0.1
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","15-24",NA,81.4,NA,79.3,78.1,79.9,NA,NA,NA,NA,NA,NA,NA,NA,0.8,NA,0.9,0.7
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","25-44",NA,81.2,NA,79.4,74.8,85,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0,0
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","45-64",NA,72.1,NA,64.5,68.9,76.4,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0,0
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","65+",NA,57.9,NA,57.2,58.7,57.9,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0.9,0.8
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Maori",NA,68.8,NA,59,59.3,69.6,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,0,0
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Pacific",NA,62,NA,50.6,54.1,62.5,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,0,0.1
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Asian",NA,67.2,NA,72.4,68.6,74.8,NA,NA,NA,NA,NA,NA,NA,NA,0.4,NA,0.7,0.3
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","European/Other",NA,78,NA,73.9,74.2,78.9,NA,NA,NA,NA,NA,NA,NA,NA,0.7,NA,0,0
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Least (1-3)",NA,79.6,NA,77.6,76.3,82.9,NA,NA,NA,NA,NA,NA,NA,NA,0.3,NA,0.1,0.1
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Mid (4-7)",NA,75.4,NA,72,72.9,76,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,0.1,0.3
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Most (8-10)",NA,69.3,NA,62.6,58.9,69.4,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,0
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Very fair or fair",NA,79.9,NA,74.4,74.8,82.1,NA,NA,NA,NA,NA,NA,NA,NA,0.4,NA,0,0
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Medium",NA,81,NA,75,72.9,76.4,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0.6,0.3
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Olive",NA,70.5,NA,67.9,69.8,74,NA,NA,NA,NA,NA,NA,NA,NA,0.4,NA,0.1,0.2
+"ind_78","Sun protective behaviours (and skin checks)","Wear sunscreen","adults","Dark, very dark or black",NA,48,NA,53.2,48.4,59.8,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.2,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Total",NA,66.8,NA,55.7,53.8,61.4,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Men",NA,71.5,NA,60.3,56.9,63.9,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.2,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Women",NA,62.5,NA,51.4,50.8,59,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","15-24",NA,55.9,NA,41.1,38.1,53.5,NA,NA,NA,NA,NA,NA,NA,NA,0.7,NA,0,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","25-44",NA,67,NA,57.1,52.1,57.7,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.9,0.1
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","45-64",NA,71.4,NA,58.9,62.1,65.7,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0,0.2
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","65+",NA,70.4,NA,62,58.1,68.3,NA,NA,NA,NA,NA,NA,NA,NA,0.7,NA,0.1,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Maori",NA,62.3,NA,47.2,42.8,55.5,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Pacific",NA,53.9,NA,40.4,48,53,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,0,0.3
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Asian",NA,48.9,NA,51.1,41.5,50.3,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,0.9,0.3
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","European/Other",NA,69.9,NA,57.7,57.9,64.6,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Least (1-3)",NA,69.6,NA,66.3,64.5,66.5,NA,NA,NA,NA,NA,NA,NA,NA,0.4,NA,1,0.6
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Mid (4-7)",NA,68.5,NA,54.1,51.2,62.5,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Most (8-10)",NA,61.4,NA,48.5,44.4,53.5,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.2,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Very fair or fair",NA,72.5,NA,61.9,55,64.2,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.5,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Medium",NA,65.4,NA,54.1,56.8,64.5,NA,NA,NA,NA,NA,NA,NA,NA,0.8,NA,0,0
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Olive",NA,65.6,NA,51,50.8,55.4,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.3,0.3
+"ind_79","Sun protective behaviours (and skin checks)","Hat","adults","Dark, very dark or black",NA,55.7,NA,48,46.1,55.4,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0.2,0.1
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Total",5.2,4.6,3.2,3.7,2,3.6,3.8,0.2,0.5,0.5,0.9,0,0.8,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Men",8.7,6.1,5.6,7.2,3.4,6.4,6.4,0.2,0.9,0.7,0.6,0.1,1,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Women",1.8,3.2,1,0.5,0.7,0.9,1.4,0.6,0.1,0.5,0.1,0.2,0.4,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","15-24",2.6,2.7,2.2,3.1,1.9,2.8,3.1,0.9,0.9,0.7,1,0.7,0.9,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","25-44",3.7,4.1,1.3,3.3,1.6,3.1,4.6,0.6,0.8,0,0.4,0,0.3,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","45-64",8.1,6.3,5.6,3.8,1.5,4,2.3,0,0.1,0,0.2,0.4,0.1,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","65+",5.4,4.4,3.5,5.1,3.6,4.5,5.3,1,0.7,0.3,0.9,0.3,0.6,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Maori",5.5,5.5,4.3,2.8,1.3,4,5.1,0.9,0.9,0.7,0.2,0,0.5,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Pacific",4.3,7.5,3.6,5.9,1.4,4.5,2.3,0.3,0.1,0.6,0.1,0.4,0.2,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Asian",1.8,2,2.8,3.2,1.1,2.2,2.3,0.8,0.9,0.9,0.8,0.7,1,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","European/Other",5.6,4.4,3.4,3.5,2.1,3.7,4.4,0.3,1,0.4,0.4,0,0.5,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Least (1-3)",4.6,4.2,1,2.3,1.5,3.4,2.9,0.3,0.6,0.2,0.8,0.4,0.8,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Mid (4-7)",6.1,4,4.3,3.6,1.6,3.5,4.8,0.4,0.6,0.8,0.4,0,0.3,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Most (8-10)",4.3,5.7,4.3,5.2,3.4,4,3.5,0.6,0.2,0.6,0.3,1,0.7,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Non-problem gambler",NA,NA,2.6,4.3,2.1,4,3.8,NA,NA,0.2,0.6,0.1,0.8,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Low-risk gambler",NA,NA,17.2,21.2,6.1,15.5,32.6,NA,NA,0.2,0.4,0,0.2,NA,NA,NA,NA,NA
+"ind_8","Gambling participation frequency","Horse/dog races/sports events - at least monthly","adults","Moderate-risk or problem gambler",NA,NA,10.5,29.2,23,28.1,16.3,NA,NA,0.5,0.3,0.7,0.3,NA,NA,NA,NA,NA
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Total",NA,48.4,NA,43.4,42.1,45,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.4,0.1
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Men",NA,50,NA,45,42.8,43.4,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.6,0.8
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Women",NA,46.8,NA,42,41.5,46.6,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,0.1,0
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","15-24",NA,37.8,NA,34.5,28.4,28.2,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0.2,1
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","25-44",NA,50.5,NA,45.4,43.2,48.5,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,0.4,0.1
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","45-64",NA,52.6,NA,46.1,48.2,50.8,NA,NA,NA,NA,NA,NA,NA,NA,0.7,NA,0.2,0.4
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","65+",NA,47.4,NA,44,43.5,45.2,NA,NA,NA,NA,NA,NA,NA,NA,0.7,NA,0.8,0.7
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Maori",NA,42.8,NA,37,37.2,35.6,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.7,0.7
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Pacific",NA,37.6,NA,37.5,23.8,32,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0.3,0.1
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Asian",NA,36.7,NA,35.9,32.6,41.8,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,0.4,0.1
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","European/Other",NA,50.6,NA,45,45.5,47.6,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0.3,0.4
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Least (1-3)",NA,50,NA,46.4,44,47.2,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,0.9,0.4
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Mid (4-7)",NA,51.5,NA,42.8,43.1,45.1,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.5,0.5
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Most (8-10)",NA,42.1,NA,41.7,37.7,42.4,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0.9,0.2
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Very fair or fair",NA,49.2,NA,45,46.1,52.5,NA,NA,NA,NA,NA,NA,NA,NA,0.4,NA,0,0.1
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Medium",NA,52.5,NA,45.2,40.5,43.7,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.7,0.3
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Olive",NA,48,NA,41.5,39.8,39.9,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.7,1
+"ind_80","Sun protective behaviours (and skin checks)","Clothing","adults","Dark, very dark or black",NA,32,NA,37.6,37,32.6,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,0.3,0.4
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Total",NA,36.4,NA,33.3,26,33.5,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0.9,0
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Men",NA,32,NA,32.9,24.8,30.2,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,0.3,0
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Women",NA,40.4,NA,33.6,27.2,36.5,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0.3,0
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","15-24",NA,39.9,NA,38.6,28.9,35.5,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,0.6,0.2
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","25-44",NA,41.7,NA,36,29.4,39.5,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,0.3,0
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","45-64",NA,34.1,NA,33.3,26.4,32,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,0.7,0.1
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","65+",NA,23.8,NA,22.9,17.3,23.1,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,1,0.1
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Maori",NA,31.2,NA,31.3,28,30,NA,NA,NA,NA,NA,NA,NA,NA,0.8,NA,0.7,0.6
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Pacific",NA,27.4,NA,25,21.6,29.4,NA,NA,NA,NA,NA,NA,NA,NA,0.7,NA,0.4,0.1
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Asian",NA,49.1,NA,33.4,31.5,35.5,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.8,0.5
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","European/Other",NA,35.3,NA,33.8,25.6,33.1,NA,NA,NA,NA,NA,NA,NA,NA,0.4,NA,0.8,0
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Least (1-3)",NA,31,NA,39.2,24.4,35.9,NA,NA,NA,NA,NA,NA,NA,NA,0.3,NA,0.5,0
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Mid (4-7)",NA,44.1,NA,30.7,27.5,35,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.2,0
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Most (8-10)",NA,31.2,NA,31.5,25.9,27.9,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,0.3,0.6
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Very fair or fair",NA,36.4,NA,36.5,27.6,32.7,NA,NA,NA,NA,NA,NA,NA,NA,0.4,NA,0.3,0.1
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Medium",NA,37.1,NA,33,24.6,35.9,NA,NA,NA,NA,NA,NA,NA,NA,0.8,NA,0.4,0
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Olive",NA,37,NA,30.7,25.5,32.5,NA,NA,NA,NA,NA,NA,NA,NA,0.3,NA,0.7,0.1
+"ind_81","Sun protective behaviours (and skin checks)","Sunglasses","adults","Dark, very dark or black",NA,32.2,NA,28.3,25.7,31.5,NA,NA,NA,NA,NA,NA,NA,NA,0.9,NA,0.6,0.3
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Total",NA,29.8,NA,29.4,26.4,33.1,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.1,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Men",NA,21.1,NA,24.4,21.4,26.5,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0.4,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Women",NA,37.8,NA,34,31.1,39.4,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,0,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","15-24",NA,32,NA,24.9,30.1,26.6,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,0.7,0.6
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","25-44",NA,29.7,NA,27.9,26.3,33,NA,NA,NA,NA,NA,NA,NA,NA,0.3,NA,0.1,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","45-64",NA,30.2,NA,29.2,24.8,35.4,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","65+",NA,26.2,NA,36.9,25.7,35.6,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.7,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Maori",NA,27.8,NA,30.2,24.1,30.8,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,0.9,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Pacific",NA,37.8,NA,28,26.1,25.3,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.6,0.9
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Asian",NA,32.8,NA,20.3,28.9,26.7,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,0.2,0.7
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","European/Other",NA,29.2,NA,30.4,26.3,34.9,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Least (1-3)",NA,30.9,NA,33,27.2,36.8,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0.4,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Mid (4-7)",NA,28.4,NA,27.1,26.7,32.8,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0.1,0.1
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Most (8-10)",NA,30.4,NA,29.3,24.9,29.2,NA,NA,NA,NA,NA,NA,NA,NA,0.8,NA,1,0.2
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Very fair or fair",NA,34.5,NA,35.3,30.5,39.2,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,0.2,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Medium",NA,26.4,NA,26.4,22.2,33,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,0,0
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Olive",NA,28.3,NA,25.3,27.1,27.2,NA,NA,NA,NA,NA,NA,NA,NA,0.8,NA,0.6,1
+"ind_82","Sun protective behaviours (and skin checks)","Shade","adults","Dark, very dark or black",NA,29,NA,25.1,25.2,24,NA,NA,NA,NA,NA,NA,NA,NA,0.4,NA,0.8,0.8
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Total",NA,NA,NA,NA,26.7,24.2,25.4,NA,NA,NA,NA,0.4,0.4,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Men",NA,NA,NA,NA,26.1,24.7,25.5,NA,NA,NA,NA,0.8,0.7,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Women",NA,NA,NA,NA,27.1,23.7,25.3,NA,NA,NA,NA,0.4,0.4,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","15-24",NA,NA,NA,NA,6.8,8,8.9,NA,NA,NA,NA,0.6,0.8,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","25-44",NA,NA,NA,NA,16.8,14.8,18.9,NA,NA,NA,NA,0.4,0.1,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","45-64",NA,NA,NA,NA,33,29.6,28.6,NA,NA,NA,NA,0.2,0.7,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","65+",NA,NA,NA,NA,51.5,47.3,45.6,NA,NA,NA,NA,0.1,0.7,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Maori",NA,NA,NA,NA,15.3,14.6,18.2,NA,NA,NA,NA,0.4,0.2,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Pacific",NA,NA,NA,NA,17.9,10.4,11.1,NA,NA,NA,NA,0.1,0.8,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Asian",NA,NA,NA,NA,8.7,5.8,6.8,NA,NA,NA,NA,0.6,0.7,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","European/Other",NA,NA,NA,NA,32,29.3,30.6,NA,NA,NA,NA,0.5,0.5,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Least (1-3)",NA,NA,NA,NA,32.9,32.1,30.5,NA,NA,NA,NA,0.5,0.6,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Mid (4-7)",NA,NA,NA,NA,25.2,22.6,25.3,NA,NA,NA,NA,1,0.3,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Most (8-10)",NA,NA,NA,NA,19.9,17.3,18.7,NA,NA,NA,NA,0.7,0.6,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Very fair or fair",NA,NA,NA,NA,32.7,29.5,30.6,NA,NA,NA,NA,0.5,0.7,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Medium",NA,NA,NA,NA,25.9,23.8,28.4,NA,NA,NA,NA,0.4,0.1,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Olive",NA,NA,NA,NA,23.8,20.5,19.6,NA,NA,NA,NA,0.2,0.8,NA,NA,NA,NA,NA
+"ind_83","Sun protective behaviours (and skin checks)","Skin check in the last 2 years","adults","Dark, very dark or black",NA,NA,NA,NA,13.5,13.3,7.2,NA,NA,NA,NA,0.1,0.1,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","Total",NA,NA,NA,90,88.4,88.4,87.3,NA,NA,NA,0,0.4,0.3,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","Men",NA,NA,NA,89.1,87.4,86.7,86.4,NA,NA,NA,0.2,0.6,0.9,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","Women",NA,NA,NA,90.8,89.3,90.1,88.1,NA,NA,NA,0.1,0.5,0.2,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","15-24",NA,NA,NA,82,79.3,82.9,79,NA,NA,NA,0.5,0.9,0.4,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","25-44",NA,NA,NA,89.8,88.2,88.2,84.7,NA,NA,NA,0,0.1,0.1,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","45-64",NA,NA,NA,90.7,90.8,88.6,91.7,NA,NA,NA,0.6,0.7,0.1,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","65+",NA,NA,NA,96.9,93.2,94,92,NA,NA,NA,0,0.5,0.2,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","Maori",NA,NA,NA,86.6,86.1,82.6,82.8,NA,NA,NA,0.2,0.3,1,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","Pacific",NA,NA,NA,88.3,78.6,87.6,83.9,NA,NA,NA,0.2,0.2,0.3,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","Asian",NA,NA,NA,84.4,85.1,91.1,90.8,NA,NA,NA,0.2,0.3,0.9,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","European/Other",NA,NA,NA,91,90,88.5,87.4,NA,NA,NA,0,0.1,0.5,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","Least (1-3)",NA,NA,NA,93,90.7,89.6,89,NA,NA,NA,0.1,0.5,0.8,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","Mid (4-7)",NA,NA,NA,89.6,90,88.7,87.4,NA,NA,NA,0.3,0.2,0.5,NA,NA,NA,NA,NA
+"ind_84","Meal preparation","Main meal - prepared at home 5+ days","adults","Most (8-10)",NA,NA,NA,87.7,82.4,86.7,85,NA,NA,NA,0.2,0.3,0.5,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","Total",NA,NA,NA,NA,7.8,8.8,9.6,NA,NA,NA,NA,0.1,0.5,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","Men",NA,NA,NA,NA,8.3,10.3,11,NA,NA,NA,NA,0.2,0.7,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","Women",NA,NA,NA,NA,7.4,7.4,8.2,NA,NA,NA,NA,0.6,0.6,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","15-24",NA,NA,NA,NA,16.8,13.3,15.5,NA,NA,NA,NA,0.8,0.6,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","25-44",NA,NA,NA,NA,8.7,9.1,12.9,NA,NA,NA,NA,0.1,0.1,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","45-64",NA,NA,NA,NA,4.7,8.4,5.7,NA,NA,NA,NA,0.5,0.1,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","65+",NA,NA,NA,NA,3.1,4.7,4.8,NA,NA,NA,NA,0.2,0.9,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","Maori",NA,NA,NA,NA,10.7,14.6,11.8,NA,NA,NA,NA,0.7,0.4,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","Pacific",NA,NA,NA,NA,11.4,11.7,12.1,NA,NA,NA,NA,0.9,0.9,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","Asian",NA,NA,NA,NA,10.8,6.5,8.1,NA,NA,NA,NA,0.5,0.6,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","European/Other",NA,NA,NA,NA,6.6,8.7,9.3,NA,NA,NA,NA,0,0.6,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","Least (1-3)",NA,NA,NA,NA,6.7,7.8,6.6,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","Mid (4-7)",NA,NA,NA,NA,6.7,9,11.5,NA,NA,NA,NA,0,0.2,NA,NA,NA,NA,NA
+"ind_85","Meal preparation","Main meal - bought outside home 3+ days","adults","Most (8-10)",NA,NA,NA,NA,11.6,9.9,10.3,NA,NA,NA,NA,0.6,0.8,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","Total",NA,NA,NA,NA,NA,82.3,82.1,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","Men",NA,NA,NA,NA,NA,82.2,83.7,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","Women",NA,NA,NA,NA,NA,82.3,80.7,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","15-24",NA,NA,NA,NA,NA,60.8,66.9,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","25-44",NA,NA,NA,NA,NA,83,80.4,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","45-64",NA,NA,NA,NA,NA,88.1,85.2,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","65+",NA,NA,NA,NA,NA,91.9,93.6,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","Maori",NA,NA,NA,NA,NA,76.3,72.7,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","Pacific",NA,NA,NA,NA,NA,80.2,70,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","Asian",NA,NA,NA,NA,NA,74.9,80.4,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","European/Other",NA,NA,NA,NA,NA,83.7,83.9,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","Least (1-3)",NA,NA,NA,NA,NA,87.2,82.2,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","Mid (4-7)",NA,NA,NA,NA,NA,81.4,83.5,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_86","Eating habits within households","Eating together - always/frequently","adults","Most (8-10)",NA,NA,NA,NA,NA,77.8,79.9,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_87","Eating habits within households","Eating together - sometimes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_88","Eating habits within households","Eating together - almost never/never",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","Total",NA,NA,NA,67.3,63.3,59,68.5,NA,NA,NA,0.6,0,0,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","Men",NA,NA,NA,64.5,62,54.8,65.9,NA,NA,NA,0.6,0.2,0,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","Women",NA,NA,NA,70,64.6,63.1,70.9,NA,NA,NA,0.7,0,0,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","15-24",NA,NA,NA,61.1,62.5,57.3,66.2,NA,NA,NA,0.4,0.6,0.1,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","25-44",NA,NA,NA,68.9,62.8,60.7,68.4,NA,NA,NA,0.9,0.1,0,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","45-64",NA,NA,NA,67.5,63.4,57.7,68.3,NA,NA,NA,0.8,0.1,0,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","65+",NA,NA,NA,70,64.9,60.1,70.8,NA,NA,NA,0.8,0.1,0,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","Maori",NA,NA,NA,80.4,78.2,70.9,78.2,NA,NA,NA,0.6,1,0.1,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","Pacific",NA,NA,NA,90,87.6,84.2,89.8,NA,NA,NA,1,0.5,0.1,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","Asian",NA,NA,NA,91.4,82.1,83.6,86,NA,NA,NA,0.2,0.5,0.6,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","European/Other",NA,NA,NA,62.7,56.5,50.7,61.9,NA,NA,NA,0.8,0,0,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","Least (1-3)",NA,NA,NA,65.8,54.4,55.2,67,NA,NA,NA,0.8,0,0,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","Mid (4-7)",NA,NA,NA,68.8,64.4,56.1,68.4,NA,NA,NA,0.9,0.2,0,NA,NA,NA,NA,NA
+"ind_89","Wellbeing","Important to maintain a strong connection to culture","adults","Most (8-10)",NA,NA,NA,66.6,73.3,68.6,70.5,NA,NA,NA,0.3,0.5,0.5,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Total",4.2,4.3,3.4,3.2,3.5,2.7,3,0.1,0.1,0.6,0.9,0.6,0.6,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Men",4.4,5.6,4.2,4.5,4.8,4.1,4.3,1,0.4,0.9,0.9,0.8,0.9,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Women",4,3.1,2.6,1.9,2.3,1.4,1.8,0,0.1,0.3,0.9,0.4,0.4,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","15-24",1.4,2.8,2.1,1.4,1.9,2.2,3,0.5,0.9,0.7,0.5,0.7,0.8,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","25-44",2.7,4.7,3,1.5,2.7,1.4,1.7,0.2,0,0.2,0.7,0.3,0.6,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","45-64",7.2,3.9,3.5,4.4,3.8,3.6,2.7,0,0.3,0.5,0.1,0.4,0.4,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","65+",4.8,6.2,5.4,5.8,5.6,4.2,6,0.6,0.9,0.8,0.9,0.8,0.3,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Maori",8.2,4.9,6.6,4.3,2.9,4.7,4.7,0.1,0.9,0.4,0.8,0.2,1,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Pacific",10.7,7.2,7,5,4.1,6.4,3.1,0,0.1,0.1,0.3,0.5,0.1,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Asian",2.2,3.3,3.8,1.3,1.8,1.2,2,0.9,0.7,0.6,0.8,0.9,0.8,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","European/Other",3.6,4.1,2.8,3.1,3.6,2.6,3.3,0.8,0.4,0.6,0.8,0.8,0.4,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Least (1-3)",2.4,3.5,1.5,1.9,2.3,1.5,2.5,1,0.6,0.5,0.7,0.9,0.5,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Mid (4-7)",5.1,3.7,4,3.7,2.6,2.8,3.2,0.1,0.6,0.5,0.6,0.6,0.7,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Most (8-10)",4.9,6.1,4.8,3.5,6.5,4.1,3.6,0.3,0.1,0.3,1,0.1,0.6,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Non-problem gambler",NA,NA,2,3.5,3.8,2.5,2.7,NA,NA,0.4,0.3,0.2,0.8,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Low-risk gambler",NA,NA,15,17.5,11.7,17.1,27,NA,NA,0.3,0.4,0.2,0.4,NA,NA,NA,NA,NA
+"ind_9","Gambling participation frequency","Continuous forms of gambling - at least weekly","adults","Moderate-risk or problem gambler",NA,NA,34,24.8,36.5,37.2,22.3,NA,NA,0.3,0.8,0.4,0.2,NA,NA,NA,NA,NA
+"ind_90","Wellbeing","Felt isolated from others","adults","Total",NA,NA,NA,NA,26.7,25.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5
+"ind_90","Wellbeing","Felt isolated from others","adults","Men",NA,NA,NA,NA,26.1,24.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4
+"ind_90","Wellbeing","Felt isolated from others","adults","Women",NA,NA,NA,NA,27.1,26.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.8
+"ind_90","Wellbeing","Felt isolated from others","adults","15-24",NA,NA,NA,NA,37.2,32.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4
+"ind_90","Wellbeing","Felt isolated from others","adults","25-44",NA,NA,NA,NA,25.4,27.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5
+"ind_90","Wellbeing","Felt isolated from others","adults","45-64",NA,NA,NA,NA,25.3,23.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5
+"ind_90","Wellbeing","Felt isolated from others","adults","65+",NA,NA,NA,NA,21.1,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3
+"ind_90","Wellbeing","Felt isolated from others","adults","Maori",NA,NA,NA,NA,24.7,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1
+"ind_90","Wellbeing","Felt isolated from others","adults","Pacific",NA,NA,NA,NA,27.7,21.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2
+"ind_90","Wellbeing","Felt isolated from others","adults","Asian",NA,NA,NA,NA,33,23.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2
+"ind_90","Wellbeing","Felt isolated from others","adults","European/Other",NA,NA,NA,NA,26.8,26.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.8
+"ind_90","Wellbeing","Felt isolated from others","adults","Least (1-3)",NA,NA,NA,NA,26,24.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.8
+"ind_90","Wellbeing","Felt isolated from others","adults","Mid (4-7)",NA,NA,NA,NA,27.2,25.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6
+"ind_90","Wellbeing","Felt isolated from others","adults","Most (8-10)",NA,NA,NA,NA,26.9,24.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5
+"ind_91","Mental distress","Ever diagnosed with a mental illness",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_92","Experience of discrimination","Treated unfairly because of a diagnosed mental illness",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_93","Experience of discrimination","Treated unfairly in the workplace because of a diagnosed mental illness",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","Total",NA,NA,NA,NA,NA,20.4,19.7,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","Men",NA,NA,NA,NA,NA,22,21.8,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","Women",NA,NA,NA,NA,NA,18.9,17.7,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","15-24",NA,NA,NA,NA,NA,15,17.7,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","25-44",NA,NA,NA,NA,NA,27.5,24.8,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","45-64",NA,NA,NA,NA,NA,22,24.6,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","65+",NA,NA,NA,NA,NA,10.3,5.2,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","Maori",NA,NA,NA,NA,NA,22.7,16.5,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","Pacific",NA,NA,NA,NA,NA,14.8,16.7,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","Asian",NA,NA,NA,NA,NA,13,12.3,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","European/Other",NA,NA,NA,NA,NA,23,22.2,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","Least (1-3)",NA,NA,NA,NA,NA,21.8,16.7,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","Mid (4-7)",NA,NA,NA,NA,NA,20.5,22.7,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_94","Experience of discrimination","Tell employer if diagnosed with a mental illness","adults","Most (8-10)",NA,NA,NA,NA,NA,18.6,19.4,NA,NA,NA,NA,NA,0.8,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","Total",NA,NA,NA,NA,NA,62.8,61.5,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","Men",NA,NA,NA,NA,NA,58.8,56.7,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","Women",NA,NA,NA,NA,NA,66.6,66.2,NA,NA,NA,NA,NA,0.8,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","15-24",NA,NA,NA,NA,NA,57.4,64.9,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","25-44",NA,NA,NA,NA,NA,67.5,62.7,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","45-64",NA,NA,NA,NA,NA,66.8,64,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","65+",NA,NA,NA,NA,NA,52.7,52.9,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","Maori",NA,NA,NA,NA,NA,70.5,68.1,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","Pacific",NA,NA,NA,NA,NA,40.8,44.5,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","Asian",NA,NA,NA,NA,NA,27.7,32.9,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","European/Other",NA,NA,NA,NA,NA,71.7,69.4,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","Least (1-3)",NA,NA,NA,NA,NA,69.5,63.7,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","Mid (4-7)",NA,NA,NA,NA,NA,61.7,63.3,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_95","Experience of discrimination","Know someone who has experienced a mental illness","adults","Most (8-10)",NA,NA,NA,NA,NA,56.6,56.5,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","Total",NA,NA,NA,NA,NA,73.3,80.9,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","Men",NA,NA,NA,NA,NA,66.5,79.5,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","Women",NA,NA,NA,NA,NA,79.3,82.2,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","15-24",NA,NA,NA,NA,NA,74.5,74.4,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","25-44",NA,NA,NA,NA,NA,76.4,84.3,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","45-64",NA,NA,NA,NA,NA,68.3,84.5,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","65+",NA,NA,NA,NA,NA,73.5,78.6,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","Least (1-3)",NA,NA,NA,NA,NA,64.2,75.6,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","Mid (4-7)",NA,NA,NA,NA,NA,72.7,79.9,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_96","Cultural connectedness","Involvement in Maori culture - at least somewhat important","adult Maori","Most (8-10)",NA,NA,NA,NA,NA,77.9,84.2,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","Total",NA,NA,NA,NA,NA,4.9,4.8,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","Men",NA,NA,NA,NA,NA,3.4,5.2,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","Women",NA,NA,NA,NA,NA,6.2,4.4,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","15-24",NA,NA,NA,NA,NA,3.6,7.8,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","25-44",NA,NA,NA,NA,NA,4.9,3.7,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","45-64",NA,NA,NA,NA,NA,3.4,2.4,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","65+",NA,NA,NA,NA,NA,13.6,6,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","Least (1-3)",NA,NA,NA,NA,NA,1.6,2.3,NA,NA,NA,NA,NA,0.8,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","Mid (4-7)",NA,NA,NA,NA,NA,4.4,2.7,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_97","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – very well","adult Maori","Most (8-10)",NA,NA,NA,NA,NA,6.8,7.1,NA,NA,NA,NA,NA,0.9,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","Total",NA,NA,NA,NA,NA,4.3,5,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","Men",NA,NA,NA,NA,NA,3.1,2.8,NA,NA,NA,NA,NA,0.8,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","Women",NA,NA,NA,NA,NA,5.3,7.1,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","15-24",NA,NA,NA,NA,NA,4.3,7.1,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","25-44",NA,NA,NA,NA,NA,3.8,2.8,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","45-64",NA,NA,NA,NA,NA,4,2.9,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","65+",NA,NA,NA,NA,NA,6.9,11.4,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","Least (1-3)",NA,NA,NA,NA,NA,0.7,0.7,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","Mid (4-7)",NA,NA,NA,NA,NA,3.9,6.1,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_98","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – well","adult Maori","Most (8-10)",NA,NA,NA,NA,NA,6.3,6.1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","Total",NA,NA,NA,NA,NA,16.5,18.6,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","Men",NA,NA,NA,NA,NA,16.8,18.8,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","Women",NA,NA,NA,NA,NA,16.3,18.4,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","15-24",NA,NA,NA,NA,NA,20.1,24.8,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","25-44",NA,NA,NA,NA,NA,15.9,18.4,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","45-64",NA,NA,NA,NA,NA,14.5,18.4,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","65+",NA,NA,NA,NA,NA,14.7,5.3,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","Least (1-3)",NA,NA,NA,NA,NA,11.5,14.4,NA,NA,NA,NA,NA,0.7,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","Mid (4-7)",NA,NA,NA,NA,NA,21.2,15.3,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA
+"ind_99","Te reo Maori","Ability to speak te reo Maori in day-to-day conversation – fairly well","adult Maori","Most (8-10)",NA,NA,NA,NA,NA,14.6,22.6,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA
